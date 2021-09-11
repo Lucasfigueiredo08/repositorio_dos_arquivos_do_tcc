@@ -1,0 +1,1583 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  11 SEP 2021 13:25
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01> (abntex2-cefetmg.cls
+Document Class: abntex2-cefetmg 2014/03/13 v5.3
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2021/06/16 v3.7p configurable book, report, article docu
+ment class
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count182
+\c@@memmarkcntra=\count183
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/memoir\mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count184
+\memPD=\dimen138
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count185
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count193
+\c@@ppsaveapp=\count194
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks16
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen141
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count195
+\c@poemline=\count196
+\c@modulo@vs=\count197
+\c@memfvsline=\count198
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen142
+\c@verse=\count199
+\c@chrsinstr=\count266
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count267
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box50
+\extrarowheight=\dimen144
+\NC@list=\toks17
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box51
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count268
+\TX@ftn=\toks18
+)
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count269
+\@cmidlb=\count270
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count271
+\@lastruleclass=\count272
+\@thisrulewidth=\dimen162
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count273
+\@linestogo=\count274
+\@cellstogo=\count275
+\@cellsincolumn=\count276
+\crtok=\toks19
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count277
+\mem@margin@floatbox=\box52
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count278
+\m@mscap@capbox=\box53
+\m@mscap@fbox=\box54
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7654.
+LaTeX Info: Redefining \emph on input line 7662.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count279
+\bibindent=\dimen175
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks20
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count280
+\m@m@h=\dimen178
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count281
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count282
+\c@pagenoteshadow=\count283
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks21
+\afterevery@verbatim=\toks22
+\verbatim@line=\toks23
+\tab@position=\count284
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count285
+\c@bvlinectr=\count286
+\bvnumlength=\skip184
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+\c@cp@cntr=\count287
+\c@ism@mctr=\count288
+\c@xsm@mctr=\count289
+\c@csm@mctr=\count290
+\c@ksm@mctr=\count291
+\c@xksm@mctr=\count292
+\c@cksm@mctr=\count293
+\c@msm@mctr=\count294
+\c@xmsm@mctr=\count295
+\c@cmsm@mctr=\count296
+\c@bsm@mctr=\count297
+\c@workm@mctr=\count298
+\c@sheetsequence=\count299
+\c@lastsheet=\count300
+\c@lastpage=\count301
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count302
+\c@lofdepth=\count303
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count304
+\c@lotdepth=\count305
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-05 v7.00l Hypertext links for LaTeX
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
+y
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen183
+\Hy@linkcounter=\count306
+\Hy@pagecounter=\count307
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-05 v7.00l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-05 v7.00l Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count308
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-05 v7.00l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count309
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen184
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count310
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count311
+\c@Item=\count312
+\c@Hfootnote=\count313
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/memoir\memhfixc.sty
+Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count314
+\c@Hpagenote=\count315
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-05 v7.00l Hyperref driver for pdfTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count316
+\c@bookmark@seq@number=\count317
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.
+sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.
+sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip191
+) (C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count318
+))
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/06/02 3.60 The Babel package
+
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/06/02 3.60 Babel common definitions
+\babel@savecnt=\count319
+\U@D=\dimen187
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count320
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/babel-portuges\brazil.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
+(babel)             (\language56). Reported on input line 111.
+Package babel Info: Making " an active character on input line 143.
+))
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip192
+\enit@outerparindent=\dimen188
+\enit@toks=\toks25
+\enit@inbox=\box55
+\enit@count@id=\count321
+\enitdp@description=\count322
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count323
+\calc@Bcount=\count324
+\calc@Adimen=\dimen189
+\calc@Bdimen=\dimen190
+\calc@Askip=\skip193
+\calc@Bskip=\skip194
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count325
+\calc@Cskip=\skip195
+)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 42pt
+Sidebarhsep and sidebarwidth: 7pt and 42pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 42pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+\c@abntex@bookmarkcounter=\count326
+\cftlastnumwidth=\skip196
+\chapternamenumlength=\skip197
+\ABNTEXcitacaorecuo=\skip198
+\c@alineasi=\count327
+\c@alineasii=\count328
+\enitdp@alineas=\count329
+\c@subalineasi=\count330
+\enitdp@subalineas=\count331
+\c@incisosi=\count332
+\enitdp@incisos=\count333
+\ABNTEXsignwidth=\skip199
+\ABNTEXsignthickness=\skip256
+\ABNTEXsignskip=\skip257
+)
+\c@quadro=\count334
+\c@loqdepth=\count335
+\cftbeforequadroskip=\skip258
+\cftquadroindent=\skip259
+\cftquadronumwidth=\skip260
+) (C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count336
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count337
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count338
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen191
+)
+\c@padzeroesN=\count339
+\fc@tmpcatcode=\count340
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/fmtcount\fc-portuges.def
+File: fc-portuges.def 2017/12/26
+)
+\@DT@modctr=\count341
+\@ordinalctr=\count342
+\@orgargctr=\count343
+\@strctr=\count344
+\@tmpstrctr=\count345
+\@DT@loopN=\count346
+\@DT@X=\count347
+
+
+Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
+nput line 466.
+
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/datetime\datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count348
+\@month=\count349
+\@year=\count350
+\c@HOUR=\count351
+\c@HOURXII=\count352
+\c@MINUTE=\count353
+\c@TOHOUR=\count354
+\c@TOMINUTE=\count355
+\c@SECOND=\count356
+\currenthour=\count357
+\currentminute=\count358
+\currentsecond=\count359
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count360
+\dayofyear=\count361
+\dayofweek=\count362
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks29
+\dt@b=\toks30
+) (C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/abntex2\abntex2cite.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/abntex2\abntex2abrev.sty)
+\minimumbiblabelwidth=\skip261
+\ABCIauxlen=\skip262
+\c@ABCIaux=\count363
+\c@ABCImax=\count364
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip263
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks31
+)
+\c@marginalnote=\count365
+
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks32
+\inpenc@posthook=\toks33
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen192
+\Gin@req@width=\dimen193
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip264
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen194
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count366
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count367
+\leftroot@=\count368
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count369
+\DOTSCASE@=\count370
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen195
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count371
+\c@MaxMatrixCols=\count372
+\dotsspace@=\muskip17
+\c@parentequation=\count373
+\dspbrk@lvl=\count374
+\tag@help=\toks34
+\row@=\count375
+\column@=\count376
+\maxfields@=\count377
+\andhelp@=\toks35
+\eqnshift@=\dimen196
+\alignsep@=\dimen197
+\tagshift@=\dimen198
+\tagwidth@=\dimen199
+\totwidth@=\dimen256
+\lineht@=\dimen257
+\@envbody=\toks36
+\multlinegap=\skip265
+\multlinetaggap=\skip266
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip267
+\multirow@cntb=\count378
+\multirow@dima=\skip268
+\bigstrutjot=\dimen258
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks38
+\MT@count=\count379
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen259
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count380
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip269
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+))
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/psnfss\palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/algorithm2e\algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count381
+\algocf@hangindent=\skip270
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count382
+LaTeX Info: Redefining \checkoddpage on input line 45.
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\skiptotal=\skip271
+\skiplinenumber=\skip272
+\skiprule=\skip273
+\skiphlne=\skip274
+\skiptext=\skip275
+\skiplength=\skip276
+\algomargin=\skip277
+\skipalgocfslide=\skip278
+\algowidth=\dimen260
+\inoutsize=\dimen261
+\inoutindent=\dimen262
+\interspacetitleruled=\dimen263
+\interspacealgoruled=\dimen264
+\interspacetitleboxruled=\dimen265
+\algocf@ruledwidth=\skip279
+\algocf@inoutbox=\box58
+\algocf@inputbox=\box59
+\AlCapSkip=\skip280
+\AlCapHSkip=\skip281
+\algoskipindent=\skip282
+\algocf@nlbox=\box60
+\algocf@hangingbox=\box61
+\algocf@untilbox=\box62
+\algocf@skipuntil=\skip283
+\algocf@capbox=\box63
+\algocf@lcaptionbox=\skip284
+\algoheightruledefault=\skip285
+\algoheightrule=\skip286
+\algotitleheightruledefault=\skip287
+\algotitleheightrule=\skip288
+\c@algocfline=\count383
+\c@algocfproc=\count384
+\c@algocf=\count385
+\algocf@algoframe=\box64
+\algocf@algobox=\box65
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count386
+\float@exts=\toks39
+\float@box=\box66
+\@float@everytoks=\toks40
+\@floatcapt=\box67
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen266
+\captionmargin@=\dimen267
+\captionwidth=\dimen268
+\caption@tempdima=\dimen269
+\caption@indent=\dimen270
+\caption@parindent=\dimen271
+\caption@hangindent=\dimen272
+Package caption Info: memoir document class detected.
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/caption\caption-memoir.sto
+File: caption-memoir.sto 2020/10/10 v2.1 Adaption of the caption package to the
+ memoir document class (AR)
+))
+\c@caption@flags=\count387
+\c@continuedfloat=\count388
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen273
+\caption@adjustwidth@linewidth=\dimen274
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+\c@KVtest=\count389
+\sf@farskip=\skip289
+\sf@captopadj=\dimen275
+\sf@capskip=\skip290
+\sf@nearskip=\skip291
+\c@subfigure=\count390
+\c@subfigure@save=\count391
+\c@subtable=\count392
+\c@subtable@save=\count393
+\sf@top=\skip292
+\sf@bottom=\skip293
+) (C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count394
+\rotFPtop=\skip294
+\rotFPbot=\skip295
+\rot@float@box=\box68
+\rot@mess@toks=\toks41
+)
+(C:\Program Files\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks42
+\minrowclearance=\skip296
+)
+\rownum=\count395
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+\@input{./01-elementos-pre-textuais/preambulo.aux}
+\openout2 = `./01-elementos-pre-textuais/preambulo.aux'.
+
+(01-elementos-pre-textuais/preambulo.tex)
+Package hyperref Info: Option `colorlinks' set `true' on input line 102.
+Package hyperref Info: Option `breaklinks' set `true' on input line 102.
+\main@idxfile=\write4
+\openout4 = `main.idx'.
+
+
+Writing index file main.idx 
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 11
+3.
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count396
+\l__pdf_internal_box=\box69
+) (main.aux
+(01-elementos-pre-textuais/capa.aux) (01-elementos-pre-textuais/folhaRosto.aux)
+(01-elementos-pre-textuais/listaFiguras.aux)
+(01-elementos-pre-textuais/listaTabelas.aux)
+(01-elementos-pre-textuais/listaQuadros.aux)
+(01-elementos-pre-textuais/listaSiglas.aux)
+(01-elementos-pre-textuais/sumario.aux) (02-elementos-textuais/1-introducao.aux
+) (02-elementos-textuais/2-metodologia.aux)
+(02-elementos-textuais/3-referencial-teorico.aux)
+(02-elementos-textuais/4-solucoesexistentes.aux)
+(02-elementos-textuais/5-proposta.aux) (02-elementos-textuais/6-cronograma.aux)
+(03-elementos-pos-textuais/referencias.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+Package hyperref Info: Link coloring ON on input line 113.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestrin
+g.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count397
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 113.
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
+\myptabbox=\box70
+\myptabboxwidth=\skip297
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count398
+\scratchdimen=\dimen276
+\scratchbox=\box71
+\nofMPsegments=\count399
+\nofMParguments=\count400
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count401
+\MPscratchDim=\dimen277
+\MPnumerator=\count402
+\makeMPintoPDFobject=\count403
+\everyMPtoPDFconversion=\toks44
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \microtypecontext on input line 113.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 113.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\openout2 = `./01-elementos-pre-textuais/capa.aux'.
+
+
+(01-elementos-pre-textuais/capa.tex
+<./04-figuras/unifap.jpg, id=3, 176.15813pt x 225.84375pt>
+File: ./04-figuras/unifap.jpg Graphic file (type jpg)
+<use ./04-figuras/unifap.jpg>
+Package pdftex.def Info: ./04-figuras/unifap.jpg  used on input line 11.
+(pdftex.def)             Requested size: 56.9055pt x 72.9538pt.
+
+Overfull \hbox (11.40273pt too wide) in paragraph at lines 11--12
+[][] 
+ []
+
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
+.
+
+(C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+<./04-figuras/bccunifap.png, id=4, 376.40625pt x 376.40625pt>
+File: ./04-figuras/bccunifap.png Graphic file (type png)
+<use ./04-figuras/bccunifap.png>
+Package pdftex.def Info: ./04-figuras/bccunifap.png  used on input line 28.
+(pdftex.def)             Requested size: 85.35826pt x 85.35973pt.
+
+Overfull \hbox (44.40993pt too wide) in paragraph at lines 28--29
+[][] 
+ []
+
+[1{C:/Users/Lucas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+
+
+
+ <./04-figuras/unifap.jpg> <./04-figuras/bccunifap.png>])
+\openout2 = `./01-elementos-pre-textuais/folhaRosto.aux'.
+
+
+(01-elementos-pre-textuais/folhaRosto.tex
+Underfull \hbox (badness 2269) in paragraph at lines 38--38
+[]|\T1/ppl/m/n/10.95 (+20) Área de con-cen-tra-ção: Ba-cha-re-lado em Ci-ên-cia
+ da
+ []
+
+
+Overfull \hbox (10.93839pt too wide) in paragraph at lines 38--39
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \end{folhaderosto}
+                        [1
+
+
+
+
+
+
+])
+\openout2 = `./01-elementos-pre-textuais/listaFiguras.aux'.
+
+ (01-elementos-pre-textuais/listaFiguras.tex
+(main.lof) [2
+
+
+
+
+])
+\openout2 = `./01-elementos-pre-textuais/listaTabelas.aux'.
+
+ (01-elementos-pre-textuais/listaTabelas.tex (main.lot) [3
+
+
+
+
+])
+\openout2 = `./01-elementos-pre-textuais/listaQuadros.aux'.
+
+
+(01-elementos-pre-textuais/listaQuadros.tex (main.loq) [4
+
+
+
+
+])
+\openout2 = `./01-elementos-pre-textuais/listaSiglas.aux'.
+
+
+(01-elementos-pre-textuais/listaSiglas.tex [5
+
+
+
+
+
+])
+\openout2 = `./01-elementos-pre-textuais/sumario.aux'.
+
+
+(01-elementos-pre-textuais/sumario.tex (main.toc [6
+
+
+
+
+]) [7])
+\openout2 = `./02-elementos-textuais/1-introducao.aux'.
+
+
+(02-elementos-textuais/1-introducao.tex [1
+
+
+
+
+
+] [2]) [3]
+\openout2 = `./02-elementos-textuais/2-metodologia.aux'.
+
+
+(02-elementos-textuais/2-metodologia.tex
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 55.
+
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 69.
+
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 88.
+
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 93.
+
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 9
+8.
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+) [4
+
+
+
+
+])
+[5]
+\openout2 = `./02-elementos-textuais/3-referencial-teorico.aux'.
+
+ (02-elementos-textuais/3-referencial-teorico.tex [6
+
+
+
+
+]
+Overfull \hbox (37.43936pt too wide) in paragraph at lines 68--95
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7] [8] [9]
+<./04-figuras/alghamdi-edited.jpg, id=345, 1315.91624pt x 1284.8pt>
+File: ./04-figuras/alghamdi-edited.jpg Graphic file (type jpg)
+<use ./04-figuras/alghamdi-edited.jpg>
+Package pdftex.def Info: ./04-figuras/alghamdi-edited.jpg  used on input line 1
+31.
+(pdftex.def)             Requested size: 227.62204pt x 222.23598pt.
+ [10 <./04-figuras/alghamdi-edited.jpg>] [11]) [12]
+\openout2 = `./02-elementos-textuais/4-solucoesexistentes.aux'.
+
+
+(02-elementos-textuais/4-solucoesexistentes.tex [13
+
+
+
+
+]
+
+LaTeX Warning: File `./04-figuras/cittamob/cittamobi.png' not found on input li
+ne 56.
+
+
+! Package pdftex.def Error: File `./04-figuras/cittamob/cittamobi.png' not foun
+d: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...idth]{./04-figuras/cittamob/cittamobi.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 56
+.
+(C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [14] [15]
+[16]
+<./04-figuras/vemcar.jpg, id=415, 513.92pt x 343.2825pt>
+File: ./04-figuras/vemcar.jpg Graphic file (type jpg)
+<use ./04-figuras/vemcar.jpg>
+Package pdftex.def Info: ./04-figuras/vemcar.jpg  used on input line 124.
+(pdftex.def)             Requested size: 227.5pt x 151.96141pt.
+ [17 <./04-figuras/vemcar.jpg>]
+<./04-figuras/caronae.png, id=422, 1214.5375pt x 569.12625pt>
+File: ./04-figuras/caronae.png Graphic file (type png)
+<use ./04-figuras/caronae.png>
+Package pdftex.def Info: ./04-figuras/caronae.png  used on input line 141.
+(pdftex.def)             Requested size: 364.00139pt x 170.5655pt.
+<./04-figuras/waze/Tela_de_grupos.png, id=424, 229.45724pt x 410.7345pt>
+File: ./04-figuras/waze/Tela_de_grupos.png Graphic file (type png)
+<use ./04-figuras/waze/Tela_de_grupos.png>
+Package pdftex.def Info: ./04-figuras/waze/Tela_de_grupos.png  used on input li
+ne 155.
+(pdftex.def)             Requested size: 113.75pt x 203.61816pt.
+ [18 <./04-figuras/caronae.png>] [19 <./04-figuras/waze/Tela_de_grupos.png>]
+<./04-figuras/yellow/yellow.png, id=435, 523.9575pt x 362.5545pt>
+File: ./04-figuras/yellow/yellow.png Graphic file (type png)
+<use ./04-figuras/yellow/yellow.png>
+Package pdftex.def Info: ./04-figuras/yellow/yellow.png  used on input line 188
+.
+(pdftex.def)             Requested size: 273.00278pt x 188.91113pt.
+ [20 <./04-figuras/yellow/yellow.png>]
+<./04-figuras/zipcar/zipcar.jpg, id=453, 1284.8pt x 722.7pt>
+File: ./04-figuras/zipcar/zipcar.jpg Graphic file (type jpg)
+<use ./04-figuras/zipcar/zipcar.jpg>
+Package pdftex.def Info: ./04-figuras/zipcar/zipcar.jpg  used on input line 209
+.
+(pdftex.def)             Requested size: 364.00139pt x 204.74757pt.
+ [21 <./04-figuras/zipcar/zipcar.jpg>] [22]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 230.
+
+[23])
+\openout2 = `./02-elementos-textuais/5-proposta.aux'.
+
+ (02-elementos-textuais/5-proposta.tex
+<./04-figuras/questionario/1.png, id=470, 1606.0pt x 763.85374pt>
+File: ./04-figuras/questionario/1.png Graphic file (type png)
+<use ./04-figuras/questionario/1.png>
+Package pdftex.def Info: ./04-figuras/questionario/1.png  used on input line 49
+.
+(pdftex.def)             Requested size: 364.00139pt x 173.13011pt.
+<./04-figuras/questionario/2.png, id=472, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/2.png Graphic file (type png)
+<use ./04-figuras/questionario/2.png>
+Package pdftex.def Info: ./04-figuras/questionario/2.png  used on input line 65
+.
+(pdftex.def)             Requested size: 364.00139pt x 153.10982pt.
+ [24
+
+
+
+
+
+
+ <./04-figuras/questionario/1.png>]
+<./04-figuras/questionario/3.png, id=479, 513.92pt x 215.80624pt>
+File: ./04-figuras/questionario/3.png Graphic file (type png)
+<use ./04-figuras/questionario/3.png>
+Package pdftex.def Info: ./04-figuras/questionario/3.png  used on input line 75
+.
+(pdftex.def)             Requested size: 318.49861pt x 133.74579pt.
+<./04-figuras/questionario/4.png, id=480, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/4.png Graphic file (type png)
+<use ./04-figuras/questionario/4.png>
+Package pdftex.def Info: ./04-figuras/questionario/4.png  used on input line 83
+.
+(pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
+ [25 <./04-figuras/questionario/2.png> <./04-figuras/questionario/3.png> <./04-
+figuras/questionario/4.png>]
+<./04-figuras/questionario/5.png, id=486, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/5.png Graphic file (type png)
+<use ./04-figuras/questionario/5.png>
+Package pdftex.def Info: ./04-figuras/questionario/5.png  used on input line 97
+.
+(pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
+<./04-figuras/questionario/6.png, id=488, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/6.png Graphic file (type png)
+<use ./04-figuras/questionario/6.png>
+Package pdftex.def Info: ./04-figuras/questionario/6.png  used on input line 11
+1.
+(pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
+ [26 <./04-figuras/questionario/5.png>]
+<./04-figuras/questionario/7.png, id=495, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/7.png Graphic file (type png)
+<use ./04-figuras/questionario/7.png>
+Package pdftex.def Info: ./04-figuras/questionario/7.png  used on input line 12
+1.
+(pdftex.def)             Requested size: 273.00278pt x 114.82721pt.
+<./04-figuras/questionario/9.png, id=496, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/9.png Graphic file (type png)
+<use ./04-figuras/questionario/9.png>
+Package pdftex.def Info: ./04-figuras/questionario/9.png  used on input line 14
+0.
+(pdftex.def)             Requested size: 273.00278pt x 114.82721pt.
+ [27 <./04-figuras/questionario/6.png> <./04-figuras/questionario/7.png> <./04-
+figuras/questionario/9.png>]
+<./04-figuras/questionario/11.png, id=502, 513.92pt x 244.915pt>
+File: ./04-figuras/questionario/11.png Graphic file (type png)
+<use ./04-figuras/questionario/11.png>
+Package pdftex.def Info: ./04-figuras/questionario/11.png  used on input line 1
+64.
+(pdftex.def)             Requested size: 273.00278pt x 130.10329pt.
+<./04-figuras/questionario/12.png, id=504, 1606.0pt x 763.85374pt>
+File: ./04-figuras/questionario/12.png Graphic file (type png)
+<use ./04-figuras/questionario/12.png>
+Package pdftex.def Info: ./04-figuras/questionario/12.png  used on input line 1
+75.
+(pdftex.def)             Requested size: 273.00278pt x 129.84175pt.
+<./04-figuras/questionario/13.png, id=507, 513.92pt x 215.80624pt>
+File: ./04-figuras/questionario/13.png Graphic file (type png)
+<use ./04-figuras/questionario/13.png>
+Package pdftex.def Info: ./04-figuras/questionario/13.png  used on input line 1
+85.
+(pdftex.def)             Requested size: 318.49861pt x 133.74579pt.
+<./04-figuras/questionario/14.png, id=508, 513.92pt x 215.80624pt>
+File: ./04-figuras/questionario/14.png Graphic file (type png)
+<use ./04-figuras/questionario/14.png>
+Package pdftex.def Info: ./04-figuras/questionario/14.png  used on input line 1
+93.
+(pdftex.def)             Requested size: 318.49861pt x 133.74579pt.
+<./04-figuras/questionario/15.png, id=510, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/15.png Graphic file (type png)
+<use ./04-figuras/questionario/15.png>
+Package pdftex.def Info: ./04-figuras/questionario/15.png  used on input line 2
+04.
+(pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
+ [28 <./04-figuras/questionario/11.png> <./04-figuras/questionario/12.png>] [29
+ <./04-figuras/questionario/13.png> <./04-figuras/questionario/14.png> <./04-fi
+guras/questionario/15.png>]
+<./04-figuras/questionario/16.png, id=521, 1606.0pt x 763.85374pt>
+File: ./04-figuras/questionario/16.png Graphic file (type png)
+<use ./04-figuras/questionario/16.png>
+Package pdftex.def Info: ./04-figuras/questionario/16.png  used on input line 2
+14.
+(pdftex.def)             Requested size: 318.49861pt x 151.48593pt.
+<./04-figuras/questionario/17.png, id=523, 1606.0pt x 675.52374pt>
+File: ./04-figuras/questionario/17.png Graphic file (type png)
+<use ./04-figuras/questionario/17.png>
+Package pdftex.def Info: ./04-figuras/questionario/17.png  used on input line 2
+24.
+(pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
+ [30 <./04-figuras/questionario/16.png> <./04-figuras/questionario/17.png>] [31
+] [32]
+
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 440.
+
+[33] [34] [35]
+<./04-figuras/caronae/criacao_da_carona_carona_ufrj.png, id=552, 284.262pt x 46
+0.72125pt>
+File: ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png Graphic file (type
+ png)
+<use ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png>
+Package pdftex.def Info: ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png
+  used on input line 492.
+(pdftex.def)             Requested size: 131.94695pt x 213.86057pt.
+<./04-figuras/caronae/tela_solicitacao_de_carona_2.png, id=554, 172.2435pt x 29
+0.2845pt>
+File: ./04-figuras/caronae/tela_solicitacao_de_carona_2.png Graphic file (type 
+png)
+<use ./04-figuras/caronae/tela_solicitacao_de_carona_2.png>
+Package pdftex.def Info: ./04-figuras/caronae/tela_solicitacao_de_carona_2.png 
+ used on input line 504.
+(pdftex.def)             Requested size: 131.94695pt x 222.3814pt.
+<./04-figuras/caronae-img-artigo.png, id=556, 504.6855pt x 349.90726pt>
+File: ./04-figuras/caronae-img-artigo.png Graphic file (type png)
+<use ./04-figuras/caronae-img-artigo.png>
+Package pdftex.def Info: ./04-figuras/caronae-img-artigo.png  used on input lin
+e 514.
+(pdftex.def)             Requested size: 227.5pt x 157.7291pt.
+ [36 <./04-figuras/caronae/criacao_da_carona_carona_ufrj.png>]
+[37 <./04-figuras/caronae/tela_solicitacao_de_carona_2.png> <./04-figuras/caron
+ae-img-artigo.png>]
+<./04-figuras/caronae/diagrama_bizagi.jpg, id=579, 597.9138pt x 632.6034pt>
+File: ./04-figuras/caronae/diagrama_bizagi.jpg Graphic file (type jpg)
+<use ./04-figuras/caronae/diagrama_bizagi.jpg>
+Package pdftex.def Info: ./04-figuras/caronae/diagrama_bizagi.jpg  used on inpu
+t line 546.
+(pdftex.def)             Requested size: 273.00278pt x 288.83888pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+ [][] [][][]\T1/ppl/m/n/10 (+20) https://macapa.ap.gov.br/portal/wp-content/upl
+oads/2020/11/DIVISAO-POR-
+ []
+
+[38]
+<./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png, id=589, 
+174.6525pt x 263.18324pt>
+File: ./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png Grap
+hic file (type png)
+<use ./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png>
+Package pdftex.def Info: ./04-figuras/caronae/tela_criacao_da_carona_de_chegada
+_na_unifap.png  used on input line 566.
+(pdftex.def)             Requested size: 77.34917pt x 116.55595pt.
+ [39 <./04-figuras/caronae/diagrama_bizagi.jpg> <./04-figuras/caronae/tela_cria
+cao_da_carona_de_chegada_na_unifap.png>]
+<./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png, id=597, 1
+72.84575pt x 262.581pt>
+File: ./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png Graph
+ic file (type png)
+<use ./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png>
+Package pdftex.def Info: ./04-figuras/caronae/tela_criacao_da_carona_de_saida_d
+a_unifapp.png  used on input line 576.
+(pdftex.def)             Requested size: 113.75pt x 172.80315pt.
+<./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png, id=599, 1125.
+003pt x 539.01375pt>
+File: ./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png Graphic f
+ile (type png)
+<use ./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png>
+Package pdftex.def Info: ./04-figuras/caronae/tela_usuarios_do_painel_administr
+ativo.png  used on input line 586.
+(pdftex.def)             Requested size: 409.49722pt x 196.19144pt.
+ [40 <./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png>]) [4
+1 <./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png>]
+\openout2 = `./02-elementos-textuais/6-cronograma.aux'.
+
+ (02-elementos-textuais/6-cronograma.tex
+[42
+
+
+
+
+] [43
+
+])
+\openout2 = `./03-elementos-pos-textuais/referencias.aux'.
+
+ (03-elementos-pos-textuais/referencias.tex (main.bbl
+bibitemlist
+[44
+
+
+
+
+
+]
+Underfull \hbox (badness 1107) in paragraph at lines 133--138
+\T1/ppl/m/n/12 (+20) 2020. Dis-po-ní-vel em: [][]$<[]https : / / www . even3 . 
+com . br / anais / congressomcp300anos /
+ []
+
+
+Overfull \hbox (1.10391pt too wide) in paragraph at lines 133--138
+\T1/ppl/m/n/12 (-20) 272667-[]aspectos-[]tecnologicos-[]e-[]estruturais-[]para-
+[]a-[]construcao-[]de-[]cidades-[]inteligentes>[]$[][]. 
+ []
+
+[45])) [46]
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+\tf@loq=\write7
+\openout7 = `main.loq'.
+
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+ (main.aux (01-elementos-pre-textuais/capa.aux)
+(01-elementos-pre-textuais/folhaRosto.aux)
+(01-elementos-pre-textuais/listaFiguras.aux)
+(01-elementos-pre-textuais/listaTabelas.aux)
+(01-elementos-pre-textuais/listaQuadros.aux)
+(01-elementos-pre-textuais/listaSiglas.aux)
+(01-elementos-pre-textuais/sumario.aux) (02-elementos-textuais/1-introducao.aux
+) (02-elementos-textuais/2-metodologia.aux)
+(02-elementos-textuais/3-referencial-teorico.aux)
+(02-elementos-textuais/4-solucoesexistentes.aux)
+(02-elementos-textuais/5-proposta.aux) (02-elementos-textuais/6-cronograma.aux)
+(03-elementos-pos-textuais/referencias.aux)) ) 
+Here is how much of TeX's memory you used:
+ 22263 strings out of 478864
+ 347078 string characters out of 2858518
+ 810149 words of memory out of 3000000
+ 39109 multiletter control sequences out of 15000+600000
+ 454594 words of font info for 314 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 89i,17n,133p,1270b,595s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Program Files/MiKTeX/fonts/en
+c/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb
+><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files
+/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type
+1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (54 pages, 3637993 bytes).
+PDF statistics:
+ 894 PDF objects out of 1000 (max. 8388607)
+ 209 named destinations out of 1000 (max. 500000)
+ 75823 words of extra memory for PDF output out of 89155 (max. 10000000)
+

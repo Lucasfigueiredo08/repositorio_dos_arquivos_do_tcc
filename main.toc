@@ -1,0 +1,47 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}
+\contentsline {chapter}{\chapternumberline {1}Introdução}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Problema}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Justificativa}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objetivos}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo Geral}{3}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Específicos}{3}{subsection.1.3.2}%
+\contentsline {chapter}{\chapternumberline {2}Metodologia}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Etapas concluídas}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Etapas pendentes}{5}{section.2.2}%
+\contentsline {chapter}{\chapternumberline {3}Referencial Teórico}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Computação em Nuvem}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Cidades Inteligentes}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Campus Inteligente}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Mobilidade Inteligente}{11}{section.3.4}%
+\contentsline {section}{\numberline {3.5}MaaS}{11}{section.3.5}%
+\contentsline {chapter}{\chapternumberline {4}Soluções de Mobilidade Inteligente Existentes}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Orientações de mobilidade}{14}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Waze}{14}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Cittamobi}{14}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Transporte Individual Privado de Passageiros por Aplicativo}{14}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Uber}{15}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Cabify}{16}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Viagens Compartilhadas por Aplicativos}{16}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}BlaBlaCar}{16}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Bynd}{16}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Vemcar}{17}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Caronaê}{17}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Waze Carpool}{18}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Veículos Compartilhados}{19}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Yellow}{19}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}ZipCar}{20}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Quadro Comparativo entre as soluções}{21}{section.4.5}%
+\contentsline {chapter}{\chapternumberline {5}Proposta e Resultados Preliminares}{24}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Perfil da comunidade acadêmica e os problema enfrentados}{24}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Definições dos Requisitos}{30}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Requisitos Funcionais}{31}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Requisitos Não Funcionais}{33}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Estudo sobre Soluções de Mobilidade Inteligente}{33}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Waze Carpool x Caronaê}{34}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}Proposta de Solução de Mobilidade para Unifap}{35}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Características do Caronaê-UFRJ}{35}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Características do Caronaê para UNIFAP}{39}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Dificuldades Enfrentadas}{41}{subsection.5.4.3}%
+\contentsline {chapter}{\chapternumberline {6}Cronograma}{42}{chapter.6}%
+\contentsline {chapter}{Refer\^encias}{44}{chapter*.41}%
