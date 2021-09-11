@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  11 SEP 2021 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  11 SEP 2021 15:11
 entering extended mode
 **./main.tex
 (main.tex
@@ -1242,7 +1242,7 @@ Overfull \hbox (37.43936pt too wide) in paragraph at lines 68--95
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7] [8] [9]
-<./04-figuras/alghamdi-edited.jpg, id=345, 1315.91624pt x 1284.8pt>
+<./04-figuras/alghamdi-edited.jpg, id=340, 1315.91624pt x 1284.8pt>
 File: ./04-figuras/alghamdi-edited.jpg Graphic file (type jpg)
 <use ./04-figuras/alghamdi-edited.jpg>
 Package pdftex.def Info: ./04-figuras/alghamdi-edited.jpg  used on input line 1
@@ -1286,32 +1286,32 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
  [14] [15]
 [16]
-<./04-figuras/vemcar.jpg, id=415, 513.92pt x 343.2825pt>
+<./04-figuras/vemcar.jpg, id=410, 513.92pt x 343.2825pt>
 File: ./04-figuras/vemcar.jpg Graphic file (type jpg)
 <use ./04-figuras/vemcar.jpg>
 Package pdftex.def Info: ./04-figuras/vemcar.jpg  used on input line 124.
 (pdftex.def)             Requested size: 227.5pt x 151.96141pt.
  [17 <./04-figuras/vemcar.jpg>]
-<./04-figuras/caronae.png, id=422, 1214.5375pt x 569.12625pt>
+<./04-figuras/caronae.png, id=417, 1214.5375pt x 569.12625pt>
 File: ./04-figuras/caronae.png Graphic file (type png)
 <use ./04-figuras/caronae.png>
 Package pdftex.def Info: ./04-figuras/caronae.png  used on input line 141.
 (pdftex.def)             Requested size: 364.00139pt x 170.5655pt.
-<./04-figuras/waze/Tela_de_grupos.png, id=424, 229.45724pt x 410.7345pt>
+<./04-figuras/waze/Tela_de_grupos.png, id=419, 229.45724pt x 410.7345pt>
 File: ./04-figuras/waze/Tela_de_grupos.png Graphic file (type png)
 <use ./04-figuras/waze/Tela_de_grupos.png>
 Package pdftex.def Info: ./04-figuras/waze/Tela_de_grupos.png  used on input li
 ne 155.
 (pdftex.def)             Requested size: 113.75pt x 203.61816pt.
  [18 <./04-figuras/caronae.png>] [19 <./04-figuras/waze/Tela_de_grupos.png>]
-<./04-figuras/yellow/yellow.png, id=435, 523.9575pt x 362.5545pt>
+<./04-figuras/yellow/yellow.png, id=430, 523.9575pt x 362.5545pt>
 File: ./04-figuras/yellow/yellow.png Graphic file (type png)
 <use ./04-figuras/yellow/yellow.png>
 Package pdftex.def Info: ./04-figuras/yellow/yellow.png  used on input line 188
 .
 (pdftex.def)             Requested size: 273.00278pt x 188.91113pt.
  [20 <./04-figuras/yellow/yellow.png>]
-<./04-figuras/zipcar/zipcar.jpg, id=453, 1284.8pt x 722.7pt>
+<./04-figuras/zipcar/zipcar.jpg, id=448, 1284.8pt x 722.7pt>
 File: ./04-figuras/zipcar/zipcar.jpg Graphic file (type jpg)
 <use ./04-figuras/zipcar/zipcar.jpg>
 Package pdftex.def Info: ./04-figuras/zipcar/zipcar.jpg  used on input line 209
@@ -1326,13 +1326,13 @@ LaTeX Warning: No positions in optional float specifier.
 \openout2 = `./02-elementos-textuais/5-proposta.aux'.
 
  (02-elementos-textuais/5-proposta.tex
-<./04-figuras/questionario/1.png, id=470, 1606.0pt x 763.85374pt>
+<./04-figuras/questionario/1.png, id=465, 1606.0pt x 763.85374pt>
 File: ./04-figuras/questionario/1.png Graphic file (type png)
 <use ./04-figuras/questionario/1.png>
 Package pdftex.def Info: ./04-figuras/questionario/1.png  used on input line 49
 .
 (pdftex.def)             Requested size: 364.00139pt x 173.13011pt.
-<./04-figuras/questionario/2.png, id=472, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/2.png, id=467, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/2.png Graphic file (type png)
 <use ./04-figuras/questionario/2.png>
 Package pdftex.def Info: ./04-figuras/questionario/2.png  used on input line 65
@@ -1346,13 +1346,13 @@ Package pdftex.def Info: ./04-figuras/questionario/2.png  used on input line 65
 
 
  <./04-figuras/questionario/1.png>]
-<./04-figuras/questionario/3.png, id=479, 513.92pt x 215.80624pt>
+<./04-figuras/questionario/3.png, id=474, 513.92pt x 215.80624pt>
 File: ./04-figuras/questionario/3.png Graphic file (type png)
 <use ./04-figuras/questionario/3.png>
 Package pdftex.def Info: ./04-figuras/questionario/3.png  used on input line 75
 .
 (pdftex.def)             Requested size: 318.49861pt x 133.74579pt.
-<./04-figuras/questionario/4.png, id=480, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/4.png, id=475, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/4.png Graphic file (type png)
 <use ./04-figuras/questionario/4.png>
 Package pdftex.def Info: ./04-figuras/questionario/4.png  used on input line 83
@@ -1360,26 +1360,26 @@ Package pdftex.def Info: ./04-figuras/questionario/4.png  used on input line 83
 (pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
  [25 <./04-figuras/questionario/2.png> <./04-figuras/questionario/3.png> <./04-
 figuras/questionario/4.png>]
-<./04-figuras/questionario/5.png, id=486, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/5.png, id=481, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/5.png Graphic file (type png)
 <use ./04-figuras/questionario/5.png>
 Package pdftex.def Info: ./04-figuras/questionario/5.png  used on input line 97
 .
 (pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
-<./04-figuras/questionario/6.png, id=488, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/6.png, id=483, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/6.png Graphic file (type png)
 <use ./04-figuras/questionario/6.png>
 Package pdftex.def Info: ./04-figuras/questionario/6.png  used on input line 11
 1.
 (pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
  [26 <./04-figuras/questionario/5.png>]
-<./04-figuras/questionario/7.png, id=495, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/7.png, id=490, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/7.png Graphic file (type png)
 <use ./04-figuras/questionario/7.png>
 Package pdftex.def Info: ./04-figuras/questionario/7.png  used on input line 12
 1.
 (pdftex.def)             Requested size: 273.00278pt x 114.82721pt.
-<./04-figuras/questionario/9.png, id=496, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/9.png, id=491, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/9.png Graphic file (type png)
 <use ./04-figuras/questionario/9.png>
 Package pdftex.def Info: ./04-figuras/questionario/9.png  used on input line 14
@@ -1387,31 +1387,31 @@ Package pdftex.def Info: ./04-figuras/questionario/9.png  used on input line 14
 (pdftex.def)             Requested size: 273.00278pt x 114.82721pt.
  [27 <./04-figuras/questionario/6.png> <./04-figuras/questionario/7.png> <./04-
 figuras/questionario/9.png>]
-<./04-figuras/questionario/11.png, id=502, 513.92pt x 244.915pt>
+<./04-figuras/questionario/11.png, id=497, 513.92pt x 244.915pt>
 File: ./04-figuras/questionario/11.png Graphic file (type png)
 <use ./04-figuras/questionario/11.png>
 Package pdftex.def Info: ./04-figuras/questionario/11.png  used on input line 1
 64.
 (pdftex.def)             Requested size: 273.00278pt x 130.10329pt.
-<./04-figuras/questionario/12.png, id=504, 1606.0pt x 763.85374pt>
+<./04-figuras/questionario/12.png, id=499, 1606.0pt x 763.85374pt>
 File: ./04-figuras/questionario/12.png Graphic file (type png)
 <use ./04-figuras/questionario/12.png>
 Package pdftex.def Info: ./04-figuras/questionario/12.png  used on input line 1
 75.
 (pdftex.def)             Requested size: 273.00278pt x 129.84175pt.
-<./04-figuras/questionario/13.png, id=507, 513.92pt x 215.80624pt>
+<./04-figuras/questionario/13.png, id=502, 513.92pt x 215.80624pt>
 File: ./04-figuras/questionario/13.png Graphic file (type png)
 <use ./04-figuras/questionario/13.png>
 Package pdftex.def Info: ./04-figuras/questionario/13.png  used on input line 1
 85.
 (pdftex.def)             Requested size: 318.49861pt x 133.74579pt.
-<./04-figuras/questionario/14.png, id=508, 513.92pt x 215.80624pt>
+<./04-figuras/questionario/14.png, id=503, 513.92pt x 215.80624pt>
 File: ./04-figuras/questionario/14.png Graphic file (type png)
 <use ./04-figuras/questionario/14.png>
 Package pdftex.def Info: ./04-figuras/questionario/14.png  used on input line 1
 93.
 (pdftex.def)             Requested size: 318.49861pt x 133.74579pt.
-<./04-figuras/questionario/15.png, id=510, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/15.png, id=505, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/15.png Graphic file (type png)
 <use ./04-figuras/questionario/15.png>
 Package pdftex.def Info: ./04-figuras/questionario/15.png  used on input line 2
@@ -1420,13 +1420,13 @@ Package pdftex.def Info: ./04-figuras/questionario/15.png  used on input line 2
  [28 <./04-figuras/questionario/11.png> <./04-figuras/questionario/12.png>] [29
  <./04-figuras/questionario/13.png> <./04-figuras/questionario/14.png> <./04-fi
 guras/questionario/15.png>]
-<./04-figuras/questionario/16.png, id=521, 1606.0pt x 763.85374pt>
+<./04-figuras/questionario/16.png, id=516, 1606.0pt x 763.85374pt>
 File: ./04-figuras/questionario/16.png Graphic file (type png)
 <use ./04-figuras/questionario/16.png>
 Package pdftex.def Info: ./04-figuras/questionario/16.png  used on input line 2
 14.
 (pdftex.def)             Requested size: 318.49861pt x 151.48593pt.
-<./04-figuras/questionario/17.png, id=523, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/17.png, id=518, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/17.png Graphic file (type png)
 <use ./04-figuras/questionario/17.png>
 Package pdftex.def Info: ./04-figuras/questionario/17.png  used on input line 2
@@ -1438,7 +1438,7 @@ Package pdftex.def Info: ./04-figuras/questionario/17.png  used on input line 2
 LaTeX Warning: Characters dropped after `\end{comment}' on input line 440.
 
 [33] [34] [35]
-<./04-figuras/caronae/criacao_da_carona_carona_ufrj.png, id=552, 284.262pt x 46
+<./04-figuras/caronae/criacao_da_carona_carona_ufrj.png, id=547, 284.262pt x 46
 0.72125pt>
 File: ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png Graphic file (type
  png)
@@ -1446,7 +1446,7 @@ File: ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png Graphic file (type
 Package pdftex.def Info: ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png
   used on input line 492.
 (pdftex.def)             Requested size: 131.94695pt x 213.86057pt.
-<./04-figuras/caronae/tela_solicitacao_de_carona_2.png, id=554, 172.2435pt x 29
+<./04-figuras/caronae/tela_solicitacao_de_carona_2.png, id=549, 172.2435pt x 29
 0.2845pt>
 File: ./04-figuras/caronae/tela_solicitacao_de_carona_2.png Graphic file (type 
 png)
@@ -1454,7 +1454,7 @@ png)
 Package pdftex.def Info: ./04-figuras/caronae/tela_solicitacao_de_carona_2.png 
  used on input line 504.
 (pdftex.def)             Requested size: 131.94695pt x 222.3814pt.
-<./04-figuras/caronae-img-artigo.png, id=556, 504.6855pt x 349.90726pt>
+<./04-figuras/caronae-img-artigo.png, id=551, 504.6855pt x 349.90726pt>
 File: ./04-figuras/caronae-img-artigo.png Graphic file (type png)
 <use ./04-figuras/caronae-img-artigo.png>
 Package pdftex.def Info: ./04-figuras/caronae-img-artigo.png  used on input lin
@@ -1463,7 +1463,7 @@ e 514.
  [36 <./04-figuras/caronae/criacao_da_carona_carona_ufrj.png>]
 [37 <./04-figuras/caronae/tela_solicitacao_de_carona_2.png> <./04-figuras/caron
 ae-img-artigo.png>]
-<./04-figuras/caronae/diagrama_bizagi.jpg, id=579, 597.9138pt x 632.6034pt>
+<./04-figuras/caronae/diagrama_bizagi.jpg, id=574, 597.9138pt x 632.6034pt>
 File: ./04-figuras/caronae/diagrama_bizagi.jpg Graphic file (type jpg)
 <use ./04-figuras/caronae/diagrama_bizagi.jpg>
 Package pdftex.def Info: ./04-figuras/caronae/diagrama_bizagi.jpg  used on inpu
@@ -1476,7 +1476,7 @@ oads/2020/11/DIVISAO-POR-
  []
 
 [38]
-<./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png, id=589, 
+<./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png, id=584, 
 174.6525pt x 263.18324pt>
 File: ./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png Grap
 hic file (type png)
@@ -1486,7 +1486,7 @@ _na_unifap.png  used on input line 566.
 (pdftex.def)             Requested size: 77.34917pt x 116.55595pt.
  [39 <./04-figuras/caronae/diagrama_bizagi.jpg> <./04-figuras/caronae/tela_cria
 cao_da_carona_de_chegada_na_unifap.png>]
-<./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png, id=597, 1
+<./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png, id=592, 1
 72.84575pt x 262.581pt>
 File: ./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png Graph
 ic file (type png)
@@ -1494,7 +1494,7 @@ ic file (type png)
 Package pdftex.def Info: ./04-figuras/caronae/tela_criacao_da_carona_de_saida_d
 a_unifapp.png  used on input line 576.
 (pdftex.def)             Requested size: 113.75pt x 172.80315pt.
-<./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png, id=599, 1125.
+<./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png, id=594, 1125.
 003pt x 539.01375pt>
 File: ./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png Graphic f
 ile (type png)
@@ -1563,10 +1563,10 @@ Overfull \hbox (1.10391pt too wide) in paragraph at lines 133--138
 (02-elementos-textuais/5-proposta.aux) (02-elementos-textuais/6-cronograma.aux)
 (03-elementos-pos-textuais/referencias.aux)) ) 
 Here is how much of TeX's memory you used:
- 22263 strings out of 478864
- 347078 string characters out of 2858518
- 810149 words of memory out of 3000000
- 39109 multiletter control sequences out of 15000+600000
+ 22262 strings out of 478864
+ 347062 string characters out of 2858518
+ 809149 words of memory out of 3000000
+ 39108 multiletter control sequences out of 15000+600000
  454594 words of font info for 314 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,17n,133p,1270b,595s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1575,9 +1575,9 @@ c/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb
 ><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files
 /MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type
 1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (54 pages, 3637993 bytes).
+Output written on main.pdf (54 pages, 3636478 bytes).
 PDF statistics:
- 894 PDF objects out of 1000 (max. 8388607)
+ 890 PDF objects out of 1000 (max. 8388607)
  209 named destinations out of 1000 (max. 500000)
  75823 words of extra memory for PDF output out of 89155 (max. 10000000)
 
