@@ -2,7 +2,7 @@
 % Documento: Referencial Teórico
 %
 
-\chapter{Referencial Teórico}\label{chap:Referencial Teórico}  
+\chapter{Mobilidade Urbana em Cidades Inteligentes}\label{chap:Mobilidade Urbana em Cidades Inteligentes} %referencial teórico  
 
 \begin{comment}
 \mnote{Patrícia: Esse capítulo ainda tá um pouco confuso. As seções e subseções tem que conversar. Ainda parece um monte de coisa costurada. A ideia é começar a falar de Cidades Inteligentes e quando falar disso pega o que falamos naquela artigo, sobre a infraestrutura necessária e aí sim vc pode falar de computação e nuvem e PaaS, IaaS e SaaS. 
@@ -14,16 +14,28 @@ Acho que nao cabe aqui ainda falar sobre carona solidária pq seu projeto mudou 
 \end{comment}
 
 \section{Computação em Nuvem}
-A Computação em Nuvem (\textit{Cloud Computing}) vem causando muitas transformações digitais e já tem um lugar de destaque nas CIs. Embora atualmente seja algo bastante usual, esse é um assunto grande e complexo, que possui vários subtemas, como os modelos de nuvem.
+A Computação em Nuvem (\textit{Cloud Computing}) vem causando muitas transformações digitais e já tem um lugar de destaque nas CI. Embora atualmente seja algo bastante usual, esse é um assunto grande e complexo que possui vários subtemas, como os modelos de nuvem.
 
-\citeonline{infra-cloud} diz que com o surgimento da Computação em Nuvem, o uso dos serviços oferecidos são semelhantes ao que utilizamos de energia elétrica, pagamos apenas o que consumimos. Com o surgimento dessa tecnologia, necessidades como a de investir em equipamentos e infraestruturas de TICs foram reduzidos consideravelmente, permitindo que seus usuários se conectem e façam colaborações globalmente sem configurar
-infraestruturas, como servidores, e com uma alta escalabilidade e capacidade de acomodar inúmeros usuários. 
+Dentro da Computação em nuvem é comum encontrarmos três modelos de disponibilização de serviços: 
 
-Então, a grande capacidade de uma Cidade Inteligente ser dinâmica e automática faz ela precisar de uma infraestrutura robusta e capaz de suprir a necessidade constante, algo que a computação em nuvem consegue oferecer através de serviços altamente disponíveis, elásticos, flexíveis e robustos, grande capacidade de processar e atualizar dados, é ideal para oferecer os serviços de uma CI \cite{kon-cloud}.
+Infraestrutura como serviço, oferece acesso baseado na web para armazenamento e poder de computação. O consumidor não precisa gerenciar ou controlar a subjacente infraestrutura em nuvem, mas tem controle sobre os sistemas operacionais, armazenamento, e aplicativos implantados.
 
-Dentro da Computação em nuvem é comum encontrarmos três modelos de disponibilização de serviços: \textit{Infrastructure as a Service} (IaaS), oferece acesso baseado na web para armazenamento e poder de computação. O consumidor não precisa gerenciar ou controlar a subjacente infraestrutura em nuvem, mas tem controle sobre os sistemas operacionais, armazenamento, e aplicativos implantados.
-\textit{Platform as a Service} (PaaS), onde os usuários hospedam um
-ambiente para suas aplicações. Os usuários controlam os aplicativos, mas não controlar o sistema operacional, hardware ou infraestrutura de rede, que são usados, e finalmente \textit{Software as a Service} (SaaS), é onde o consumidor usa um aplicativo, mas não controla o funcionamento do sistema, hardware ou infraestrutura de rede. Nesta situação, o usuário orienta os aplicativos pela rede. 
+Plataforma como serviço, onde os usuários hospedam um
+ambiente para suas aplicações. Os usuários controlam os aplicativos, mas não controlar o sistema operacional, hardware ou infraestrutura de rede que são usados.
+
+Software como serviço, é onde o consumidor usa um aplicativo, mas não controla o funcionamento do sistema, hardware ou infraestrutura de rede. Nesta situação, o usuário orienta os aplicativos pela rede. 
+
+\citeonline{infra-cloud} diz que os serviços oferecidos pela Computação em Nuvem são semelhantes ao serviço de energia elétrica, pagamos apenas o que consumimos. Por consequência, necessidades como as de investir em equipamentos e infraestruturas de TIC são reduzidos.
+% permitindo que seus usuários se conectem globalmente sem precisar implementar infraestruturas locais.
+
+%consideravelmente, permitindo que seus usuários se conectem e façam colaborações globalmente sem configurar
+%infraestruturas, como servidores, e com uma alta escalabilidade e capacidade de acomodar inúmeros usuários. 
+
+%que seus usuários se conectem globalmente sem precisarem configurar infraestruturas de TI locais.
+
+Vale ressaltar que a capacidade de uma CI ser dinâmica e automática faz ela precisar de infraestruturas robustas e capazes de suprir as necessidades de estar todo tempo online, algo que a computação em nuvem consegue oferecer através de serviços altamente disponíveis, elásticos, flexíveis e robustos. \cite{kon-cloud}.
+
+
 
 %A imagem abaixo descreve bem as responsabilidades de cada camada da cloud:
 
@@ -43,49 +55,62 @@ ambiente para suas aplicações. Os usuários controlam os aplicativos, mas não
 
 \section{Cidades Inteligentes}
 
-Cidades Digitais, CIs, Cidades do Conhecimento, entre outros, são cidades que utilizam um ambiente inovador caracterizado pela utilização de TIC’s (Tecnologia da Informação e Comunicação), segundo \cite{yin} os termos se referem a ação de utilizar a tecnologia em favor da melhoria da vida nas cidades com o uso de TIC’s no gerenciamento de recursos e na estrutura das cidades.
+Cidades Digitais, CI, são cidades que utilizam um ambiente inovador caracterizado pela utilização de TIC. Segundo \citeonline{yin} os termos se referem a ação de utilizar a tecnologia em favor da melhoria da qualidade de vida, do gerenciamento de recursos e da infraestrutura das cidades.
 
-Estas cidades sempre buscam otimizar recursos para melhor servir as necessidades dos cidadãos, interconectando informações, gerenciando operações e recursos sempre envolvendo um planejamento, uma infraestrutura e inteligência, isso vale para mobilidade, para o setor imobiliário, saúde e entre outros serviços que de alguma forma podem ser otimizados usando TIC’s \cite{washburn2010helping}.
+Estas cidades sempre buscam otimizar recursos para melhor atender as necessidades dos cidadãos, interconectando informações, gerenciando operações sempre envolvendo uma infraestrutura tecnológica, sistemas inovadores e colaboração digital. \cite{washburn2010helping}.
 
-Já \citeonline{giffinger} enumeram em sua pesquisa problemas que devem ser considerados antes de pensar desenvolver uma CI, para ele deve ser avaliado um todo, como consciência, flexibilidade, transformabilidade, sinergia, individualidade, autodecisão e comportamento estratégico, \cite{giffinger} ainda menciona a consciência como o principal, que é preciso que todos, habitantes, empresas, governo tenham conhecimento da posição da cidade e o que precisa ser feito para alcançar o status de CI.
+% isso vale para mobilidade, para o setor imobiliário, saúde e entre outros serviços que de alguma forma podem ser otimizados usando TIC’s \cite{washburn2010helping}.
 
-Fortalecendo a ideia sobre CI de \citeonline{giffinger}, também afirma que existe outros fatores que definem uma cidade inteligente, e que não é só por meio de TIC’s que se pode avaliar uma cidade inteligente, que TIC’s é apenas um dos vário recursos de entrada para projetos de cidades inteligentes, e para \citeonline{neirotti} as cidades mais equipadas não implicam necessariamente nas melhores cidades, e o número de iniciativas não indica performance, porém demonstra o número de esforços para melhorar a vida dos cidadãos.
+Já \citeonline{giffinger} acrescentam características para serem considerados antes de desenvolver uma CI. Para os autores, deve ser avaliado um todo, como consciência, flexibilidade, transformabilidade, individualidade, e comportamento estratégico da cidade e de seus cidadãos, e destaca que todos precisam ter conhecimento da posição da cidade e o que precisa ser feito para alcançar o status de CI. 
+
+Segundo \citeonline{neirotti}, TIC não definem uma CI, são apenas uma das soluções utilizadas. O autor ainda explica que as cidades mais equipadas não implicam necessariamente nas melhores CI e o número de iniciativas não indicam performance, apenas demonstra o número de esforços para melhorar a vida dos cidadãos. 
+
+
+\begin{comment}
 
 De acordo com \citeonline{dameri}: 
-
 \begin{citacao}
 “Uma Cidade Inteligente é uma área geográfica bem definida, na qual altas tecnologias, como TIC, logística, produção de energia, etc., cooperam para criar benefícios para os cidadãos em termos de bem-estar, inclusão e participação, qualidade ambiental, desenvolvimento inteligente; é governado por um conjunto bem definido de assuntos, capaz de declarar as regras e políticas para o governo e o desenvolvimento da cidade”. (tradução nossa)."
 %\footnote{Texto original: "A smart city is a well-defined geographical area, in which high technologies such as ICT, logistic, energy production, and so on, cooperate to create benefits for citizens in terms of well-being, inclusion and participation, environmental quality, intelligent development ; it is governed by a well-defined pool of subjects, able to state the rules and policy for the city government and development."}
 \end{citacao}
+\end{comment} 
 
-Cidades Inteligentes em estudos de \citeonline{giffinger}, citado  por \citeonline{kon}, apresenta uma forma de como as cidades ditas inteligentes podem ser mensuradas e avaliadas, o mesmo cita 6 dimensões que possui suas características próprias. Na Tabela 1 veremos quais são:
+CI em estudos de \citeonline{giffinger}, citado  por \citeonline{kon}, apresenta uma forma de como as cidades ditas inteligentes podem ser mensuradas e avaliadas, o mesmo cita 6 dimensões que possuem suas características próprias. Na Tabela \ref{tab:tabela1} veremos quais são:
 
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
 
 \begin{table}[h]
 \centering
 \caption{Aspectos de Cidades Inteligentes}
-\vspace{0.2cm}
-\begin{tabular}{cp{12cm}}
+\label{tab:tabela1}
+\vspace{0.0cm}
+\begin{tabular}{cp{10cm}}
 \hline
  & Definição \\
 \hline
-\vspace{0.3cm}
+\vspace{0.05cm}
 Economia Inteligente & 
-Está relacionado com a competitividade econômica, empreendedorismo, produtividade, leis que ajudem a inovar e incentivar a criação de novas soluções tecnológicas. \\
+É a competitividade econômica, empreendedorismo, produtividade, leis que ajudem a inovar e incentivar a criação de novas soluções tecnológicas. \\
 \hline
-\vspace{0.3cm}
+\vspace{0.05cm}
 População Inteligente & 
 Mede a qualidade da educação da população, seus postos de trabalho e renda, além de avaliar a interação social, os incentivos a programas de educação e incentivos a produção científica e tecnológica. \\
 \hline
-\vspace{0.3cm}
+\vspace{0.05cm}
 Governança Inteligente & Avalia o quão transparente e participativo é o governo por meio de seus portais, como são feitas as tomadas de decisões e serviços públicos e sociais.\\
 \hline
-\vspace{0.3cm}
-Mobilidade Inteligente & Trata-se das questões de acessibilidade e mobilidade local onde se leva em consideração os congestionamentos, os transportes utilizados, o uso de combustível fóssil e as soluções tecnológicas que são utilizadas para melhorar o transporte e a locomoção da população sempre priorizando os que menos prejudicam o meio ambiente e o fluxo urbano das cidades.\\
+\vspace{0.05cm}
+Mobilidade Inteligente & Trata-se das questões de acessibilidade e mobilidade local onde se leva em consideração os congestionamentos, os transportes utilizados, o uso de combustível fóssil e as soluções tecnológicas que são utilizadas para melhorar o transporte e a locomoção da população.
+% sempre priorizando os que menos prejudicam o meio ambiente e o fluxo urbano das cidades.
+ \\
 \hline
-\vspace{0.3cm}
+\vspace{0.05cm}
 Ambiente Inteligente &
-É avaliado quais soluções as cidades possuem para degradar o menos possível do meio ambiente e quais recursos são reaproveitados, como água, energia renovável, lixo reciclado e etc. \\
+É avaliado quais soluções as cidades possuem para degradar menos o meio ambiente e quais recursos são reaproveitados, como água, energia, lixo.
+% energia renovável, lixo reciclado e etc. 
+\\
 \hline
 Vida Inteligente &
 A qualidade de vida voltada para a segurança da cidade, da saúde das pessoas, o lazer, qualidade na moradia, serviços culturais.
@@ -95,25 +120,47 @@ A qualidade de vida voltada para a segurança da cidade, da saúde das pessoas, 
 \end{table}
 
 
-Contudo, CI não tem uma definição formal amplamente aceita, embora haja muitos conceitos sobre o tema, tendo algumas divergências e termos diferentes dados, Cidade Digital é o que mais se destaca. Alguns autores abordam a diferença entre cidades inteligentes e cidades digitais.
-
-%%Sintetizar este paragrafo, muito grande
-%Segundo  \citeonline{yin}, 
-Cidades digitais se refere a digitalização de uma cidade, envolvendo informações, acesso ao dados e visualizações por parte da população, a cidade digital está mais ligada na forma em que a cidade utiliza e se moderniza com a combinação de comunicação e infraestrutura computacional para fornecer as informações públicas, já cidades inteligentes é uma definição que pode ser considerada como a junção do entendimento de cidade digital e sociedade do conhecimento, onde as pessoas envolvidas são responsáveis pelo aprimoramento do local criando zonas de colaboração digital \cite{yin}.
-%“o objetivo de uma cidade inteligente é transformar a vida e o trabalho dentro de uma região de maneira significativa e fundamental, não incremental” \cite{yin} (tradução nossa).
-
-Quando se fala a respeito do gerenciamento dos projetos de cidades inteligentes, \citeonline{chourabi} indicam que uma característica comum das iniciativas são que a maioria das cidades inteligentes são gerenciadas e organizadas por governos e utilizam o uso massivo de TIC’s. 
-
-Uma iniciativa realizada no Brasil, até mencionada por \citeonline{namepardo}, é a da cidade de Porto Alegre, reconhecida nacionalmente e internacionalmente, a cidade tem tomado medidas usando tecnologia para o auxílio desde 2006 quando decidiu investir pesado na implementação de uma rede de fibra ótica para os serviços do governo garantindo mais de 99.8 \% de disponibilidade \cite{weiss}. São Paulo se destaca também como o maior centro de pesquisa sobre o tema, com muitas publicações e diversos trabalhos relacionados às áreas envolvidas, tendo a Universidade de São Paulo (USP) entre os destaques no número de publicações \cite{lazzaretti}. 
+\begin{comment}
+	Contudo, CI não tem uma definição formal amplamente aceita, embora haja muitos conceitos sobre o tema, Cidade Digital é o que mais se destaca. Alguns autores abordam a diferença entre cidades inteligentes e cidades digitais.
+	
+	%%Sintetizar este paragrafo, muito grande
+	%Segundo  \citeonline{yin}, 
+	Cidades digitais se refere a digitalização de uma cidade, envolvendo informações, acesso ao dados e visualizações por parte da população, a cidade digital está mais ligada na forma em que a cidade utiliza e se moderniza com a combinação de comunicação e infraestrutura computacional para fornecer as informações públicas, já cidades inteligentes é uma definição que pode ser considerada como a junção do entendimento de cidade digital e sociedade do conhecimento, onde as pessoas envolvidas são responsáveis pelo aprimoramento do local criando zonas de colaboração digital \cite{yin}.
+	%“o objetivo de uma cidade inteligente é transformar a vida e o trabalho dentro de uma região de maneira significativa e fundamental, não incremental” \cite{yin} (tradução nossa).
+\end{comment}
 
 
-E para alcançarmos um nível de CI, algumas coisas precisam ser pensadas antes. Soluções que auxiliem questões como segurança, saúde, educação, ou mesmo lazer são fundamentais. Ações desde a construção de áreas verdes, de centros de cultura e monitoramento da cidade utilizando câmeras e mapeamento de zonas pouco seguras são essenciais. No entanto, a população não irá usufruir de nenhuma das soluções desenvolvidas para quaisquer das dimensões apontadas se não acontecer uma inclusão tecnológica massiva com programas de incentivo à educação científica e tecnológica. Caso contrário, parte da população será excluída e segregada da cidade \cite{patricia}.
+Quando se fala a respeito do gerenciamento dos projetos de CI, \citeonline{chourabi} indicam que uma característica comum das iniciativas são que a maioria das cidades inteligentes são gerenciadas e organizadas por governos e utilizam o uso massivo de TIC. 
+
+Uma iniciativa realizada no Brasil, até mencionada por \citeonline{namepardo}, é a da cidade de Porto Alegre, reconhecida nacionalmente e internacionalmente, a cidade tem tomado medidas usando tecnologia para o auxílio desde 2006 quando decidiu investir pesado na implementação de uma rede de fibra ótica para os serviços do governo garantindo mais de 99.8 \% de disponibilidade \cite{weiss}.
+
+ São Paulo se destaca também como o maior centro de pesquisa sobre o tema, com muitas publicações e diversos trabalhos relacionados às áreas envolvidas, tendo a USP entre os destaques no número de publicações \cite{lazzaretti}. 
+
+
+E para alcançarmos um nível de CI, algumas coisas precisam ser pensadas antes. Soluções que auxiliem questões como segurança, saúde, educação, ou mesmo lazer são fundamentais. Ações desde a construção de áreas verdes, de centros de cultura e monitoramento da cidade utilizando câmeras e mapeamento de zonas pouco seguras são essenciais. 
+
+No entanto, a população não irá usufruir de nenhuma das soluções desenvolvidas para quaisquer das dimensões apontadas se não acontecer uma inclusão tecnológica massiva com programas de incentivo à educação científica e tecnológica. Caso contrário, parte da população será excluída e segregada da cidade \cite{patricia}.
 
 Além disso, para construir uma CI fatores importantes como inclusão digital e infraestrutura tecnológica precisam ser discutidos. Para que estás soluções funcionem de maneira efetiva é necessário que elas sejam desenvolvidas considerando um sistema de computação que tenha uma arquitetura heterogênea e distribuída. As arquiteturas mais utilizadas atualmente são as em nuvem, devido sua capacidade de suportar grande demanda e a escalabilidade \cite{patricia}. 
 
-A arquitetura se dá primeiramente através de dispositivos de borda que são responsáveis por coletar dados dos dispositivos de internet da coisas espalhados pelo ambiente, a característica desses dispositivos é de serem de baixo processamento e capacidade. Após o processo de coleta, os dispositivos de borda enviam os dados para a nuvem para serem processados e armazenados. A rede tem características homogêneas com extrema importância de serem altamente disponíveis e capazes de oferecer acesso de milhares de pessoas por meio de seus dispositivos. Mais uma vantagem da computação em nuvem é se tratando de valores, segundo \cite{patricia}, a contratação de serviços em nuvem diminui os altos gastos em infraestrutura, a contratação conforme as necessidades das aplicações trazem uma grande vantagem, economia que não cria problema para os usuários, os serviços de nuvem oferecidos devolvem o resultado esperado.
+\begin{comment}
+	A arquitetura se dá primeiramente através de dispositivos de borda que são responsáveis por coletar dados dos dispositivos de internet da coisas espalhados pelo ambiente, a característica desses dispositivos é de serem de baixo processamento e capacidade. Após o processo de coleta, os dispositivos de borda enviam os dados para a nuvem para serem processados e armazenados. A rede tem características homogêneas com extrema importância de serem altamente disponíveis e capazes de oferecer acesso de milhares de pessoas por meio de seus dispositivos. Mais uma vantagem da computação em nuvem é se tratando de valores, segundo \cite{patricia}, a contratação de serviços em nuvem diminui os altos gastos em infraestrutura, a contratação conforme as necessidades das aplicações trazem uma grande vantagem, economia que não cria problema para os usuários, os serviços de nuvem oferecidos devolvem o resultado esperado.
+\end{comment}
 
 
+\section{Mobilidade Inteligente}
+%\mnote{compartilhamento de carros}
+%\mnote{compartilhamento de viagens}
+%\mnote{transporte sob demanda}
+\mnote{Falar sobre as tecnologias que tornam possível a utilização de ferramentas de mobilidade inteligente; gps, smartphones, cloud}
+
+Das várias iniciativas de cidades inteligentes, a mobilidade tem um lugar de destaque por apresentar várias soluções que já apresentam uma melhora no trajeto das pessoas em várias cidades, a exemplo disso, aplicativos como Uber, 99 circulam pelas cidades utilizando a mobilidade como um serviço.
+
+Aplicativos de carona como o BlaBlaCar  que a relação entre o motorista e o passageiro fica a critério do motorista em relação aos custos da viagem. Estas ferramentas já contribuem com a melhoria da mobilidade sem a necessidade de investimento público. 
+
+Uma mudança que estas aplicações apresentam é a de lugares ocupados dentro de um mesmo veículo. Segundo pesquisa realizada pela BlablaCar em 2018, a taxa de ocupação de pessoas usando o aplicativo por veículo no Brasil é de 3,8 incluindo o motorista, contra 1,9 pessoas por veículo sem o uso de do aplicativo, na mesma pesquisa, a empresa apresenta dados que as caronas solidárias ajudam na economia de CO² alegando que pessoas que  fazem o mesmo trajeto todo dia e possuem carros podem participar de um rodízio de caronas, por exemplo, nesta conta, teríamos todo dia 1 carro a menos nas ruas.
+
+Hoje em dia são algumas dessas soluções, aplicativos como BlaBlaCar, outros aplicativos de carona solidária mobilizado por universidades como o Caronaê da UFRJ\footnote{Disponível em: https://caronae.org/. Acesso em: 23 Jun. 2020.}, entre outras,  que movimentam o conceito de mobilidade urbana inteligente no país.
 
 \section{Campus Inteligente}
 
@@ -123,15 +170,19 @@ Conforme \citeonline{zhang}, o comportamento de uma Campus Universitário Inteli
 
 Assim como cidades inteligentes, campus inteligente ou universidade inteligente não tem um conceito totalmente definido, \citeonline{alghamdi} explica que o campus inteligente surge da necessidade de oferecer serviços de alta qualidade reduzindo custos, e que isso não fica apenas nos aspectos acadêmicos, mas envolve aspectos sociais, meio ambiente, e financeiros da Universidade.
 
+\begin{comment}
 Na Figura \ref{alghamdi}, temos:
-
 \begin{figure}[!hbtp]
-	\centering
-	\caption{Conceito de Campus Inteligente, seu impactos e suas aplicações.}
-	\includegraphics[width=8cm]{./04-figuras/alghamdi-edited.jpg}
-	\label{alghamdi}
-	\fonte{Adaptado de \citeonline{alghamdi}}
+\centering
+\caption{Conceito de Campus Inteligente, seu impactos e suas aplicações.}
+\includegraphics[width=8cm]{./04-figuras/alghamdi-edited.jpg}
+\label{alghamdi}
+\fonte{Adaptado de \citeonline{alghamdi}}
 \end{figure}
+\end{comment}
+
+
+
 
 Além do conceitos e objetivos, o Campus Inteligente também tem problemas e dificuldades que o mercado impõe. \cite{alghamdi} cita 3 obstáculos: Técnico, Financeiro e Político. Semelhante as Cidades Inteligentes, deve-se considerar que ao estabelecer serviços tecnológicos a uma população, que seja de uma cidade, ou de uma universidade, conceitos de segurança, proteção e privacidade, interoperabilidade, padronização e configurações precisam estar bem encaixados para promover segurança ao uso por pessoas do Campus/Cidade, e reunir esses requisitos num ambiente tão heterogêneo, de comunicação intensiva é uma tarefa difícil \cite{alghamdi}. 
 
@@ -143,18 +194,8 @@ processos e oposição de funcionários anti-tecnologia são potenciais
 obstáculos que precisam ser resolvidos \cite{alghamdi}.
 
 Por outro lado, as iniciativas tecnológicas abrem portas para recrutarmos pesquisadores, investigarmos mais sobre o tema e promover serviços e soluções inovadoras, segundo \cite{alghamdi}, a maioria dos trabalhos focados em Campus Inteligentes são sobre energia, meio ambiente e prédios inteligentes, e alguns serviços importantes, como transporte, alimentação, controle de tráfego ficam deixadas de lado.
-\section{Mobilidade Inteligente}
-%\mnote{compartilhamento de carros}
-%\mnote{compartilhamento de viagens}
-%\mnote{transporte sob demanda}
 
-Das várias iniciativas de cidades inteligentes, a mobilidade tem um lugar de destaque por apresentar várias soluções que já apresentam uma melhora no trajeto das pessoas em várias cidades, a exemplo disso, aplicativos como Uber, 99 circulam pelas cidades utilizando a mobilidade como um serviço, ou aplicativos de carona como o BlaBlaCar  que a relação entre o motorista e o passageiro fica a critério do motorista em relação aos custos da viagem. Estas ferramentas já contribuem com a melhoria da mobilidade sem a necessidade de investimento público. 
-
-Uma mudança que estas aplicações apresentam é a de lugares ocupados dentro de um mesmo veículo. Segundo pesquisa realizada pela BlablaCar em 2018, a taxa de ocupação de pessoas usando o aplicativo por veículo no Brasil é de 3,8 incluindo o motorista, contra 1,9 pessoas por veículo sem o uso de do aplicativo, na mesma pesquisa, a empresa apresenta dados que as caronas solidárias ajudam na economia de CO² alegando que pessoas que  fazem o mesmo trajeto todo dia e possuem carros podem participar de um rodízio de caronas, por exemplo, nesta conta, teríamos todo dia 1 carro a menos nas ruas.
-
-Hoje em dia são algumas dessas soluções, aplicativos como BlaBlaCar, outros aplicativos de carona solidária mobilizado por universidades como o Caronaê da UFRJ\footnote{Disponível em: https://caronae.org/. Acesso em: 23 Jun. 2020.}, entre outras,  que movimentam o conceito de mobilidade urbana inteligente no país.
-
-\section{MaaS}
+\section{Mobilidade com Serviço - MaaS}
 
 Mobilidade como um serviço (Mobility as a Service) é um termo utilizado para nomear uma nova tendência na mobilidade inteligente, onde empresas, organizações investem no transporte público oferecendo meios multimodais de locomoção  para a população. Algumas das características de plataformas MaaS é a facilidade de acesso, a ferramenta apresenta as opções que o usuário pode escolher para seu trajeto, facilidade no pagamento, sistema de reserva de viagens e informação em tempo real.
 
