@@ -46,6 +46,7 @@ Database file #1: abntex2-options.bib
 Database file #2: ./refbase.bib
 Warning--entry type for "mobilidade" isn't style-file defined
 --line 5 of file ./refbase.bib
+Warning--I didn't find a database entry for "koneeeduardo"
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Name 1 in "Naren.J, and Sowmya, S.K. and Deepika, P." has a comma at the end for entry infra-cloud
 while executing---line 2091 of file abntex2-alf.bst
@@ -103,45 +104,45 @@ while executing---line 2146 of file abntex2-alf.bst
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 34 entries,
+You've used 33 entries,
             6714 wiz_defined-function locations,
-            1379 strings with 15435 characters,
-and the built_in function-call counts, 33285 in all, are:
-= -- 2958
-> -- 1071
-< -- 401
-+ -- 819
-- -- 315
-* -- 2311
-:= -- 4252
-add.period$ -- 116
-call.type$ -- 35
-change.case$ -- 375
-chr.to.int$ -- 85
-cite$ -- 30
-duplicate$ -- 2309
-empty$ -- 1916
-format.name$ -- 1604
-if$ -- 7403
+            1375 strings with 15344 characters,
+and the built_in function-call counts, 32547 in all, are:
+= -- 2906
+> -- 1055
+< -- 397
++ -- 814
+- -- 310
+* -- 2260
+:= -- 4155
+add.period$ -- 113
+call.type$ -- 34
+change.case$ -- 368
+chr.to.int$ -- 81
+cite$ -- 29
+duplicate$ -- 2265
+empty$ -- 1856
+format.name$ -- 1581
+if$ -- 7231
 int.to.chr$ -- 3
 int.to.str$ -- 3
-missing$ -- 592
-newline$ -- 157
-num.names$ -- 150
-pop$ -- 736
+missing$ -- 575
+newline$ -- 152
+num.names$ -- 145
+pop$ -- 718
 preamble$ -- 1
-purify$ -- 135
+purify$ -- 132
 quote$ -- 0
-skip$ -- 2659
+skip$ -- 2618
 stack$ -- 1
-substring$ -- 1156
-swap$ -- 969
-text.length$ -- 34
+substring$ -- 1106
+swap$ -- 944
+text.length$ -- 31
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 9
 warning$ -- 0
-while$ -- 202
+while$ -- 193
 width$ -- 0
-write$ -- 478
+write$ -- 461
 (There were 24 error messages)
