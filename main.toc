@@ -13,33 +13,40 @@
 \contentsline {section}{\numberline {3.3}Mobilidade Inteligente}{7}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Campus Inteligente}{8}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Mobilidade com Serviço - MaaS}{9}{section.3.5}%
-\contentsline {chapter}{\chapternumberline {4}Soluções de Mobilidade Inteligente Existentes}{10}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Orientações de mobilidade}{11}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Waze}{11}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Cittamobi}{11}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Transporte Individual Privado de Passageiros por Aplicativo}{12}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Uber}{12}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Cabify}{12}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Viagens Compartilhadas por Aplicativos}{13}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}BlaBlaCar}{13}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Bynd}{13}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Vemcar}{14}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Caronaê}{14}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Waze Carpool}{15}{subsection.4.3.5}%
-\contentsline {section}{\numberline {4.4}Veículos Compartilhados}{16}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Yellow}{16}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}ZipCar}{17}{subsection.4.4.2}%
-\contentsline {section}{\numberline {4.5}Quadro Comparativo entre as soluções}{18}{section.4.5}%
-\contentsline {chapter}{\chapternumberline {5}Proposta e Resultados Preliminares}{21}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Perfil da comunidade acadêmica e os problema enfrentados}{21}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Definições dos Requisitos}{27}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Requisitos Funcionais}{28}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Requisitos Não Funcionais}{30}{subsection.5.2.2}%
-\contentsline {section}{\numberline {5.3}Estudo sobre Soluções de Mobilidade Inteligente}{30}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Waze Carpool x Caronaê}{31}{subsection.5.3.1}%
-\contentsline {section}{\numberline {5.4}Proposta de Solução de Mobilidade para Unifap}{32}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Características do Caronaê-UFRJ}{32}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Características do Caronaê para UNIFAP}{36}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Dificuldades Enfrentadas}{38}{subsection.5.4.3}%
-\contentsline {chapter}{\chapternumberline {6}Cronograma}{39}{chapter.6}%
-\contentsline {chapter}{Refer\^encias}{41}{chapter*.40}%
+\contentsline {chapter}{\chapternumberline {4}Fundamentação Teórica}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Heroku}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Android Studio}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}MVC}{10}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Laravel}{10}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Firebase}{10}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Java}{10}{section.4.6}%
+\contentsline {chapter}{\chapternumberline {5}Soluções de Mobilidade Inteligente Existentes}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Orientações de mobilidade}{12}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Waze}{12}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Cittamobi}{12}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Transporte Individual Privado de Passageiros por Aplicativo}{13}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Uber}{13}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Cabify}{13}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Viagens Compartilhadas por Aplicativos}{14}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}BlaBlaCar}{14}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Bynd}{14}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Vemcar}{15}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Caronaê}{15}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Waze Carpool}{16}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}Veículos Compartilhados}{17}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Yellow}{17}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}ZipCar}{18}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Quadro Comparativo entre as soluções}{19}{section.5.5}%
+\contentsline {chapter}{\chapternumberline {6}Proposta e Resultados Preliminares}{22}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Perfil da comunidade acadêmica e os problema enfrentados}{22}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Definições dos Requisitos}{28}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Requisitos Funcionais}{29}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Requisitos Não Funcionais}{31}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Estudo sobre Soluções de Mobilidade Inteligente}{31}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Waze Carpool x Caronaê}{32}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Proposta de Solução de Mobilidade para Unifap}{33}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Características do Caronaê-UFRJ}{33}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Características do Caronaê para UNIFAP}{37}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Dificuldades Enfrentadas}{39}{subsection.6.4.3}%
+\contentsline {chapter}{\chapternumberline {7}Cronograma}{40}{chapter.7}%
+\contentsline {chapter}{Refer\^encias}{42}{chapter*.40}%
