@@ -2,38 +2,9 @@
 % Documento: Proposta
 %
 
-\chapter{Proposta e Resultados Preliminares}\label{chap:proposta}  
-%
-	%\mnote{Patrícia: comentei toda a primeira parte. Toda justificativa e dados sobre macapá tem que vir lá na parte inicial, na introdução. Da uma revisão nisso. Dados sobre Macapá que estão aqui devem ir lá p cima.}
-    % comnentado para não aparecer no compilado
-\begin{comment}
-Na atualidade, a cidade de Macapá configura-se com 503.327 habitantes, segundo dados do IBGE, 2019, cujos os saltos de 20 anos de desenvolvimento da cidade conferem cerca de 96\% da população urbana. Macapá tinha em 2006, cerca de 54 mil automóveis pelas vias da cidade, no último levantamento realizado pelo IBGE em relação a frota de veículos em 2018, esse número saltou para 152.475 mil automóveis, logo, um aumento de 181\% na cidade de Macapá. 
 
-Comparando com os números de veículos de todo o estado, cerca de 195.039 veículos (IBGE, 2018), Macapá possui 78 \% da frota total. Com apenas 8,8 \% da área urbanizada, Macapá chega a ter 266 carros por km² utilizando os dados do último censo realizado pelo IBGE, 2010. Macapá oferece apenas os ônibus como transporte público coletivo, tendo 159 ativos e 17 reservas (Quintas, 2018, p. 4), para circular por seus 28 bairros registrados (G1, 2020).
-
-Pensando nisso e levando em consideração os dados que apresentam a dificuldade de se locomover através do transporte público na capital Macapá que proponho um serviço de carona solidaria na Unifap - Campus Macapá utilizando o código aberto disponibilizado pelos alunos do projeto Caronaê da Universidade Federal do Rio de Janeiro.
-
-\end{comment}
-
-%\section{Motivação} %não precisa colocar motivação aqui. Só apresenta os resultados que foram obtidos com o que já foi feito, faz uma análise do que eles representam para o andamento do trabalho e quais foram as decisões tomadas para o trabalho a partir deles.
-
-\begin{comment} %essa parte aqui é a mesma coisa que a parte inicial da seção. Não deve estar aqui. Analise onde colocar no início do documento. Aliás tem umas informações repetidas aqui.
-
-Com o crescente aumento populacional nas cidades e com o surgimento de problemas elencados a isso, emergiu-se as cidades inteligentes em meio a estes problemas e cidades inteligentes como soluções para tal \cite{dameri}. Essa já é a  nossa realidade, sabendo que cerca de 60\% da população se encontra em Macapá — Capital do Amapá — e tendo aproximadamente 80\% da frota de veículos (IBGE, 2018) temos nitidamente uma lotação na cidade, principalmente nos centros urbanos.
-\end{comment}
-
-\begin{comment}
-\textbf{NOTA - TEM SEMPRE EM MENTE OS "PASSOS" QUE VAIS SEGUIR:}
-\textit{
-\begin{itemize}
-    \item Entender o perfil da comunidade acadêmica e os problema enfrentados;
-\item Estudar as solução de mobilidade existentes considerando o conceito de cidades inteligentes
-\item Propor uma solução para a comunidade acadêmica da Unifap (que considere o perfil da comunidade acadêmica, os problemas enfrentados e a realidade do contexto local (Macapá e seus problemas estruturais, e a Unifap). 
-\end{itemize}
-}
-\textbf{NOTA - NÃO ESQUECER:} \textit{Não fazer nenhuma afirmação sem dados e provas.}
-%comentado só para remover do texto compilado
-\end{comment}
+%\chapter{Proposta e Resultados Preliminares}\label{chap:proposta}  
+\chapter{Carona solidária para Unifap}\label{chap:Carona solidária para Unifap}  
 
 \section{Perfil da comunidade acadêmica e os problema enfrentados}
 
@@ -248,6 +219,7 @@ Levando em consideração o questionário realizado, o requisito mais importante
 %- Histórico de carona
 
 \subsection{Requisitos Funcionais}
+% COLOCAR TELAS DA APLICAÇÃO
 \textbf{[RF001] Login no Sistema}
 
 \textbf{Prioridade}:      [x] Essencial        [] Importante     [] Desejável 
@@ -424,6 +396,9 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 
 \section{Estudo sobre Soluções de Mobilidade Inteligente}
 
+%PESQUISA DE ACEITAÇÃO DO CARONAE
+%TELAS
+
 \begin{comment} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     
 	\mnote{Patrícia: aqui vais colocar tuas considerações (sem afirmarnada sem dados e provas) sobre as pesquisas que fizeste feitas em relação a cidades inteligentes e, em especial, mobilidade inteligente. Cita algumas soluções que são utilizadas e vai fazendo considerações do porque elas nao tem como ser consideradas (ainda) para Macapá e para a comunidade acadêmica da Unifap. No final, depois de discutir sobre diferentes soluções fala das soluções de carona e o porquê ela foi considera como a "melhor" opção no momento para Unifap.}
@@ -585,13 +560,16 @@ No momento, para utilizar o aplicativo estão rodando em um banco de dados Postg
 	\mnote{Patrícia: falar sobre que características o Caronaê deveria ter para ser implementado na UNIFAP, que características já existentes permaneceriam, que características já existentes devem ser adaptadas ou modificadas, que características já existentes devem ser retiradas e que características devem ser incluídas considerando o contexto da Unifap e Macapá. Isso seria o seu levantamento de requisitos.}
 \end{comment}
 
+
+\begin{comment}
+
 \subsection{Dificuldades Enfrentadas}
 
 As dificuldades iniciais foi a de tentar executar todos os serviços presentes na aplicação, todos os microserviços de aunteticação e notificação do aplicativo, porém, isso não se deu porque a API que auxiliava o projeto, API está, fornecidade pela universidade não está mais online.
 
 Outros microserviços dependem do funcionamento e do acesso as APIs que UFRJ disponibilizava, entretanto, foi deixado de lado essas tentativas e focado apenas na execução local, com banco de dados local, API apenas do Caronaê com dados de alguns usuários que estão cadastrados nas querys do projeto e o no funcionamento do API e integração dos serviços. O fato de não termos uma API na universidade onde eu possa testar a aplicação também dificulta a proposta, claro que antes algumas coisas precisariam ser avaliadas, como o tratamento dos dados do SIGAA UNIFAP para o formato que a API do Caronaê recebe, caso fosse necessário.
 
-
+\end{comment}
 
 \begin{comment}
 \section{Próximos passos}
