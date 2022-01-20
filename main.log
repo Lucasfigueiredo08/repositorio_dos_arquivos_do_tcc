@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  19 JAN 2022 00:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  19 JAN 2022 22:29
 entering extended mode
 **./main.tex
 (main.tex
@@ -1219,7 +1219,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ] [6] [7] [8] [9]
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 2
-69.
+70.
 
 (C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
@@ -1228,40 +1228,40 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 File: ./04-figuras/cittamobi/cittamobi.png Graphic file (type png)
 <use ./04-figuras/cittamobi/cittamobi.png>
 Package pdftex.def Info: ./04-figuras/cittamobi/cittamobi.png  used on input li
-ne 302.
+ne 303.
 (pdftex.def)             Requested size: 181.99722pt x 105.56432pt.
 
 [11 <./04-figuras/cittamobi/cittamobi.png>] [12] [13]
 <./04-figuras/vemcar.jpg, id=377, 513.92pt x 343.2825pt>
 File: ./04-figuras/vemcar.jpg Graphic file (type jpg)
 <use ./04-figuras/vemcar.jpg>
-Package pdftex.def Info: ./04-figuras/vemcar.jpg  used on input line 370.
+Package pdftex.def Info: ./04-figuras/vemcar.jpg  used on input line 371.
 (pdftex.def)             Requested size: 227.5pt x 151.96141pt.
 <./04-figuras/caronae.png, id=379, 1214.5375pt x 569.12625pt>
 File: ./04-figuras/caronae.png Graphic file (type png)
 <use ./04-figuras/caronae.png>
-Package pdftex.def Info: ./04-figuras/caronae.png  used on input line 387.
+Package pdftex.def Info: ./04-figuras/caronae.png  used on input line 388.
 (pdftex.def)             Requested size: 364.00139pt x 170.5655pt.
  [14 <./04-figuras/vemcar.jpg>]
 <./04-figuras/waze/Tela_de_grupos.png, id=385, 229.45724pt x 410.7345pt>
 File: ./04-figuras/waze/Tela_de_grupos.png Graphic file (type png)
 <use ./04-figuras/waze/Tela_de_grupos.png>
 Package pdftex.def Info: ./04-figuras/waze/Tela_de_grupos.png  used on input li
-ne 401.
+ne 402.
 (pdftex.def)             Requested size: 113.75pt x 203.61816pt.
  [15 <./04-figuras/caronae.png> <./04-figuras/waze/Tela_de_grupos.png>]
 [16]
 <./04-figuras/yellow/yellow.png, id=396, 523.9575pt x 362.5545pt>
 File: ./04-figuras/yellow/yellow.png Graphic file (type png)
 <use ./04-figuras/yellow/yellow.png>
-Package pdftex.def Info: ./04-figuras/yellow/yellow.png  used on input line 434
+Package pdftex.def Info: ./04-figuras/yellow/yellow.png  used on input line 435
 .
 (pdftex.def)             Requested size: 273.00278pt x 188.91113pt.
  [17 <./04-figuras/yellow/yellow.png>]
 <./04-figuras/zipcar/zipcar.jpg, id=416, 1284.8pt x 722.7pt>
 File: ./04-figuras/zipcar/zipcar.jpg Graphic file (type jpg)
 <use ./04-figuras/zipcar/zipcar.jpg>
-Package pdftex.def Info: ./04-figuras/zipcar/zipcar.jpg  used on input line 455
+Package pdftex.def Info: ./04-figuras/zipcar/zipcar.jpg  used on input line 456
 .
 (pdftex.def)             Requested size: 364.00139pt x 204.74757pt.
 ) [18 <./04-figuras/zipcar/zipcar.jpg>]
@@ -1541,7 +1541,7 @@ Here is how much of TeX's memory you used:
 c/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pf
 b><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program File
 s/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (49 pages, 3318692 bytes).
+Output written on main.pdf (49 pages, 3318627 bytes).
 PDF statistics:
  824 PDF objects out of 1000 (max. 8388607)
  185 named destinations out of 1000 (max. 500000)
