@@ -31,10 +31,8 @@
 \contentsline {chapter}{\chapternumberline {3}Trabalhos Relacionados}{18}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Vemcar}{18}{section.3.1}%
 \contentsline {section}{\numberline {3.2}RideUFF}{18}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Caronaphone}{18}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Caronaê}{18}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Waze Carpool}{19}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Quadro Comparativo}{19}{section.3.6}%
+\contentsline {section}{\numberline {3.3}Caronaê}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Waze Carpool}{19}{section.3.4}%
 \contentsline {chapter}{\chapternumberline {4}Carona solidária para Unifap}{21}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Perfil da comunidade acadêmica e os problema enfrentados}{21}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Definições dos Requisitos}{27}{section.4.2}%
@@ -49,4 +47,4 @@
 \contentsline {subsection}{\numberline {4.5.1}Características do Caronaê-UFRJ}{33}{subsection.4.5.1}%
 \contentsline {subsection}{\numberline {4.5.2}Características do Caronaê para UNIFAP}{36}{subsection.4.5.2}%
 \contentsline {chapter}{\chapternumberline {5}Resultados Finais}{39}{chapter.5}%
-\contentsline {chapter}{Refer\^encias}{40}{chapter*.41}%
+\contentsline {chapter}{Refer\^encias}{40}{chapter*.40}%
