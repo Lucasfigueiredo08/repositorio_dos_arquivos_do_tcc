@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  14 FEB 2022 23:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  15 FEB 2022 23:11
 entering extended mode
 **./main.tex
 (main.tex
@@ -1411,7 +1411,7 @@ Package pdftex.def Info: ./04-figuras/questionario/17.png  used on input line 2
  [27 <./04-figuras/questionario/16.png> <./04-figuras/questionario/17.png>] [28
 ] [29]
 
-LaTeX Warning: Characters dropped after `\end{comment}' on input line 438.
+LaTeX Warning: Characters dropped after `\end{comment}' on input line 440.
 
 [30] [31] [32]
 <./04-figuras/caronae/criacao_da_carona_carona_ufrj.png, id=508, 284.262pt x 46
@@ -1420,7 +1420,7 @@ File: ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png Graphic file (type
  png)
 <use ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png>
 Package pdftex.def Info: ./04-figuras/caronae/criacao_da_carona_carona_ufrj.png
-  used on input line 490.
+  used on input line 492.
 (pdftex.def)             Requested size: 131.94695pt x 213.86057pt.
  [33 <./04-figuras/caronae/criacao_da_carona_carona_ufrj.png>]
 <./04-figuras/caronae/tela_solicitacao_de_carona_2.png, id=515, 172.2435pt x 29
@@ -1429,13 +1429,13 @@ File: ./04-figuras/caronae/tela_solicitacao_de_carona_2.png Graphic file (type
 png)
 <use ./04-figuras/caronae/tela_solicitacao_de_carona_2.png>
 Package pdftex.def Info: ./04-figuras/caronae/tela_solicitacao_de_carona_2.png 
- used on input line 502.
+ used on input line 504.
 (pdftex.def)             Requested size: 131.94695pt x 222.3814pt.
 <./04-figuras/caronae-img-artigo.png, id=517, 504.6855pt x 349.90726pt>
 File: ./04-figuras/caronae-img-artigo.png Graphic file (type png)
 <use ./04-figuras/caronae-img-artigo.png>
 Package pdftex.def Info: ./04-figuras/caronae-img-artigo.png  used on input lin
-e 512.
+e 514.
 (pdftex.def)             Requested size: 227.5pt x 157.7291pt.
 
 [34 <./04-figuras/caronae/tela_solicitacao_de_carona_2.png>] [35 <./04-figuras/
@@ -1444,30 +1444,30 @@ caronae-img-artigo.png>]
 File: ./04-figuras/caronae/diagrama_bizagi.jpg Graphic file (type jpg)
 <use ./04-figuras/caronae/diagrama_bizagi.jpg>
 Package pdftex.def Info: ./04-figuras/caronae/diagrama_bizagi.jpg  used on inpu
-t line 544.
+t line 546.
 (pdftex.def)             Requested size: 273.00278pt x 288.83888pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--559
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
  [][] [][][]\T1/ppl/m/n/10 (+20) https://macapa.ap.gov.br/portal/wp-content/upl
 oads/2020/11/DIVISAO-POR-
  []
 
 [36 <./04-figuras/caronae/diagrama_bizagi.jpg>]
-<./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png, id=550, 
+<./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png, id=551, 
 174.6525pt x 263.18324pt>
 File: ./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png Grap
 hic file (type png)
 <use ./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png>
 Package pdftex.def Info: ./04-figuras/caronae/tela_criacao_da_carona_de_chegada
-_na_unifap.png  used on input line 564.
+_na_unifap.png  used on input line 566.
 (pdftex.def)             Requested size: 77.34917pt x 116.55595pt.
-<./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png, id=552, 1
+<./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png, id=553, 1
 72.84575pt x 262.581pt>
 File: ./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png Graph
 ic file (type png)
 <use ./04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png>
 Package pdftex.def Info: ./04-figuras/caronae/tela_criacao_da_carona_de_saida_d
-a_unifapp.png  used on input line 574.
+a_unifapp.png  used on input line 576.
 (pdftex.def)             Requested size: 113.75pt x 172.80315pt.
  [37 <./04-figuras/caronae/tela_criacao_da_carona_de_chegada_na_unifap.png> <./
 04-figuras/caronae/tela_criacao_da_carona_de_saida_da_unifapp.png>]
@@ -1477,7 +1477,7 @@ File: ./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png Graphic f
 ile (type png)
 <use ./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png>
 Package pdftex.def Info: ./04-figuras/caronae/tela_usuarios_do_painel_administr
-ativo.png  used on input line 584.
+ativo.png  used on input line 586.
 (pdftex.def)             Requested size: 409.49722pt x 196.19144pt.
 ) [38 <./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png>]
 \openout2 = `./02-elementos-textuais/resultados-finais.aux'.
@@ -1541,10 +1541,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 22079 strings out of 478864
- 344085 string characters out of 2858518
- 780569 words of memory out of 3000000
- 39005 multiletter control sequences out of 15000+600000
+ 22080 strings out of 478864
+ 344099 string characters out of 2858518
+ 780583 words of memory out of 3000000
+ 39006 multiletter control sequences out of 15000+600000
  453908 words of font info for 290 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,133p,1271b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1552,7 +1552,7 @@ Here is how much of TeX's memory you used:
 /fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/p
 alatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pf
 b>
-Output written on main.pdf (49 pages, 2702273 bytes).
+Output written on main.pdf (49 pages, 2702204 bytes).
 PDF statistics:
  813 PDF objects out of 1000 (max. 8388607)
  182 named destinations out of 1000 (max. 500000)
