@@ -233,7 +233,7 @@ O questionário revisou o tempo que a comunidade gasta usando smartphones, um di
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Tempo de uso do \textit{Smartphone} pelos entrevistados}
-	\includegraphics[width=0.7\textwidth]{./04-figuras/questionario/17.png}
+	\includegraphics[width=0.8\textwidth]{./04-figuras/questionario/17.png}
 	\label{fig:usodosmartphone}
 	\fonte{Elaborado pelo autor}
 \end{figure}
@@ -438,26 +438,79 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 \end{itemize}
 \end{comment}
 
-\section{Desenvolvimento do Sistema}
-\subsection{Tecnologias Utilizadas}
+%\section{Desenvolvimento do Sistema}
+\section{Tecnologias Utilizadas}
 
 \begin{itemize}
-	\item Java
-	\item Android Studio
-	\item Laravel
-	\item MVC
+	\item \textbf{Java}
+	
+	%Java é uma linguagem de programação orientada a objetos criada em 1990 pela empresa Sun Microsystems e hoje pertence a Oracle. O java é uma lingaguem multiplataforma, podendo ser utilizando tanto em navegadores quanto em dispositivos para smartphones, Windows, linux e outros perífericos isso porque o código Java não é compilado para uma linguagem de máquina e sim para uma linguagem intermediária chamada bytecode que é interpretada e executava pela máquina virtual (JVM) Java.	
+	Java é uma linguagem de programação orientada a objetos desenvolvida pela Sun Microsystems em 1990 e agora de propriedade da Oracle. Java é uma linguagem multiplataforma que pode ser utilizada tanto em navegadores quanto em dispositivos para smartphones, Windows, Linux e outros periféricos, pois o código Java não é compilado em uma linguagem de máquina, mas em uma linguagem intermediária chamada bytecode, que é interpretada e executado pela Java Virtual Machine (JVM).
+	
+	\item \textbf{Android Studio}
+	
+	%O Android Studio é chamado de Ambiente de Desenvolvimento Integrado (ou IDE, sigla em inglês para Integrated Development Environment), um programa de computador que reúne as características e ferramentas de apoio para a criação de aplicativos para dispositivos móveis para Android. Hoje suportando duas linguagens de programação, Java e mais recente, Kotlin, as duas voltadas para o desenvolvimento de aplicações Android.
+	O Android Studio é chamado de Ambiente de Desenvolvimento Integrado (ou IDE), um programa de computador que combina os recursos e ferramentas de suporte para a criação de aplicativos móveis para Android. Hoje suporta duas linguagens de programação, Java e, mais recentemente, Kotlin, ambas destinadas ao desenvolvimento de aplicativos Android.
+	
+	\item \textbf{Laravel}
+	
+	%Gratuito, de código aberto, com suporte a recursos avançados e facilidade na construção do código, simples e legível com a utilização do padrão MVC: essas são as principais vantagens do Laravel, o que torna ele o framework preferido por muitos desenvolvedores. O Laravel se tornou o framework mais utilizado por desenvolvedores PHP que trabalham nessa ferramenta utilizando o padrão de desenvolvimento.
+	Gratuito, de código aberto, com suporte para recursos avançados e fácil construção de código, simples e legível usando o padrão MVC: essas são as principais vantagens do Laravel que o tornam o framework preferido de muitos desenvolvedores. O Laravel se tornou o framework mais utilizado para desenvolvedores PHP que trabalham com esta ferramenta utilizando o padrão de desenvolvimento.%https://www.tecmundo.com.br/software/223718-laravel-conheca-o-framework-php-utilizado.htm
+	
+	\item \textbf{MVC}
+	
+	É um padrão de projeto de software que significa Model, View e Controller, fácil e eficiente, este padrão tem como pontos positivos trabalhar com reuso de código e dividir em 3 camadas a estrutura do projeto, o deixando a solução fácil e eficiente
+	
+	\textbf{Model: } %É a camada responsável pela regra de negócio da aplicação, é onde está as informações necessárias que toda a solução irá precisar para funcionar, desde consultas ao banco de dados, validações, notificações, entre outras coisas que serão consultadas em algum momento na aplicação.
+	É a camada responsável pelas regras de negócio da aplicação. É onde estão localizadas as informações necessárias que toda a solução precisa para funcionar, como consultas de banco de dados, validações, notificações e outras coisas que são consultadas em algum ponto da aplicação.
+	
+	\textbf{View: } %Será onde todas essas informações e ações serão exibidas para o usuário, é na View que as informações são renderizadas, a parte interação homem-máquina fica responsável por essa camada.
+	É aqui que todas essas informações e ações são exibidas ao usuário. Este nível é responsável pela interação entre homem e máquina.
+	
+	\textbf{Controller:} %O meio de campo das duas aplicações, o Controller fica a parte do código que gerencia o momento de chamar cada função, cada ação que deverá ser executa. O controller recebe instruções dá View, encaminha para o Model e as retorna quando necessário.
+	No meio das duas aplicações, o controlador é a parte do código que gerencia o tempo para chamar cada função, cada ação que precisa ser executada. O controlador recebe instruções da View, as encaminha para o modelo e as retorna quando necessário.
+	%colocar a imagem de um modelo mvc
+	
 	\item REST
-	\item Heroku
-	\item Firebase
-	\item PostGreSQL
+	
+	\item \textbf{Heroku}
+	
+	%O Heroku é uma plataforma como serviços (PaaS) utilizada para facilitar o deploy de aplicações backend, testes em produção ou hospedagem de sites ou APIs. Bastante utilizada, o Heroku tem integrações com o GitHub, facilitando ainda mais a vida de seus usuários, suas atualizações de código são automaticamente replicadas para a aplicação na medida que o seu repositório é alterado no GitHub, além de suportar várias ferramentas PostGres e soluções backend como NodeJS, Laravel.
+	Heroku é uma plataforma como serviço (PaaS) que facilita a implantação de aplicativos de back-end, testes em produção ou hospedagem de sites ou APIs. O Heroku é muito utilizado e possui integrações com o GitHub que facilitam ainda mais a vida de seus usuários. Suas atualizações de código são replicadas automaticamente para o aplicativo quando o repositório no GitHub é alterado. Além disso, o Heroku suporta várias ferramentas PostGres e soluções de back-end como NodeJS, Laravel.
+	%falar sobre o dynos
+	
+	\item \textbf{Firebase}
+	
+	%Firebase é uma plataforma digital desenvolvida pela google utilizada para facilitar o desenvolvimento de aplicativos web ou móveis, de uma forma efetiva, rápida e simples. Suas funcionalidades principais são Firebase Authentication, que fica responsável por toda da parte de autenticação dos aplicativos, Cloud Messaging, responsável por toda parte de notificações da aplicação, podendo notificar várias plataformas, e o Realtime Messaging, onde é utilizado para mensagens instantâneas, a exemplo, o Whatsapp.
+	O Firebase é uma plataforma digital desenvolvida pelo Google para facilitar o desenvolvimento de aplicativos web ou mobile de forma eficaz, rápida e fácil. As principais funcionalidades são Firebase Authentication, que é responsável por toda autenticação de aplicativos, Cloud Messaging, que é responsável por todas as notificações de aplicativos e pode notificar várias plataformas, e Realtime Messaging, que é usado para mensagens instantâneas.
+	%falar mais do cloud messaging
+	
+	\item \textbf{PostGfreSQL}
+	
+	%É um banco de dados objeto relacional de código aberto muito utilizando em todo o mundo, por ser seguro, robusto, de alto desempenho e multitarefa, o PostGresSQL é recomendado para projetos que precisam de alta disponibilidade, persistência num grande volume de dados, além de ter uma ferramenta de fácil aprendizado.
+	PostGresSQL é um banco de dados relacional de objeto de código aberto amplamente utilizado em todo o mundo. Por ser seguro, robusto, poderoso e multitarefa, o PostGresSQL é recomendado para projetos que exigem alta disponibilidade, persistência com grandes quantidades de dados e uma ferramenta de fácil aprendizado.
+	
+	%colocar as tabelas disponiveis no terminal do heroku
+	%https://pt.education-wiki.com/5154595-what-is-postgresql
+	
 \end{itemize}
 
-\subsection{Etapas do Desenvolvimento}
+%\subsection{Etapas do Desenvolvimento}
+\section{Etapas do Desenvolvimento}
+
+\subsection{Estudo do código}
+\subsection{Atualização dos pacotes}
+\subsection{Correções}
+\subsection{Deploy do aplicativo no Google Play}
+\subsection{Deploy da API no Heroku}
+
+
+\section{Testes da aplicação}
 
 \section{Estudo sobre Soluções de Mobilidade Inteligente}
-
-%PESQUISA DE ACEITAÇÃO DO CARONAE
+ESQUISA DE ACEITAÇÃO DO CARONAE
 %TELAS
+%P
 
 \begin{comment} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     
@@ -615,6 +668,7 @@ Além destes pontos mencionados, o Caronaê para a Universidade também tem como
 \end{figure}
 
 No momento, para utilizar o aplicativo estão rodando em um banco de dados PostgreSQL \footnote{https://www.postgresql.org/docs/} local, o serviço de backend e do sistema administrativo pelo servidor local do laravel \footnote{https://laravel.com/} e o emulador do Android Studio\footnote{https://developer.android.com/studio} também localmente.
+
 
 \begin{comment}
 	\mnote{Patrícia: falar sobre que características o Caronaê deveria ter para ser implementado na UNIFAP, que características já existentes permaneceriam, que características já existentes devem ser adaptadas ou modificadas, que características já existentes devem ser retiradas e que características devem ser incluídas considerando o contexto da Unifap e Macapá. Isso seria o seu levantamento de requisitos.}
