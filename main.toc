@@ -23,34 +23,17 @@
 \contentsline {subsection}{\numberline {2.7.1}BlaBlaCar}{13}{subsection.2.7.1}%
 \contentsline {subsection}{\numberline {2.7.2}Bynd}{13}{subsection.2.7.2}%
 \contentsline {subsection}{\numberline {2.7.3}Vemcar}{14}{subsection.2.7.3}%
-\contentsline {subsection}{\numberline {2.7.4}Caronaê}{14}{subsection.2.7.4}%
-\contentsline {subsection}{\numberline {2.7.5}Waze Carpool}{15}{subsection.2.7.5}%
+\contentsline {subsection}{\numberline {2.7.4}RideUFF}{14}{subsection.2.7.4}%
+\contentsline {subsection}{\numberline {2.7.5}Caronaê}{15}{subsection.2.7.5}%
+\contentsline {subsection}{\numberline {2.7.6}Waze Carpool}{15}{subsection.2.7.6}%
 \contentsline {section}{\numberline {2.8}Veículos Compartilhados}{16}{section.2.8}%
 \contentsline {subsection}{\numberline {2.8.1}Yellow}{16}{subsection.2.8.1}%
 \contentsline {subsection}{\numberline {2.8.2}ZipCar}{16}{subsection.2.8.2}%
 \contentsline {chapter}{\chapternumberline {3}Trabalhos Relacionados}{18}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Vemcar}{18}{section.3.1}%
-\contentsline {section}{\numberline {3.2}RideUFF}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.2}RideUFF}{19}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Caronaê}{19}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Waze Carpool}{19}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Quadro Comparativo}{20}{section.3.5}%
 \contentsline {chapter}{\chapternumberline {4}Carona solidária para Unifap}{21}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Perfil da comunidade acadêmica e os problema enfrentados}{21}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Definições dos Requisitos}{28}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Requisitos Funcionais}{28}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Requisitos Não Funcionais}{30}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Tecnologias Utilizadas}{30}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Etapas do Desenvolvimento}{32}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Estudo do código}{32}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Atualização dos pacotes}{32}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Correções}{32}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}Deploy do aplicativo no Google Play}{32}{subsection.4.4.4}%
-\contentsline {subsection}{\numberline {4.4.5}Deploy da API no Heroku}{32}{subsection.4.4.5}%
-\contentsline {section}{\numberline {4.5}Testes da aplicação}{32}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Estudo sobre Soluções de Mobilidade Inteligente}{32}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Waze Carpool x Caronaê}{33}{subsection.4.6.1}%
-\contentsline {section}{\numberline {4.7}Proposta de Solução de Mobilidade para Unifap}{34}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Características do Caronaê-UFRJ}{34}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Características do Caronaê para UNIFAP}{38}{subsection.4.7.2}%
-\contentsline {chapter}{\chapternumberline {5}Resultados Finais}{41}{chapter.5}%
-\contentsline {chapter}{Refer\^encias}{42}{chapter*.41}%

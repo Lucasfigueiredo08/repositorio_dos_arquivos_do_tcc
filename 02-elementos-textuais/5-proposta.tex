@@ -117,17 +117,30 @@ Para muitos, o transporte de e para a faculdade torna-se um grande problema dura
 \end{figure}
 
 %E mais de 50\% destes entrevistados utilizam o transporte público para chegar ou sair da Universidade, e nessa mesma pergunta conseguimos estimar a quantidade dos entrevistados que possuem carro próprio, 26,9\% responderam que utilizam carro para chegar a universidade e 24,7\% utilizam para sair da Universidade, como mostra a figura \ref{fig:chegadanaunifap1} e \ref{fig:saidadaunifap1}.
-E mais de 50\% desses entrevistados usam transporte público para ir ou voltar da faculdade. A mesma pergunta permitiu estimar o número de respondentes que possuem carro próprio: 26,9\% responderam que usam carro para chegar à faculdade e 24,7\% para sair da faculdade, conforme mostram as \ref{fig:chegadanaunifap1} e \ref{fig:saidadaunifap1}.
+E mais de 50\% desses entrevistados usam transporte público para ir ou voltar da faculdade. A mesma pergunta permitiu estimar o número de respondentes que possuem carro próprio: 26,9\% responderam que usam carro para chegar à faculdade e 24,7\% para sair da faculdade, conforme as figuras 13(a) e 13(b).
 
-\begin{figure}[!hbtp]
-	\centering
-	\caption{Como você geralmente chega na Unifap? -  Parte 1}
-	\includegraphics[width=0.7\textwidth]{./04-figuras/questionario/7.png}
-	\label{fig:chegadanaunifap1}
+\begin{figure}[h]
+	
+	\center
+	\subfigure[fig:chegadanaunifap1][Como você geralmente chega na Unifap?]{\includegraphics[width=7cm]{./04-figuras/questionario/7.png}}
+	\qquad
+	\subfigure[fig:saidadaunifap1][Como você geralmente sai da unifap?]{\includegraphics[width=7cm]{./04-figuras/questionario/9.png}}
+	\caption{Como você geralmente chega ou sai da Unifap?}
 	\fonte{Elaborado pelo autor.}
+	
 \end{figure}
 
+
 \begin{comment}
+\begin{figure}[!hbtp]
+\centering
+\caption{Como você geralmente chega na Unifap? -  Parte 1}
+\includegraphics[width=0.7\textwidth]{./04-figuras/questionario/7.png}
+\label{fig:chegadanaunifap1}
+\fonte{Elaborado pelo autor.}
+\end{figure}
+
+
 \begin{figure}[!hbtp]
 \centering
 \caption{Como você geralmente chega na Unifap? - Parte 2}
@@ -135,7 +148,7 @@ E mais de 50\% desses entrevistados usam transporte público para ir ou voltar d
 \label{fig:chegadanaunifap2}
 \fonte{Elaborado pelo autor.}
 \end{figure}
-\end{comment}
+
 
 
 \begin{figure}[!hbtp]
@@ -146,7 +159,7 @@ E mais de 50\% desses entrevistados usam transporte público para ir ou voltar d
 	\fonte{Elaborado pelo autor.}
 \end{figure}
 
-\begin{comment}
+
 	conteúdo...\begin{figure}[!hbtp]
 	\centering
 	\caption{Como você geralmente sai da Unifap - Parte 2}
@@ -185,8 +198,18 @@ Na Figura \ref{fig:motivos-nao-ir-a-unifao}, das 187 respostas ao questionário,
 \end{figure}
 
 %Sobre as relações com o tempo gasto, não pararam de ser mencionadas, quando perguntados quais os motivos de aderirem um sistema de caronas, a maioria dos entrevistados apontaram também o tempo gasto como motivo para aceitar caronas, dados apresentados nas figuras \ref{fig:motivosparacarona1} e \ref{fig:motivosparacarona2}.
-Quanto à conexão com o gasto de tempo, isso foi mencionado repetidamente. Quando questionados sobre os motivos para participar de uma carona, a maioria dos entrevistados também citou o tempo como motivo para aceitar carona, conforme mostram os dados das figuras \ref{fig:motivosparacarona1} e \ref{fig:motivosparacarona2}.
+Quanto à conexão com o gasto de tempo, isso foi mencionado repetidamente. Quando questionados sobre os motivos para participar de uma carona, a maioria dos entrevistados também citou o tempo como motivo para aceitar carona, conforme mostram os dados das figuras % \ref{fig:motivosparacarona1} e \ref{fig:motivosparacarona2}.
 
+\begin{figure}[h]
+
+	\subfigure[fig:motivosparacarona1][Como você geralmente chega na Unifap?]{\includegraphics[width=7cm]{{./04-figuras/questionario/13.png}}
+	\qquad
+	\subfigure[fig:motivosparacarona2][Como você geralmente sai da unifap?]{\includegraphics[width=7cm]{./04-figuras/questionario/14.png}}
+	\caption{Como você geralmente chega ou sai da Unifap?}
+\end{figure}
+
+
+\begin{comment}
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Motivos para aceitar carona - Parte 1}
@@ -194,7 +217,6 @@ Quanto à conexão com o gasto de tempo, isso foi mencionado repetidamente. Quan
 	\label{fig:motivosparacarona1}
 	\fonte{Elaborado pelo autor.}
 \end{figure}
-
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Motivos para aceitar carona - Parte 2}
@@ -202,6 +224,7 @@ Quanto à conexão com o gasto de tempo, isso foi mencionado repetidamente. Quan
 	\label{fig:motivosparacarona2}
 	\fonte{Elaborado pelo autor.}
 \end{figure}
+\end{comment}
 
 %Quando foi perguntado aos entrevistados se participavam de grupos de caronas, 96,6\% responderam à pesquisa que \textit{“Não participavam”}. Então, um aplicativo de caronas para a universidade poderá criar uma cultura que ainda é inexistente.
 Quando perguntados se participam de caronas, 96,6\% dos entrevistados responderam \textit{“Não participavam”}. Assim, um aplicativo de carona na faculdade poderia criar uma cultura que ainda não está presente.
@@ -248,7 +271,7 @@ O resultado foi satisfatório. Fica claro que a comunidade está disposta a ader
 Para definir os requisitos funcionais e não funcionais da solução, considerou-se o questionário, soluções existentes e consolidadas e soluções open source.
 
 %Levando em consideração o questionário realizado, o requisito mais importante e de suma importância para o projeto será a funcionalidade da solução ser acessada apenas por pessoas vinculadas a Unifap.
-Levando em consideração o questionário realizado, o requisito mais importante para o projeto será a funcionalidade da solução, que poderá ser acessada apenas por aqueles associados à Unifap. \mnote{parei aqui }
+Levando em consideração o questionário realizado, o requisito mais importante para o projeto será a funcionalidade da solução, que poderá ser acessada apenas por aqueles associados à Unifap.
 
 %- Acesso somente a usuários da comunidade acadêmica
 
@@ -471,7 +494,7 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 	No meio das duas aplicações, o controlador é a parte do código que gerencia o tempo para chamar cada função, cada ação que precisa ser executada. O controlador recebe instruções da View, as encaminha para o modelo e as retorna quando necessário.
 	%colocar a imagem de um modelo mvc
 	
-	\item REST
+	%\item REST
 	
 	\item \textbf{Heroku}
 	
@@ -498,8 +521,69 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 %\subsection{Etapas do Desenvolvimento}
 \section{Etapas do Desenvolvimento}
 
-\subsection{Estudo do código}
+Nesta seção iremos falar sobre as etapas que foram realizadas no desenvolvimento da aplicação do Caronaê Unifap, das mudanças e ajustes que foram realizados.
+
+%\subsection{Estudo do código}
 \subsection{Atualização dos pacotes}
+Inicialmente foram atualizados os pacotes da versão do Caronaê disponível. Desde a versão da API 28.0.0 do Android 9 (Pie) o pacote da Support Library não é mais suportado pelo sistema havendo a necessidade de todos os projetos anteriores migrarem o Support Library para o novo pacote chamado de AndroidX, com isso muitas telas precisaram ser adaptadas para funcionamento nessa nova versão. Novos aplicativos só podem fazer uso da AndroidX e não mais a velha biblipteca suporte.
+
+\begin{figure}[!hbtp]
+	\centering
+	\caption{Migrção do Support Library pro AndroidX}
+	\includegraphics[width=0.7\textwidth]{./04-figuras/desenvolvimento/mudanças/androidx.png}
+	\label{fig:1}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+	
+A partir do Android Studio 3.2.1 as IDEs já contam com um atalho de conversão para os aplicativos legados:
+
+Refactor -> Migrate to AndroidX
+
+\begin{figure}[!hbtp]
+	\centering
+	\caption{Atalho da migração do Support Library pro AndroidX na IDE}
+	\includegraphics[width=0.7\textwidth]{./04-figuras/desenvolvimento/mudanças/atalho-androidstudio.png}
+	\label{fig:2}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+Outras atualizações necessárias foram as de dependência externas, como as de máscaras e do Firebase.
+
+\begin{figure}[!hbtp]
+	\centering
+	\caption{Atualização da versão do Firebase}
+	\includegraphics[width=0.7\textwidth]{./04-figuras/desenvolvimento/mudanças/dependencias-firebase.png}
+	\label{fig:7}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+A atualização do Firebase foi para a nova versão da funcionalidade do firebase-messaging utilizada na rotina de chat do aplicativo, possibilitando o armazenamentos das mensagens no serviço e a troca em tempo real das informações.
+
+A dependência também possibilita o uso das notoficações das mensagens enviadas no chat e das notificações de solicitação de caronas para o motorista e do aceite da carona para o passageiro.
+
+Também foi incluso o firebase-analytics onde podemos olhar na solução cloud um gráfico da quantidade de pessoas que acessaram o aplicativo e quais rotinas e o tempo que foram utilizadas, entre outras funcionalidade.
+
+\begin{comment}
+\begin{figure}[!hbtp]
+	\centering
+	\caption{Dashboard Analytics do Firebase}
+	\includegraphics[width=0.7\textwidth]{./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png}
+	\label{fig:5}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+\end{comment}
+
+\begin{comment}
+
+\begin{figure}[h]
+	\center
+	\subfigure[fig:dashboard][Atividade do usuário ao longo do tempo]{\includegraphics[width=7cm]{./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png}}
+	\qquad
+	\subfigure[fig:uso_das_rotina][Contagem dos eventos por Nome do Evento]{\includegraphics[width=7cm]{./04-figuras/desenvolvimento/mudanças/uso_das_rotinas.png}}
+	\caption{Dashboard Analytics do Firebase}
+\end{figure}
+\end{comment}
+	
 \subsection{Correções}
 \subsection{Deploy do aplicativo no Google Play}
 \subsection{Deploy da API no Heroku}
@@ -508,7 +592,7 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 \section{Testes da aplicação}
 
 \section{Estudo sobre Soluções de Mobilidade Inteligente}
-ESQUISA DE ACEITAÇÃO DO CARONAE
+%PESQUISA DE ACEITAÇÃO DO CARONAE
 %TELAS
 %P
 

@@ -1,7 +1,8 @@
 \chapter{Trabalhos Relacionados}
 
-\section{Vemcar}
+Nesta seção falaremos sobre trabalhos semelhantes à proposta de viagens solidárias. Selecionamos 5 aplicativos voltados para a área acadêmica ou desenvolvidos por grandes empresas como Waze e Blablacar. Ao final, apresentamos a tabela de comparação utilizando os recursos necessários para nossa área acadêmica e principalmente o fato de o aplicativo ser \textit{open-source}\footnote{Open-source: Ele é um código projetado para ser acessado abertamente pelo público: todas as pessoas podem vê-lo, modificá-lo e distribuí-lo conforme suas necessidades. Disponível em: <https://www.redhat.com/pt-br/topics/open-source/what-is-open-source> Acesso em: 26 de Nov. de 2021} e pode ser adaptado à realidade de nossa faculdade.
 
+\section{Vemcar}
 %Desenvolvido na Universidade Federal do Rio Grande do Norte, o aplicativo Vemcar começou a ser desenvolvido em uma disciplina oferecida no curso de Engenharia de Software, logo após, o protótipo passou para a equipe da Superintendência de Informática da Universidade Federal do Rio Grande do Norte (SINFO), lá foi realizado toda a validação da ideia, surgimento dos requisitos e foram aplicadas as regras do um processo de software. No Vemcar somentes pessoas ligadas à universidade( professores, alunos, técnicos) podem utilizar o aplicativo.
 O aplicativo Vemcar foi desenvolvido no Universidade Federal do Rio Grande do Norte. Foi desenvolvido inicialmente como parte do curso de Engenharia de Software, antes de o protótipo ser entregue à equipe da Superintendência de Ciência da Computação do Universidade Federal do Rio Grande do Norte (SINFO), onde ocorreu toda a validação da ideia, a criação dos requisitos e a aplicação das regras de um processo de software. Na Vemcar, somente pessoas relacionadas a universidade (professores, alunos, técnicos) podem utilizar o aplicativo.
 
@@ -37,8 +38,9 @@ O projeto foi inspirado por outras iniciativas de caronas universitárias, uma d
 O Caronaê é um aplicativo de carona desenvolvido por alunos da Faculdade Federal do Rio de Janeiro (UFRJ) e voltado para o ambiente universitário. O aplicativo está disponível para duas plataformas, Android e iOS. O site oficial afirma que Caronaê é um sistema de carona aberto, seguro e prático, desenvolvido com o objetivo de ser replicado em diferentes instituições e exclusivamente para a comunidade acadêmica das instituições que pertencem à rede Caronaê (CARONAÊ, 2020).
 
 %Dos pontos interessantes que o aplicativo oferece são, o uso exclusivo da comunidade acadêmica, a centralização das ofertas de carona, o aumento da taxa de ocupação dos veículos e pontos de carona para facilitar o encontro de caroneiro e carona. A Figura~\ref{fig:caronae} mostra a tela inicial do site do aplicativo de carona \textbf{Caronaê}.
-Os pontos de interesse oferecidos pelo aplicativo incluem uso exclusivo pela comunidade acadêmica, centralização da oferta de caronas, aumento da utilização de veículos e pontos de carona para facilitar o encontro de caronas e caroneiros. Na Figura ~\ref{fig:caronae} temos a propaganda do aplicativo no site oficial. %podemos ver a tela inicial do aplicativo.mostra a tela inicial do site do aplicativo Caronaê.
+Os pontos de interesse oferecidos pelo aplicativo incluem uso exclusivo pela comunidade acadêmica, centralização da oferta de caronas, aumento da utilização de veículos e pontos de carona para facilitar o encontro de caronas e caroneiros. %Na Figura ~\ref{fig:caronae} temos a propaganda do aplicativo no site oficial. %podemos ver a tela inicial do aplicativo.mostra a tela inicial do site do aplicativo Caronaê.
 
+\begin{comment}
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Aplicativo de Carona Solidária Caronaê}
@@ -46,6 +48,7 @@ Os pontos de interesse oferecidos pelo aplicativo incluem uso exclusivo pela com
 	\label{fig:caronae}
 	\fonte{https://caronae.org/index.html}
 \end{figure}
+\end{comment}
 
 \section{Waze Carpool}
 Aplicativo das Empresas Waze, o \textit{Waze Carpool} é uma variante dos serviços da Waze que oferece compartilhamento de caronas entre seus usuários. O serviço oferecido pela empresa funciona através de um programa de parcerias. O aplicativo é bem dinâmico e intuitivo. A empresa aproveita os dados do aplicativo Waze para alimentar a dinâmica de navegação do Waze Carpool. como mostra a tela de grupos do aplicativo na Figura~\ref{fig:tela_grupos_wazecarpool}.
@@ -66,24 +69,29 @@ O aplicativo tem uma dinâmica interessante, pois funciona criando grupos, e os 
 Esses grupos são criados e administrados por um responsável pela comunicação da instituição com a empresa, chamado de "embaixador".
 % texto do material da waze 
 
+
+
 \section{Quadro Comparativo}
 
-\begin{table}[]
+\begin{quadro}[H]
 	\centering
 	\caption{Trabalhos Relacionados}
 	\label{tab:quadro-comparativo}
-	\begin{tabular}{|l|l|l|l|l|l|l|}
+	\resizebox{1.0\textwidth}{0.1\textheight}{
+	\begin{tabular}{|l|c|c|c|c|c|}
 		\hline
-		& Caronaê Unifap & Vemcar & RideUFF & Caronaphone & Waze Carpool & Blablacar \\ \hline
+		& Caronaê & Vemcar & RideUFF & Waze Carpool & Blablacar \\ \hline
 		Oferecer/Solicitar
-		Caronas &                &        &         &             &              &           \\ \hline
+		Caronas &         Sim       &     Sim  &   Sim      &     Sim        &   Sim                      \\ \hline
 		Identificação dos 
-		usuários &                &        &         &             &              &           \\ \hline
-		Restrição do público       &                &        &         &             &              &           \\ \hline
-		Custo da viagem            &                &        &         &             &              &           \\ \hline
-		Plataforma                 &                &        &         &             &              &           \\ \hline
+		usuários &        Sim        &     Sim   &   Sim      &    Sim         &    Sim                     \\ \hline
+		Restrição do público       &      Sim          &    Sim    &   Sim      &     Não        &       Não                  \\ \hline
+		Remuneração            &      Não         &   Não   &   Não      &      Sim       &        Sim                 \\ \hline
+		Plataforma                 &      Android/iOS          &   Android     &  Android       &      Android/iOS       &  Android/iOS                       \\ \hline
 		Chat entre 
-		usuários        &                &        &         &             &              &           \\ \hline
-\end{tabular}}
-\end{table}
+		usuários        &        Sim        &    Sim     &   Não      &      Sim       &       Sim                  \\ \hline
+		Open-source        &      Sim          &    Não    &    Não     &      Não       &      Não                   \\ \hline
+\end{tabular}
+}
+\end{quadro}
 
