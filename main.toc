@@ -39,18 +39,18 @@
 \contentsline {section}{\numberline {4.1}Perfil da comunidade acadêmica e os problema enfrentados}{21}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Definições dos Requisitos}{27}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Requisitos Funcionais}{28}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Requisitos Não Funcionais}{30}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Tecnologias Utilizadas}{30}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Etapas do Desenvolvimento}{32}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Atualização dos pacotes}{32}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Correções}{35}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Deploy do aplicativo no Google Play}{35}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}Deploy da API no Heroku}{35}{subsection.4.4.4}%
-\contentsline {section}{\numberline {4.5}Testes da aplicação}{35}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Estudo sobre Soluções de Mobilidade Inteligente}{35}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Waze Carpool x Caronaê}{35}{subsection.4.6.1}%
-\contentsline {section}{\numberline {4.7}Proposta de Solução de Mobilidade para Unifap}{36}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Características do Caronaê-UFRJ}{37}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Características do Caronaê para UNIFAP}{40}{subsection.4.7.2}%
-\contentsline {chapter}{\chapternumberline {5}Resultados Finais}{44}{chapter.5}%
-\contentsline {chapter}{Refer\^encias}{45}{chapter*.8}%
+\contentsline {subsection}{\numberline {4.2.2}Requisitos Não Funcionais}{31}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Tecnologias Utilizadas}{31}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Etapas do Desenvolvimento}{33}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Atualização dos pacotes}{33}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Correções}{36}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Deploy do aplicativo no Google Play}{36}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Deploy da API no Heroku}{36}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}Testes da aplicação}{36}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Estudo sobre Soluções de Mobilidade Inteligente}{36}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Waze Carpool x Caronaê}{36}{subsection.4.6.1}%
+\contentsline {section}{\numberline {4.7}Proposta de Solução de Mobilidade para Unifap}{37}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Características do Caronaê-UFRJ}{38}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Características do Caronaê para UNIFAP}{41}{subsection.4.7.2}%
+\contentsline {chapter}{\chapternumberline {5}Resultados Finais}{45}{chapter.5}%
+\contentsline {chapter}{Refer\^encias}{46}{chapter*.8}%
