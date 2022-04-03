@@ -163,9 +163,9 @@ Quanto à conexão com o gasto de tempo, isso foi mencionado repetidamente. Quan
 \begin{figure}[h]
 	
 	\center
-	\subfigure[fig:motivosparacarona1][Parte 1]{\includegraphics[width=7.9cm]{./04-figuras/questionario/13.png}}
+	\subfigure[fig:motivosparacarona1][Parte 1]{\includegraphics[width=8.5cm]{./04-figuras/questionario/13.png}}
 	\qquad
-	\subfigure[fig:motivosparacarona2][Parte 2]{\includegraphics[width=7.9cm]{./04-figuras/questionario/14.png}}
+	\subfigure[fig:motivosparacarona2][Parte 2]{\includegraphics[width=8.5cm]{./04-figuras/questionario/14.png}}
 	\caption{Qual o principal motivo para aceitar ou oferecer carona?}
 	\fonte{Elaborado pelo autor.}
 	
@@ -178,13 +178,15 @@ Quando perguntados se participam de caronas, 96,6\% dos entrevistados respondera
 
 %Das 185 pessoas que responderam o questionário, 97.7\% dos entrevistados acharam \textit{“ótima”} ou \textit{“boa”} a iniciativa de um aplicativo que os usuários possam consultar viagens de ida para a universidade ou de volta da universidade, como mostra na figura \ref{fig:percepcao}.
 Das 185 pessoas que responderam ao questionário, 97,7\% dos entrevistados acharam “ótima” ou “boa” a iniciativa de um aplicativo que os usuários podem consultar na ida e volta da faculdade, como mostra a Figura \ref{fig:percepcao}.
+
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Percepção sobre a proposta de um aplicativo de carona para a Unifap}
-	\includegraphics[width=0.8\textwidth]{./04-figuras/questionario/15.png}
+	\includegraphics[width=0.85\textwidth]{./04-figuras/questionario/15.png}
 	\label{fig:percepcao}
 	\fonte{Élaborado pelo autor.}
 \end{figure}
+
 
 %Em relação a esse uso de tecnologia, a comunidade acadêmica já está bem familiarizada com aplicativos relacionados à mobilidade, na figura \ref{fig:conhecimento-sobre-apps}, das 186 respostas ao questionário, apenas 15,1\% responderam não utilizar nenhum dos aplicativos listados.
 Em termos de uso de tecnologia, a comunidade acadêmica já está bem versada em aplicações relacionadas à mobilidade. Na Figura \ref{fig:conhecimento-sobre-apps}, das 186 respostas ao questionário, apenas 15,1\% indicaram não utilizar nenhum dos aplicativos listados.
@@ -243,6 +245,9 @@ Levando em consideração o questionário realizado, o requisito mais importante
 
 O sistema deve permitir ao discente o acesso solicitando seu CPF e senha dos usuários cadastrados.
 %%%%%%%%%%
+
+
+
 
 \textbf{[RF002] Criar caronas}
 
@@ -440,7 +445,11 @@ Os usuários devem concordar com o termo de uso do aplicativo antes de utilizá-
 
 
 
-\textbf{[NF004] O sistema deverá se comunicar com o banco SQL Server}
+\textbf{[NF004] O sistema deverá se comunicar com o banco de dados PostgresSQL}
+
+\textbf{Prioridade}:      [x] Essencial        [] Importante     [] Desejável 
+
+\textbf{[NF005] O sistema utiliza a cloud Heroku para o backend do aplicativo.}
 
 \textbf{Prioridade}:      [x] Essencial        [] Importante     [] Desejável 
 
@@ -486,52 +495,50 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 
 %\section{Desenvolvimento do Sistema}
 \section{Tecnologias Utilizadas} 
-
-\begin{itemize}
-	\item \textbf{Java}
+	\textbf{Java}
 	
 	%Java é uma linguagem de programação orientada a objetos criada em 1990 pela empresa Sun Microsystems e hoje pertence a Oracle. O java é uma lingaguem multiplataforma, podendo ser utilizando tanto em navegadores quanto em dispositivos para smartphones, Windows, linux e outros perífericos isso porque o código Java não é compilado para uma linguagem de máquina e sim para uma linguagem intermediária chamada bytecode que é interpretada e executava pela máquina virtual (JVM) Java.	
 	Java é uma linguagem de programação orientada a objetos desenvolvida pela Sun Microsystems em 1990 e agora de propriedade da Oracle. Java é uma linguagem multiplataforma que pode ser utilizada tanto em navegadores quanto em dispositivos para smartphones, Windows, Linux e outros periféricos, pois o código Java não é compilado em uma linguagem de máquina, mas em uma linguagem intermediária chamada bytecode, que é interpretada e executado pela Java Virtual Machine (JVM).
 	
-	\item \textbf{Android Studio}
+	\textbf{Android Studio}
 	
 	%O Android Studio é chamado de Ambiente de Desenvolvimento Integrado (ou IDE, sigla em inglês para Integrated Development Environment), um programa de computador que reúne as características e ferramentas de apoio para a criação de aplicativos para dispositivos móveis para Android. Hoje suportando duas linguagens de programação, Java e mais recente, Kotlin, as duas voltadas para o desenvolvimento de aplicações Android.
 	O Android Studio é chamado de Ambiente de Desenvolvimento Integrado (ou IDE), um programa de computador que combina os recursos e ferramentas de suporte para a criação de aplicativos móveis para Android. Hoje suporta duas linguagens de programação, Java e, mais recentemente, Kotlin, ambas destinadas ao desenvolvimento de aplicativos Android.
 	
-	\item \textbf{Laravel}
+	\textbf{Laravel}
 	
 	%Gratuito, de código aberto, com suporte a recursos avançados e facilidade na construção do código, simples e legível com a utilização do padrão MVC: essas são as principais vantagens do Laravel, o que torna ele o framework preferido por muitos desenvolvedores. O Laravel se tornou o framework mais utilizado por desenvolvedores PHP que trabalham nessa ferramenta utilizando o padrão de desenvolvimento.
 	Gratuito, de código aberto, com suporte para recursos avançados e fácil construção de código, simples e legível usando o padrão MVC: essas são as principais vantagens do Laravel que o tornam o framework preferido de muitos desenvolvedores. O Laravel se tornou o framework mais utilizado para desenvolvedores PHP que trabalham com esta ferramenta utilizando o padrão de desenvolvimento.%https://www.tecmundo.com.br/software/223718-laravel-conheca-o-framework-php-utilizado.htm
 	
-	\item \textbf{MVC}
+	\textbf{MVC}
 	
 	É um padrão de projeto de software que significa Model, View e Controller, fácil e eficiente, este padrão tem como pontos positivos trabalhar com reuso de código e dividir em 3 camadas a estrutura do projeto, o deixando a solução fácil e eficiente
 	
-	\textbf{Model: } %É a camada responsável pela regra de negócio da aplicação, é onde está as informações necessárias que toda a solução irá precisar para funcionar, desde consultas ao banco de dados, validações, notificações, entre outras coisas que serão consultadas em algum momento na aplicação.
+	Model:  %É a camada responsável pela regra de negócio da aplicação, é onde está as informações necessárias que toda a solução irá precisar para funcionar, desde consultas ao banco de dados, validações, notificações, entre outras coisas que serão consultadas em algum momento na aplicação.
 	É a camada responsável pelas regras de negócio da aplicação. É onde estão localizadas as informações necessárias que toda a solução precisa para funcionar, como consultas de banco de dados, validações, notificações e outras coisas que são consultadas em algum ponto da aplicação.
 	
-	\textbf{View: } %Será onde todas essas informações e ações serão exibidas para o usuário, é na View que as informações são renderizadas, a parte interação homem-máquina fica responsável por essa camada.
+	View:  %Será onde todas essas informações e ações serão exibidas para o usuário, é na View que as informações são renderizadas, a parte interação homem-máquina fica responsável por essa camada.
 	É aqui que todas essas informações e ações são exibidas ao usuário. Este nível é responsável pela interação entre homem e máquina.
 	
-	\textbf{Controller:} %O meio de campo das duas aplicações, o Controller fica a parte do código que gerencia o momento de chamar cada função, cada ação que deverá ser executa. O controller recebe instruções dá View, encaminha para o Model e as retorna quando necessário.
+	Controller: %O meio de campo das duas aplicações, o Controller fica a parte do código que gerencia o momento de chamar cada função, cada ação que deverá ser executa. O controller recebe instruções dá View, encaminha para o Model e as retorna quando necessário.
 	No meio das duas aplicações, o controlador é a parte do código que gerencia o tempo para chamar cada função, cada ação que precisa ser executada. O controlador recebe instruções da View, as encaminha para o modelo e as retorna quando necessário.
 	%colocar a imagem de um modelo mvc
 	
 	%\item REST
 	
-	\item \textbf{Heroku}
+	\textbf{Heroku}
 	
 	%O Heroku é uma plataforma como serviços (PaaS) utilizada para facilitar o deploy de aplicações backend, testes em produção ou hospedagem de sites ou APIs. Bastante utilizada, o Heroku tem integrações com o GitHub, facilitando ainda mais a vida de seus usuários, suas atualizações de código são automaticamente replicadas para a aplicação na medida que o seu repositório é alterado no GitHub, além de suportar várias ferramentas PostGres e soluções backend como NodeJS, Laravel.
 	Heroku é uma plataforma como serviço (PaaS) que facilita a implantação de aplicativos de back-end, testes em produção ou hospedagem de sites ou APIs. O Heroku é muito utilizado e possui integrações com o GitHub que facilitam ainda mais a vida de seus usuários. Suas atualizações de código são replicadas automaticamente para o aplicativo quando o repositório no GitHub é alterado. Além disso, o Heroku suporta várias ferramentas PostGres e soluções de back-end como NodeJS, Laravel.
 	%falar sobre o dynos
 	
-	\item \textbf{Firebase}
+	\textbf{Firebase}
 	
 	%Firebase é uma plataforma digital desenvolvida pela google utilizada para facilitar o desenvolvimento de aplicativos web ou móveis, de uma forma efetiva, rápida e simples. Suas funcionalidades principais são Firebase Authentication, que fica responsável por toda da parte de autenticação dos aplicativos, Cloud Messaging, responsável por toda parte de notificações da aplicação, podendo notificar várias plataformas, e o Realtime Messaging, onde é utilizado para mensagens instantâneas, a exemplo, o Whatsapp.
 	O Firebase é uma plataforma digital desenvolvida pelo Google para facilitar o desenvolvimento de aplicativos web ou mobile de forma eficaz, rápida e fácil. As principais funcionalidades são Firebase Authentication, que é responsável por toda autenticação de aplicativos, Cloud Messaging, que é responsável por todas as notificações de aplicativos e pode notificar várias plataformas, e Realtime Messaging, que é usado para mensagens instantâneas.
 	%falar mais do cloud messaging
 	
-	\item \textbf{PostGfreSQL}
+	\textbf{PostGreSQL}
 	
 	%É um banco de dados objeto relacional de código aberto muito utilizando em todo o mundo, por ser seguro, robusto, de alto desempenho e multitarefa, o PostGresSQL é recomendado para projetos que precisam de alta disponibilidade, persistência num grande volume de dados, além de ter uma ferramenta de fácil aprendizado.
 	PostGresSQL é um banco de dados relacional de objeto de código aberto amplamente utilizado em todo o mundo. Por ser seguro, robusto, poderoso e multitarefa, o PostGresSQL é recomendado para projetos que exigem alta disponibilidade, persistência com grandes quantidades de dados e uma ferramenta de fácil aprendizado.
@@ -539,23 +546,23 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 	%colocar as tabelas disponiveis no terminal do heroku
 	%https://pt.education-wiki.com/5154595-what-is-postgresql
 	
-\end{itemize}
 
 %\subsection{Etapas do Desenvolvimento}
 
 \section{Etapas do Desenvolvimento}
 \mnote{revisar no instatext daqui para baixo}
 
-Nesta seção iremos falar sobre as etapas que foram realizadas no desenvolvimento da aplicação do Caronaê Unifap, das mudanças e ajustes que foram realizados.
+Nesta seção iremos falar sobre as etapas que foram realizadas no desenvolvimento da aplicação do Caronaê Unifap, das mudanças e ajustes.
 
 %\subsection{Estudo do código}
 \subsection{Atualização dos pacotes}
-Inicialmente foram atualizados os pacotes da versão do Caronaê disponível. Desde a versão da API 28.0.0 do Android 9 (Pie) o pacote da Support Library não é mais suportado pelo sistema havendo a necessidade de todos os projetos anteriores migrarem o Support Library para o novo pacote chamado de AndroidX, com isso muitas telas precisaram ser adaptadas para funcionamento nessa nova versão. Novos aplicativos só podem fazer uso da AndroidX e não mais a velha biblipteca suporte.
+%Inicialmente foram atualizados os pacotes da versão do Caronaê disponível. Desde a versão da API 28.0.0 do Android 9 (Pie) o pacote da Support Library não é mais suportado pelo sistema havendo a necessidade de todos os projetos anteriores migrarem o Support Library para o novo pacote chamado de AndroidX, com isso muitas telas precisaram ser adaptadas para funcionamento nessa nova versão. Novos aplicativos só podem fazer uso da AndroidX e não mais a velha biblipteca suporte.
+Originalmente, os pacotes da versão Caronaê disponível foram atualizados. Desde a versão 28.0.0 da API do Android 9 (Pie), o pacote Support Library não é mais compatível com o sistema, portanto, todos os projetos anteriores devem migrar a Support Library para o novo pacote chamado AndroidX. Muitas telas, portanto, tiveram que ser adaptadas para funcionar nesta nova versão. Novos aplicativos só podem usar o AndroidX e não são mais compatíveis com a biblioteca antiga.
 
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Migrção do Support Library pro AndroidX}
-	\includegraphics[width=0.7\textwidth]{./04-figuras/desenvolvimento/mudanças/androidx.png}
+	\includegraphics[width=0.9\textwidth]{./04-figuras/desenvolvimento/mudanças/androidx.png}
 	\label{fig:1}
 	\fonte{Elaborado pelo autor.}
 \end{figure}
@@ -567,7 +574,7 @@ Refactor -> Migrate to AndroidX
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Atalho da migração do Support Library pro AndroidX na IDE}
-	\includegraphics[width=0.7\textwidth]{./04-figuras/desenvolvimento/mudanças/atalho-androidstudio.png}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/desenvolvimento/mudanças/atalho-androidstudio2.png}
 	\label{fig:2}
 	\fonte{Elaborado pelo autor.}
 \end{figure}
@@ -582,29 +589,44 @@ Outras atualizações necessárias foram as de dependência externas, como as de
 	\fonte{Elaborado pelo autor.}
 \end{figure}
 
-A atualização do Firebase foi para a nova versão da funcionalidade do firebase-messaging utilizada na rotina de chat do aplicativo, possibilitando o armazenamentos das mensagens no serviço e a troca em tempo real das informações.
+%A atualização do Firebase foi para a nova versão da funcionalidade do firebase-messaging utilizada na rotina de chat do aplicativo, possibilitando o armazenamentos das mensagens no serviço e a troca em tempo real das informações.
+A atualização do Firebase fez referência à nova versão da funcionalidade de mensagens do Firebase, que é utilizada na rotina de chat do aplicativo e permite o armazenamento de mensagens no serviço e troca de informações em tempo real.
 
-A dependência também possibilita o uso das notificações das mensagens enviadas no chat e das notificações de solicitação de caronas para o motorista, aceite da carona para o passageiro e quando uma corrida foi concluída.
+%A dependência também possibilita o uso das notificações das mensagens enviadas no chat e das notificações de solicitação de caronas para o motorista, aceite da carona para o passageiro e quando uma corrida foi concluída.
+A dependência também permite o uso de notificações de mensagens enviadas no chat e notificações sobre solicitação de carona para o motorista, aceitação da carona para o passageiro e término de carona.
 
 \begin{figure}[!hbtp]
 	\centering
 	\caption{Dashboard Analytics do Firebase}
 	\includegraphics[width=0.5\textwidth]{./04-figuras/desenvolvimento/mudanças/notificacoes_firebase.png}
-	\label{fig:8}
+	\label{fig:facebook_analytics}
 	\fonte{Elaborado pelo autor.}
 \end{figure}
 
-Também foi incluso o firebase-analytics onde podemos olhar na solução cloud um gráfico da quantidade de pessoas que acessaram o aplicativo e quais rotinas e o tempo que foram utilizadas, entre outras funcionalidade.
+%Também foi incluso o firebase-analytics onde podemos olhar na solução cloud um gráfico da quantidade de pessoas que acessaram o aplicativo e quais rotinas e o tempo que foram utilizadas, entre outras funcionalidade.
+O Firebase-analytics também foi integrado, para que possamos ver um gráfico na solução em nuvem com o número de pessoas que acessaram o aplicativo, bem como as rotinas e o tempo de uso, entre outros recursos.
 
 \begin{figure}[h]
 	\center
-	\subfigure[fig:dashboard][Atividade do usuário ao longo do tempo]{\includegraphics[width=7cm]{./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png}}
+	\subfigure[fig:dashboard][Atividade do usuário ao longo do tempo]{\includegraphics[width=6cm]{./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png}}
 	\qquad
 	\subfigure[fig:uso_das_rotina][Contagem dos eventos por Nome do Evento]{\includegraphics[width=7cm]{./04-figuras/desenvolvimento/mudanças/uso_das_rotinas.png}}
 	\caption{Dashboard Analytics do Firebase}
 \end{figure}
 
-Outra biblioteca atualizad ...
+%Outra biblioteca atualizada foi a do Facebook, utilizada na tela de perfil onde os uusários podem conectar à rede social e optarem por colocar sua foto de perfil que fica armazenada no bancp de dados da aplicação.
+%Outra biblioteca atualizada foi a do Facebook, que é utilizada na tela de perfil, onde o usuário pode se conectar à rede social e colocar sua foto de perfil.
+Você também pode usar sua foto de perfil do Facebook no aplicativo. Durante a manutenção 
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de perfil com a foto do Facebook }
+	\includegraphics[width=0.3\textwidth]{./04-figuras/desenvolvimento/mudanças/tela_facebook.jpeg}
+	\label{fig:facebook}
+	\fonte{Elaborado pelo autor.}
+\end{figure}do aplicativo, tivemos que atualizar as bibliotecas utilizadas para fazê-los funcionar com novas versões do Android.
+
+
 \mnote{parei aqui}
 	
 \subsection{Correções}
@@ -766,7 +788,7 @@ Pontos de encontro ou Hubs, no qual ajuda os motoristas e caroneiros a se encont
 
 Além destes pontos mencionados, o Caronaê para a Universidade também tem como característica o acesso apenas por pessoas ligadas a Unifap, porém, diferente da UFRJ, não temos uma solução que disponibilize os dados dos alunos, professores e técnicos para a solução consumir. Na figura \ref{fig:tela_usuarios_painel_administrativo} mostra o painel administrativo do Caronaê, onde é gerenciado usuários, caronas, zonas e bairros, administradores instituições, onde é possível bloquear usuários caso seja necessário, entre outras funções, na figura podemos ver alguns nomes de usuários e informações que foram geradas em um banco de dados fictício, mas que em produção utiliza de serviços para consumir da base de dados real da universidade.
 
-\begin{figure}[!hbtp]
+\begin{figure}[H]
 	\centering
 	\caption{Tela da criação de carona: Saindo da Unifap}
 	\includegraphics[width=0.9\textwidth]{./04-figuras/caronae/tela_usuarios_do_painel_administrativo.png}
