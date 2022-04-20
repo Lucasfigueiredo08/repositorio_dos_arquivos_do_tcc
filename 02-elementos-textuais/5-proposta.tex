@@ -616,7 +616,7 @@ O Firebase-analytics também foi integrado, para que possamos ver um gráfico na
 
 %Outra biblioteca atualizada foi a do Facebook, utilizada na tela de perfil onde os uusários podem conectar à rede social e optarem por colocar sua foto de perfil que fica armazenada no bancp de dados da aplicação.
 %Outra biblioteca atualizada foi a do Facebook, que é utilizada na tela de perfil, onde o usuário pode se conectar à rede social e colocar sua foto de perfil.
-Você também pode usar sua foto de perfil do Facebook no aplicativo. Durante a manutenção 
+Você também pode usar sua foto de perfil do Facebook no aplicativo. Durante a manutenção do aplicativo, tivemos que atualizar as bibliotecas utilizadas para fazê-los funcionar com novas versões do Android.
 
 \begin{figure}[H]
 	\centering
@@ -624,12 +624,34 @@ Você também pode usar sua foto de perfil do Facebook no aplicativo. Durante a 
 	\includegraphics[width=0.3\textwidth]{./04-figuras/desenvolvimento/mudanças/tela_facebook.jpeg}
 	\label{fig:facebook}
 	\fonte{Elaborado pelo autor.}
-\end{figure}do aplicativo, tivemos que atualizar as bibliotecas utilizadas para fazê-los funcionar com novas versões do Android.
+\end{figure}
+
+
+
+	
+\subsection{Correções}
+
+
+Durante a fase de manutenção do código do Caronaê Unifap, encontramos alguns problemas relacionados ao layout da aplicação, uma delas tem haver com o botão de criação de carona que não se enquadrava na tela da maioria dos celulares Android. Então, o espaçamento entre a borda inferior da tela foi aumentado para 50dp (Density-independent Pixels).
+
+\begin{figure}[H]
+	\centering
+	\caption{Botão de criação de carona}
+	\includegraphics[width=0.8\textwidth]{./04-figuras/desenvolvimento/manutencao/man_botao_criacao_carona.png}
+	\label{fig:botão_de_criacao_de_carona}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+Na rotina das minhas caronas ativas, ao verificar as informações do motorista, o aplicativo trazia a informação da placa do veículo incorreta, caso o caronista possuísse um veículo cadastrado na plataforma, o aplicativo informava a placa do veículo do caronista e não do caroneiro, essa inconsistência de informação foi corrigida no trecho abaixo:
+
+
+myprofileEditFrag 
+
 
 
 \mnote{parei aqui}
-	
-\subsection{Correções}
+
+
 \subsection{Deploy do aplicativo no Google Play}
 \subsection{Deploy da API no Heroku}
 
