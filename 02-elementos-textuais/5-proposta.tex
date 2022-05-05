@@ -642,33 +642,18 @@ Durante a fase de manutenção do código do Caronaê Unifap, encontramos alguns
 	\fonte{Elaborado pelo autor.}
 \end{figure}
 
-Na rotina das minhas caronas ativas, ao verificar as informações do motorista, o aplicativo trazia a informação da placa do veículo incorreta, caso o caronista possuísse um veículo cadastrado na plataforma, o aplicativo informava a placa do veículo do caronista e não do caroneiro, essa inconsistência de informação foi corrigida no trecho abaixo:
-
-
-myprofileEditFrag 
-
-
-
-\mnote{parei aqui}
-
+Na rotina das minhas caronas ativas, ao verificar as informações do motorista, o aplicativo trazia a informação da placa do veículo incorreta, caso o caronista possuísse um veículo cadastrado na plataforma, o aplicativo informava a placa do veículo do caronista e não do caroneiro, essa inconsistência de informação foi corrigida.
 
 \subsection{Deploy do aplicativo no Google Play}
+heroku e google play em um só topico
 \subsection{Deploy da API no Heroku}
-
 
 \section{Testes da aplicação}
 
+\section{Validação da aplicação}
+
+\begin{comment}
 \section{Estudo sobre Soluções de Mobilidade Inteligente}
-%PESQUISA DE ACEITAÇÃO DO CARONAE
-%TELAS
-%P
-
-\begin{comment} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    
-	\mnote{Patrícia: aqui vais colocar tuas considerações (sem afirmarnada sem dados e provas) sobre as pesquisas que fizeste feitas em relação a cidades inteligentes e, em especial, mobilidade inteligente. Cita algumas soluções que são utilizadas e vai fazendo considerações do porque elas nao tem como ser consideradas (ainda) para Macapá e para a comunidade acadêmica da Unifap. No final, depois de discutir sobre diferentes soluções fala das soluções de carona e o porquê ela foi considera como a "melhor" opção no momento para Unifap.}
-    
-\end{comment} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 Após realizar o estudo de algumas das possíveis soluções de mobilidade que podem ser implementadas na Unifap, e analisa-las, chegamos na conclusão que no cenário atual, duas soluções apresentadas seriam possíveis para o cenário atual da Unifap, Uma delas seria o aplicativo Waze Carpool, e a outra o aplicativo de carona solidária Caronaê, solução de código aberto da Universidade Federal do Rio de Janeiro.
 
 As demais soluções foram descartadas por alguma inviabilidade, como exemplo, a solução de compartilharmos bicicletas, semelhante a da startup \textit{Yellow}, termos a \textit{Yellow} não seria possível, a empresa não tem nenhum serviço voltados para o uso restrito, ou a um determinado grupo, caso quiséssemos criar uma solução semelhante, teríamos problemas com a aquisição das bicicletas e locais para guardá-las, além de termos em mãos um transporte que proporcionaria insegurança aos usuários por falta de ciclovia em muitos pontos da cidade.
@@ -690,11 +675,6 @@ Então, analisamos as opções de solução mais aptas a serem implementadas com
 %A carona tem relação direta com mobilidade inteligente, e é uma das soluções já utilizadas em outros locais, como em outras universidades também como soluções de mobilidadeinteligente, a exemplo disso, o aplicativo Caronaê-UFRJ citado acima, além do outra motivação que é a obtenção do grau de bacharel em Ciência da Computação.%
 
 \section{Proposta de Solução de Mobilidade para Unifap}
-\begin{comment}
-%
-	\mnote{Patrícia: aqui vais colocar as conclusões que chegaste até então, considerando: 1. o perfil da comunidade acadêmica e os problemas enfrentados, as características e intrafestrutura de Macapá e as soluções de mobilidade existentes}
-    % 
-\end{comment}
 
 O projeto caronaê, utilizado por mais de 10 mil alunos na UFRJ é um aplicativo de carona solidária que oferecia aos alunos do Campus Fundão, caronas em trajetos que tinham o campus da universidade como pontos de chegada ou saída, e tinha a participação de professores e técnicos.
 
@@ -780,11 +760,6 @@ Os serviços utilizados para a autenticação dos usuários são \footnote{Dispo
 
 
 
-\begin{comment}
-%
-	\mnote{Patrícia: falar sobre as características do Caronaê para a UFRJ, as que foram levantadas na análise de requisitos deles e que foram implementadas.}
-    % Comentado só para sumir o texto do lado do documento
-\end{comment}
 
 \subsection{Características do Caronaê para UNIFAP}
 
@@ -820,26 +795,4 @@ Além destes pontos mencionados, o Caronaê para a Universidade também tem como
 
 No momento, para utilizar o aplicativo estão rodando em um banco de dados PostgreSQL \footnote{https://www.postgresql.org/docs/} local, o serviço de backend e do sistema administrativo pelo servidor local do laravel \footnote{https://laravel.com/} e o emulador do Android Studio\footnote{https://developer.android.com/studio} também localmente.
 
-
-\begin{comment}
-	\mnote{Patrícia: falar sobre que características o Caronaê deveria ter para ser implementado na UNIFAP, que características já existentes permaneceriam, que características já existentes devem ser adaptadas ou modificadas, que características já existentes devem ser retiradas e que características devem ser incluídas considerando o contexto da Unifap e Macapá. Isso seria o seu levantamento de requisitos.}
 \end{comment}
-
-
-\begin{comment}
-
-\subsection{Dificuldades Enfrentadas}
-
-As dificuldades iniciais foi a de tentar executar todos os serviços presentes na aplicação, todos os microserviços de aunteticação e notificação do aplicativo, porém, isso não se deu porque a API que auxiliava o projeto, API está, fornecidade pela universidade não está mais online.
-
-Outros microserviços dependem do funcionamento e do acesso as APIs que UFRJ disponibilizava, entretanto, foi deixado de lado essas tentativas e focado apenas na execução local, com banco de dados local, API apenas do Caronaê com dados de alguns usuários que estão cadastrados nas querys do projeto e o no funcionamento do API e integração dos serviços. O fato de não termos uma API na universidade onde eu possa testar a aplicação também dificulta a proposta, claro que antes algumas coisas precisariam ser avaliadas, como o tratamento dos dados do SIGAA UNIFAP para o formato que a API do Caronaê recebe, caso fosse necessário.
-
-\end{comment}
-
-\begin{comment}
-\section{Próximos passos}
-Será funcionar o aplicativo junto ao back-end da aplicação seja ele utilizando as imagens do docker ou utilizando outros serviços similares aos utilizados, como o XAMPP que oferecem os serviços Apache como servidor Web, Mysql como banco de dados e PHP.
-
-Ainda incluindo também uma forma ou opção de como consumir as informações do sistema de gestão da Unifap, algo que pode ser visto mais a frente quando os primeiros passos forem realizados, objetivo contudo é apresentar e mostrar que o código fonte pode ser reaproveitado e dado continuidade numa ideia interessante realizada pela equipe Caronaê.
-\end{comment}
-
