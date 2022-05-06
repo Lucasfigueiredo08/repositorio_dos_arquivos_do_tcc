@@ -550,7 +550,6 @@ Descrição & \multicolumn{4}{l|}{} \\ \cline{2-5}
 %\subsection{Etapas do Desenvolvimento}
 
 \section{Etapas do Desenvolvimento}
-\mnote{revisar no instatext daqui para baixo}
 
 Nesta seção iremos falar sobre as etapas que foram realizadas no desenvolvimento da aplicação do Caronaê Unifap, das mudanças e ajustes.
 
@@ -632,7 +631,8 @@ Você também pode usar sua foto de perfil do Facebook no aplicativo. Durante a 
 \subsection{Correções}
 
 
-Durante a fase de manutenção do código do Caronaê Unifap, encontramos alguns problemas relacionados ao layout da aplicação, uma delas tem haver com o botão de criação de carona que não se enquadrava na tela da maioria dos celulares Android. Então, o espaçamento entre a borda inferior da tela foi aumentado para 50dp (Density-independent Pixels).
+%Durante a fase de manutenção do código do Caronaê Unifap, encontramos alguns problemas relacionados ao layout da aplicação, uma delas tem haver com o botão de criação de carona que não se enquadrava na tela da maioria dos celulares Android. Então, o espaçamento entre a borda inferior da tela foi aumentado para 50dp (Density-independent Pixels).
+Durante a fase de manutenção do código Caronaê Unifap, encontramos alguns problemas relacionados ao layout do aplicativo. Uma delas tem a ver com o botão para criar caronas, que não cabia na tela da maioria dos celulares Android. Portanto, a distância entre a parte inferior da tela foi aumentada para 50dp (pixels independentes de densidade).
 
 \begin{figure}[H]
 	\centering
@@ -642,13 +642,58 @@ Durante a fase de manutenção do código do Caronaê Unifap, encontramos alguns
 	\fonte{Elaborado pelo autor.}
 \end{figure}
 
-Na rotina das minhas caronas ativas, ao verificar as informações do motorista, o aplicativo trazia a informação da placa do veículo incorreta, caso o caronista possuísse um veículo cadastrado na plataforma, o aplicativo informava a placa do veículo do caronista e não do caroneiro, essa inconsistência de informação foi corrigida.
+%Na rotina das minhas caronas ativas, ao verificar as informações do motorista, o aplicativo trazia a informação da placa do veículo incorreta, caso o caronista possuísse um veículo cadastrado na plataforma, o aplicativo informava a placa do veículo do caronista e não do caroneiro, essa inconsistência de informação foi corrigida.
+Na rotina das minhas viagens ativas, ao checar as informações do motorista, o aplicativo informava a placa do veículo errada, se o caroneiro tinha um veículo registrado na plataforma, o aplicativo informava a placa do veículo do caroneiro e não carona, essa inconsistência de informações foi também foi corrigida.
 
-\subsection{Deploy do aplicativo no Google Play}
-heroku e google play em um só topico
-\subsection{Deploy da API no Heroku}
+\subsection{Deploy do aplicativo}
+%heroku e google play em um só topico
+%No deploy do aplicativo, utilizamos a ferramenta de desenvolvimento Android Studio para criarmos o arquivo de debug .aab que substituiu o antigo pacote .apk. Atualmente só é possível utilizar a extensão .aab para publicar na Google Play. O aplicativo foi debugado na API 30 do Android, sendo disponível para todos os dispositivos.
+Ao implantar o aplicativo, usamos a ferramenta de desenvolvimento Android Studio para criar o arquivo de depuração .aab que substitui o antigo pacote .apk. Atualmente, só é possível usar a extensão .aab para publicação no Google Play. O aplicativo foi depurado no Android API 30 e está disponível para todos os dispositivos.
+
+%Para isto, criamos uma chave de assinatura a solução dentro do Android Studio e utilizamos a conta de desenvolvedor de desenvovedor do Google do Laboratório Interdisciplinar de Pesquisa e Inovação da Unifap.
+Para isso, criamos uma chave de assinatura para a solução no Android Studio e usamos a conta de desenvolvedor do Google do Laboratório Interdisciplinar de Pesquisa e Inovação da Unifap.
+
+%Foi necessário criar o cadastro informar a categoria do aplicativo e toda a parte gráfica para apresentação na loja de aplicativos do Google, como fotos de telas e o ícone que é apresentado ao instalar a solução.
+Foi necessário criar o cadastro, especificando a categoria do aplicativo e todos os gráficos para apresentação na Google Play Store, por exemplo, screenshots e o ícone que será exibido ao instalar a solução.
+
+\begin{figure}[H]
+	\centering
+	\caption{Aplicativo na loja de apps do Android}
+	\includegraphics[width=0.8\textwidth]{./04-figuras/googleplay/googleplay.png}
+	\label{fig:googleplay}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+%Junto a isto, para fazermos a solução funcionar precisávamos externalizar a área administrativa que gerencia o aplicativo com o painel de gerenciamento da solução, onde se encontra as informações de todos os usuários, quantidade de caronas, onde se cria as zonas, como bairros e distritos e as instituições.
+Para que a solução funcionasse, tivemos também que realizar o deploy da área administrativa que gerencia a aplicação com o painel de gerenciamento da solução, onde você encontra informações sobre todos os usuários, número de viagens, criação de zonas como bairros e bairros, e as instituições.
+
+\begin{figure}[H]
+	\centering
+	\caption{Área Administrativa do Caronaê Unifap}
+	\includegraphics[width=0.8\textwidth]{./04-figuras/area-administrativa/painel_inicial.png}
+	\label{fig:area-administrativa}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+%A solução foi hospedada na plataforma em nuvem com serviço de suporte para várias linguagens de programação inclusive para PHP, \textbf{Heroku}. Utilizamos a opção de integração com o GitHub \footnote{Github: } onde conseguimos facilitar o processo de deploy a cada nova atualização enviada para a ferramenta de controle de versão. Nele configuramos o banco de dados postgresql para fazer o gerenciamento dos dados utilizados.
+A solução foi hospedada em uma plataforma em nuvem com suporte a várias linguagens de programação, incluindo PHP, Textbf{Heroku}. Usamos a opção de integração com o GitHub \footnote{Github: }, onde poderíamos simplificar o processo de implantação a cada nova atualização enviada para a ferramenta de controle de versão. Nele, configuramos o banco de dados Postgresql para gerenciar os dados utilizados.
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Overview do Heroku}
+	\includegraphics[width=0.8\textwidth]{./04-figuras/area-administrativa/heroku.png}
+	\label{fig:heroku}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+
+
+
+
+%\subsection{Deploy da API no Heroku}
 
 \section{Testes da aplicação}
+\mnote{revisar no instatext daqui para baixo}
 
 \section{Validação da aplicação}
 
