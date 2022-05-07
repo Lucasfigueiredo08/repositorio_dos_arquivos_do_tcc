@@ -694,8 +694,201 @@ A solução foi hospedada em uma plataforma em nuvem com suporte a várias lingu
 
 \section{Testes da aplicação}
 \mnote{revisar no instatext daqui para baixo}
+Com aplicação disponível na loja de aplicativos do Google, o aplicativo pode ser acessado pelo link: \href{https://play.google.com/store/apps/details?id=com.unifap.caronaeunifap}{endereço do aplicativo na Google Play}, e a área administrativa hospedada nos serviços em nuvem do Heroku, disponível em: \href{https://polar-sea-21011.herokuapp.com/admin/login}{https://polar-sea-21011.herokuapp.com/admin/login}
+
+Primeiro realizamos os testes em vários modelos de dispositivos e o funcionamento, testamos a conectividade da API com o aplicativo
+
+Foi realizado o teste em várias rotina da aplicação, chat, criação de carona, solicitação de carona, a aceitação de carona, os filtros e pesquisas, o aplicativo foi baixado em vários celulares Androids diferentes e de versões diferentes.
+
+Após realizarmos os testes na aplicação, iniciamos os testes com os participantes da pesquisa inicial desse trabalho, onde enviamos e-mails convidando todos a fazer parte dos testes da solução. Os interessados receberam um código e senha para acesso a ferramenta pelo login manual.
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.3\textwidth]{./04-figuras/teLa_de_login.png}
+	\label{fig:tela_inicial_caronae}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+Os testes realizados pelos voluntários dá pesquisa foram em cima de todas as rotinas da aplicação, foram orientados em como funcionava cada tela do aplicativo, os testes foram os seguintes:
+
+PRIMEIRO TESTE: Solicitação de Carona
+
+Selecione alguma corrida criada pelo usuário LUCAS FIGUEIREDO e clique no botão
+"PEGAR CARONA", após, clique em "SOLICITAR"
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.5\textwidth]{./04-figuras/manual/solicitacao_de_carona.png}
+	\label{fig:solicitacao_de_carona}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+Sua carona irá aparecer como “Pendentes” na tela "Minhas". Opção que fica na parte de baixo da sua tela. Ela está aguardando o aceite do caronista.
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.5\textwidth]{./04-figuras/manual/solicitacao_de_carona.png}
+	\label{fig:solicitacao_de_carona_2}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+SEGUNDO TESTE: Filtrar carona e Buscar Carona
+
+Na tela inicial, na parte superior da sua tela, temos 2 ícones para filtros.
+
+FILTRAR CARONA
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/manual/filtrar_carona.png}
+	\label{fig:filtrar_carona}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+O ícone acima é o “FILTRO DE CARONAS”, você preencherá 2 campos, um onde escolherá o campi, como temos apenas 1, você pode deixar “Todos os Campi”, e no campo abaixo você selecionará o bairro. Caso haja caronas criadas para o seu bairro, a carona aparecerá em tela, caso não, aparecerá uma mensagem informando que não há caronas.
+
+Na primeira imagem abaixo, eu estou filtrando caronas de “Todos os Campi” para o bairro “Chefe Clodoaldo”, e na segunda imagem, eu realizo um filtro de caronas do “Todos os Campi” para o bairro “Cidade Nova”. Ao finalizar, desmarque o filtro no “x”.
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/manual/filtrar_carona.png}
+	\label{fig:filtrar_carona_2}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+BUSCAR CARONA
+
+A funcionalidade “BUSCAR CARONAS” é mais especifica, nela além de você informar o “Campi” e o “bairro”, você também informará uma data e hora.
+
+Caso não haja uma corrida especifica para as informações que você preencheu, aparecerá a mensagem que não há corridas, como na imagem abaixo.
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/manual/buscar_carona.png}
+	\label{fig:buscar_carona}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+TERCEIRO TESTE: Criação de carona
+
+Na opção "Minhas", clique no ícone que está na parte superior direita da sua tela, como na imagem abaixo.
+
+Você pode optar por criar caronas de chegada na Unifap ou saída da Unifap
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/manual/criacao_de_carona.png}
+	\label{fig:criacao_de_carona}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+Chegada da Unifap:
+
+Bairro: Vários bairros da cidade de Macapá foram cadastrados e caso não tenha o seu,
+você pode ir em "outros".
+
+Referência: Você pode colocar o ponto de referência de sua partida para a Unifap.
+
+Rota: Neste campo você vai colocar o caminho que você realiza, podendo colocar pontos
+de referência conhecidos de sua rota, ou nome de ruas, por exemplo.
+
+Centro Universitário: Esse campo informa qual campus você está se destinando. No
+momento temos apenas o Campus Marco Zero.
+
+Gerar Rotina: Caso você frequente a universidade e queira criar a sua rotina de carona,
+você pode colocar o dia da semana que frequenta e o horário. Podendo também criar as
+caronas no período de 2, 3 ou 4 meses. Caso não queira, só desmarcar a opção de GERAR
+ROTINA.
+
+Vagas disponíveis: Você inclui quantas vagas estão disponíveis para carona no seu
+carro.
+
+Campo de notas: Espaço para você informar algo para seus caroneiros.
+
+Saindo da Unifap
+
+Nesta parte são preenchidos os mesmo campos acima, o que difere é o campo "Escolha
+o hub de encontro". Hub é o nome dado aos pontos de encontro dentro da
+universidade. Neste primeiro momento foram colocados os nomes dos departamentos de
+cada curso.
+
+Após criada sua carona, ela aparecerá em "Minhas", na parte de "Ofertadas".
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.4\textwidth]{./04-figuras/manual/criacao_de_carona_2.png}
+	\label{fig:criacao_de_carona_2}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+QUARTO TESTE: Compartilhar Caronas
+
+Após criada sua carona, vá em "Minhas", abra a sua carona ofertada e compartilhe no
+botão "Compartilhar Carona".
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.5\textwidth]{./04-figuras/manual/compartilhamento_de_carona.png}
+	\label{fig:compartilhamento_de_carona}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+QUINTO TESTE: Chat
+
+Sua solicitação de carona realizada no início foi aceita? Se sim, tente enviar uma mensagem para o caronista.
+Vá em "Minhas", na parte de "Ativas", clique na carona e em "Chat", fica logo ali na parte superior direita da sua tela.
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/manual/chat.png}
+	\label{fig:chat}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+SEXTO TESTE: Cancelar Corridas
+
+Para finalizar, vamos cancelar a corrida. Você mudou de ideia e não vai mais ofertar rs. Vá em "Minhas" novamente, em "Ofertadas" está a sua corrida, clique nela, aperte em "Cancelar" na parte superior da sua tela, após, clique em "Desistir". 
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de Login}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/manual/cancelar_carona.png}
+	\label{fig:cancelar_carona}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
 
 \section{Validação da aplicação}
+
+Para encerrar, realizamos um questionário para todos onde realizamos perguntas sobre cada funcionalidade e deixamos um espaço aberto para sugestões. Todos os entrevistados foram alunos da instituição.
+
+O questionário tem 14 perguntas, dentre elas, o curso, gênero, sobre a utilidade do aplicativo, se oferecia ou aceitaria carona, além da avaliação de cada funcionalidade, todas avaliadas em escala likert de "1" para muito díficil e "5" para muito fácil. Como mostra a figura ~\ref{fig:perg_criar_caronas}:
+
+\begin{figure}[H]
+	\centering
+	\caption{Pergunta sobre CRIAR CARONAS no questionáiro de validação.}
+	\includegraphics[width=0.6\textwidth]{./04-figuras/validacao/perguntas.png}
+	\label{fig:perg_criar_caronas}
+	\fonte{Elaborado pelo autor.}
+\end{figure}
+
+Quando perguntados sobre se ofereceria carona, 90\% dos entrevistados disseram que "Sim", e quando perguntados se aceitariam, todos respodenraam que "Sim". 
+
+A primeira funcionalidade avaliada foi a CRIAR CARONAS, quando perguntados
+
+
+
+
 
 \begin{comment}
 \section{Estudo sobre Soluções de Mobilidade Inteligente}
