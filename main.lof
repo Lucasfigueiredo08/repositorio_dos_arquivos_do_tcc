@@ -7,50 +7,49 @@
 \contentsline {figure}{\numberline {6}{\ignorespaces Tela de grupos do aplicativo Waze Carpool}}{20}{figure.3.6}%
 \contentsline {figure}{\numberline {7}{\ignorespaces Gênero dos entrevistados}}{21}{figure.4.7}%
 \contentsline {figure}{\numberline {8}{\ignorespaces Pergunta sobre os motivos que fizeram os alunos não comparecerem a universidade.}}{22}{figure.4.8}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Motivo para aceitar as caronas - Parte 1}}{22}{figure.4.9}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Motivos para aceitar as caronas - Parte 2}}{23}{figure.4.10}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Pergunta sobre a possibilidade da proposta ser utilizada apenas por pessoas da Unifap}}{23}{figure.4.11}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Pergunta sobre a satisfação dos usuários com o transporte que utiliza}}{24}{figure.4.12}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Como você geralmente chega ou sai da Unifap?}}{24}{figure.4.13}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces fig:chegadanaunifap1}}{24}{figure.4.13}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces fig:saidadaunifap1}}{24}{figure.4.13}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Principais problemas enfrentados com o transporte público local}}{25}{figure.4.14}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Motivos que já fizeram alunos deixarem de ir a Universidade}}{25}{figure.4.15}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Qual o principal motivo para aceitar ou oferecer carona?}}{26}{figure.4.16}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces fig:motivosparacarona1}}{26}{figure.4.16}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces fig:motivosparacarona2}}{26}{figure.4.16}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Percepção sobre a proposta de um aplicativo de carona para a Unifap}}{26}{figure.4.17}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Percepção sore o conhecimento e uso de tecnologias similares a proposta}}{27}{figure.4.18}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Tempo de uso do \textit {Smartphone} pelos entrevistados}}{27}{figure.4.19}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Migrção do Support Library pro AndroidX}}{33}{figure.4.20}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Atalho da migração do Support Library pro AndroidX na IDE}}{33}{figure.4.21}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Atualização da versão do Firebase}}{34}{figure.4.22}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Dashboard Analytics do Firebase}}{34}{figure.4.23}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Dashboard Analytics do Firebase}}{35}{figure.4.24}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces fig:dashboard}}{35}{figure.4.24}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces fig:uso_das_rotina}}{35}{figure.4.24}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Tela de perfil com a foto do Facebook }}{35}{figure.4.25}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Botão de criação de carona}}{36}{figure.4.26}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Aplicativo na loja de apps do Android}}{37}{figure.4.27}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Área Administrativa do Caronaê Unifap}}{37}{figure.4.28}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Tela de Overview do Heroku}}{38}{figure.4.29}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Motivo para aceitar as caronas}}{22}{figure.4.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Pergunta sobre a possibilidade da proposta ser utilizada apenas por pessoas da Unifap}}{23}{figure.4.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Pergunta sobre a satisfação dos usuários com o transporte que utiliza}}{24}{figure.4.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Como você geralmente chega ou sai da Unifap?}}{24}{figure.4.12}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces fig:chegadanaunifap1}}{24}{figure.4.12}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces fig:saidadaunifap1}}{24}{figure.4.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Principais problemas enfrentados com o transporte público local}}{25}{figure.4.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Motivos que já fizeram alunos deixarem de ir a Universidade}}{25}{figure.4.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Qual o principal motivo para aceitar ou oferecer carona?}}{26}{figure.4.15}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces fig:motivosparacarona1}}{26}{figure.4.15}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces fig:motivosparacarona2}}{26}{figure.4.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Percepção sobre a proposta de um aplicativo de carona para a Unifap}}{26}{figure.4.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Percepção sore o conhecimento e uso de tecnologias similares a proposta}}{27}{figure.4.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Tempo de uso do \textit {Smartphone} pelos entrevistados}}{27}{figure.4.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Migrção do Support Library pro AndroidX}}{33}{figure.4.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Atalho da migração do Support Library pro AndroidX na IDE}}{34}{figure.4.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Atualização da versão do Firebase}}{34}{figure.4.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Dashboard Analytics do Firebase}}{34}{figure.4.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Dashboard Analytics do Firebase}}{35}{figure.4.23}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces fig:dashboard}}{35}{figure.4.23}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces fig:uso_das_rotina}}{35}{figure.4.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Tela de perfil com a foto do Facebook }}{35}{figure.4.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Botão de criação de carona}}{36}{figure.4.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Aplicativo na loja de apps do Android}}{37}{figure.4.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Área Administrativa do Caronaê Unifap}}{37}{figure.4.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Tela de Overview do Heroku}}{38}{figure.4.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Tela de Login}}{39}{figure.4.29}%
 \contentsline {figure}{\numberline {30}{\ignorespaces Tela de Login}}{39}{figure.4.30}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Tela de Login}}{39}{figure.4.31}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Tela de Login}}{40}{figure.4.31}%
 \contentsline {figure}{\numberline {32}{\ignorespaces Tela de Login}}{40}{figure.4.32}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Tela de Login}}{40}{figure.4.33}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Tela de Login}}{41}{figure.4.33}%
 \contentsline {figure}{\numberline {34}{\ignorespaces Tela de Login}}{41}{figure.4.34}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Tela de Login}}{41}{figure.4.35}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Tela de Login}}{42}{figure.4.36}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Tela de Login}}{43}{figure.4.37}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Tela de Login}}{42}{figure.4.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Tela de Login}}{43}{figure.4.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Tela de Login}}{44}{figure.4.37}%
 \contentsline {figure}{\numberline {38}{\ignorespaces Tela de Login}}{44}{figure.4.38}%
-\contentsline {figure}{\numberline {39}{\ignorespaces Tela de Login}}{44}{figure.4.39}%
-\contentsline {figure}{\numberline {40}{\ignorespaces Tela de Login}}{45}{figure.4.40}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Pergunta sobre CRIAR CARONAS no questionáiro de validação.}}{45}{figure.4.41}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Oferecer e aceitar caronas}}{46}{figure.4.42}%
-\contentsline {figure}{\numberline {43}{\ignorespaces CRIAR CARONAS no questionáiro de validação.}}{46}{figure.4.43}%
-\contentsline {figure}{\numberline {44}{\ignorespaces CONSULTAR CARONAS no questionáiro de validação.}}{46}{figure.4.44}%
-\contentsline {figure}{\numberline {45}{\ignorespaces CHAT DE CARONA no questionáiro de validação.}}{47}{figure.4.45}%
-\contentsline {figure}{\numberline {46}{\ignorespaces COMPARTILHAR CARONA no questionáiro de validação.}}{47}{figure.4.46}%
-\contentsline {figure}{\numberline {47}{\ignorespaces SOLICITAR CARONA no questionáiro de validação.}}{47}{figure.4.47}%
-\contentsline {figure}{\numberline {48}{\ignorespaces CANCELAR CARONA no questionáiro de validação.}}{48}{figure.4.48}%
-\contentsline {figure}{\numberline {49}{\ignorespaces Críticas e sugestões.}}{48}{figure.4.49}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Tela de Login}}{45}{figure.4.39}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Pergunta sobre CRIAR CARONAS no questionáiro de validação.}}{45}{figure.4.40}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Oferecer e aceitar caronas}}{46}{figure.4.41}%
+\contentsline {figure}{\numberline {42}{\ignorespaces CRIAR CARONAS no questionáiro de validação.}}{46}{figure.4.42}%
+\contentsline {figure}{\numberline {43}{\ignorespaces CONSULTAR CARONAS no questionáiro de validação.}}{46}{figure.4.43}%
+\contentsline {figure}{\numberline {44}{\ignorespaces CHAT DE CARONA no questionáiro de validação.}}{47}{figure.4.44}%
+\contentsline {figure}{\numberline {45}{\ignorespaces COMPARTILHAR CARONA no questionáiro de validação.}}{47}{figure.4.45}%
+\contentsline {figure}{\numberline {46}{\ignorespaces SOLICITAR CARONA no questionáiro de validação.}}{47}{figure.4.46}%
+\contentsline {figure}{\numberline {47}{\ignorespaces CANCELAR CARONA no questionáiro de validação.}}{48}{figure.4.47}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Críticas e sugestões.}}{48}{figure.4.48}%

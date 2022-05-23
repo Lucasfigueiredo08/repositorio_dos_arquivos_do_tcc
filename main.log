@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  19 MAY 2022 21:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  22 MAY 2022 21:46
 entering extended mode
 **./main.tex
 (main.tex
@@ -1273,10 +1273,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.133 \subsection
+l.132 \subsection
                  {Computação em Nuvem}] [7] [8] [9]
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 2
-82.
+81.
 
 (C:\Users\Lucas\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
@@ -1285,41 +1285,41 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 File: ./04-figuras/cittamobi/cittamobi.png Graphic file (type png)
 <use ./04-figuras/cittamobi/cittamobi.png>
 Package pdftex.def Info: ./04-figuras/cittamobi/cittamobi.png  used on input li
-ne 312.
+ne 311.
 (pdftex.def)             Requested size: 273.00278pt x 158.3501pt.
 
 [11pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.325 
+l.324 
        <./04-figuras/cittamobi/cittamobi.png>] [12] [13]
 <./04-figuras/vemcar.jpg, id=459, 513.92pt x 343.2825pt>
 File: ./04-figuras/vemcar.jpg Graphic file (type jpg)
 <use ./04-figuras/vemcar.jpg>
-Package pdftex.def Info: ./04-figuras/vemcar.jpg  used on input line 394.
+Package pdftex.def Info: ./04-figuras/vemcar.jpg  used on input line 393.
 (pdftex.def)             Requested size: 227.5pt x 151.96141pt.
  [14pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.417 
+l.416 
        <./04-figuras/vemcar.jpg>]
 <./04-figuras/caronae.png, id=465, 1214.5375pt x 569.12625pt>
 File: ./04-figuras/caronae.png Graphic file (type png)
 <use ./04-figuras/caronae.png>
-Package pdftex.def Info: ./04-figuras/caronae.png  used on input line 424.
+Package pdftex.def Info: ./04-figuras/caronae.png  used on input line 423.
 (pdftex.def)             Requested size: 318.49861pt x 149.2459pt.
  [15pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.459 
+l.458 
        <./04-figuras/caronae.png>] [16]
 <./04-figuras/zipcar/zipcar.jpg, id=486, 1284.8pt x 722.7pt>
 File: ./04-figuras/zipcar/zipcar.jpg Graphic file (type jpg)
 <use ./04-figuras/zipcar/zipcar.jpg>
-Package pdftex.def Info: ./04-figuras/zipcar/zipcar.jpg  used on input line 510
+Package pdftex.def Info: ./04-figuras/zipcar/zipcar.jpg  used on input line 509
 .
 (pdftex.def)             Requested size: 364.00139pt x 204.74757pt.
 ) [17pdfTeX warning (ext4): destination with the same identifier (name{figure.2
@@ -1381,7 +1381,13 @@ File: ./04-figuras/questionario/2.png Graphic file (type png)
 <use ./04-figuras/questionario/2.png>
 Package pdftex.def Info: ./04-figuras/questionario/2.png  used on input line 20
 .
-(pdftex.def)             Requested size: 364.00139pt x 153.10982pt.
+(pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
+<./04-figuras/questionario/1.png, id=511, 1606.0pt x 763.85374pt>
+File: ./04-figuras/questionario/1.png Graphic file (type png)
+<use ./04-figuras/questionario/1.png>
+Package pdftex.def Info: ./04-figuras/questionario/1.png  used on input line 44
+.
+(pdftex.def)             Requested size: 318.49861pt x 151.48593pt.
  [21
 
 
@@ -1391,559 +1397,532 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.40 
-      <./04-figuras/questionario/2.png>]
-<./04-figuras/questionario/1.png, id=515, 1606.0pt x 763.85374pt>
-File: ./04-figuras/questionario/1.png Graphic file (type png)
-<use ./04-figuras/questionario/1.png>
-Package pdftex.def Info: ./04-figuras/questionario/1.png  used on input line 47
-.
-(pdftex.def)             Requested size: 409.49722pt x 194.76263pt.
-<./04-figuras/questionario/3.png, id=518, 513.92pt x 215.80624pt>
+l.47 \end{figure}
+                  <./04-figuras/questionario/2.png>]
+<./04-figuras/questionario/3.png, id=517, 513.92pt x 215.80624pt>
 File: ./04-figuras/questionario/3.png Graphic file (type png)
 <use ./04-figuras/questionario/3.png>
-Package pdftex.def Info: ./04-figuras/questionario/3.png  used on input line 72
+Package pdftex.def Info: ./04-figuras/questionario/3.png  used on input line 69
 .
 (pdftex.def)             Requested size: 318.49861pt x 133.74579pt.
-<./04-figuras/questionario/4.png, id=519, 1606.0pt x 675.52374pt>
-File: ./04-figuras/questionario/4.png Graphic file (type png)
-<use ./04-figuras/questionario/4.png>
-Package pdftex.def Info: ./04-figuras/questionario/4.png  used on input line 80
-.
-(pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
  [22pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.90 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.9}) has been already used, duplicate ignored
+l.90 Q
+      uando questionados sobre a opção do uso exclusivo pelos estudantes, ...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.9}) 
+has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.90 
-      <./04-figuras/questionario/1.png> <./04-figuras/questionario/3.png>]
-<./04-figuras/questionario/5.png, id=526, 1606.0pt x 675.52374pt>
+l.90 Q
+      uando questionados sobre a opção do uso exclusivo pelos estudantes, ...
+ <./04-figuras/questionario/1.png> <./04-figuras/questionario/3.png>]
+<./04-figuras/questionario/5.png, id=524, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/5.png Graphic file (type png)
 <use ./04-figuras/questionario/5.png>
-Package pdftex.def Info: ./04-figuras/questionario/5.png  used on input line 96
+Package pdftex.def Info: ./04-figuras/questionario/5.png  used on input line 95
 .
 (pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
-
-[23pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-0}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.109 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.11}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.109 
-       <./04-figuras/questionario/4.png> <./04-figuras/questionario/5.png>]
-<./04-figuras/questionario/6.png, id=532, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/6.png, id=526, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/6.png Graphic file (type png)
 <use ./04-figuras/questionario/6.png>
 Package pdftex.def Info: ./04-figuras/questionario/6.png  used on input line 11
-3.
+2.
 (pdftex.def)             Requested size: 318.49861pt x 133.9685pt.
-<./04-figuras/questionario/7.png, id=533, 1606.0pt x 675.52374pt>
+ [23pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.116 
+       <./04-figuras/questionario/5.png>]
+<./04-figuras/questionario/7.png, id=531, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/7.png Graphic file (type png)
 <use ./04-figuras/questionario/7.png>
 Package pdftex.def Info: ./04-figuras/questionario/7.png  used on input line 12
-4.
+3.
 (pdftex.def)             Requested size: 199.16928pt x 83.77026pt.
-<./04-figuras/questionario/9.png, id=534, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/9.png, id=532, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/9.png Graphic file (type png)
 <use ./04-figuras/questionario/9.png>
 Package pdftex.def Info: ./04-figuras/questionario/9.png  used on input line 12
-6.
+5.
 (pdftex.def)             Requested size: 199.16928pt x 83.77026pt.
-<./04-figuras/questionario/11.png, id=536, 513.92pt x 244.915pt>
+<./04-figuras/questionario/11.png, id=534, 513.92pt x 244.915pt>
 File: ./04-figuras/questionario/11.png Graphic file (type png)
 <use ./04-figuras/questionario/11.png>
 Package pdftex.def Info: ./04-figuras/questionario/11.png  used on input line 1
-42.
+41.
 (pdftex.def)             Requested size: 364.00139pt x 173.47229pt.
-
-[24pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-2}) has been already used, duplicate ignored
+ [24pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.150 
+l.145 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.13}) has been already used, duplicate ignored
+4.12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.150 
+l.145 
        <./04-figuras/questionario/6.png> <./04-figuras/questionario/7.png> <./0
 4-figuras/questionario/9.png>]
-<./04-figuras/questionario/12.png, id=544, 1606.0pt x 763.85374pt>
+<./04-figuras/questionario/12.png, id=542, 1606.0pt x 763.85374pt>
 File: ./04-figuras/questionario/12.png Graphic file (type png)
 <use ./04-figuras/questionario/12.png>
 Package pdftex.def Info: ./04-figuras/questionario/12.png  used on input line 1
-54.
+53.
 (pdftex.def)             Requested size: 364.00139pt x 173.13011pt.
-<./04-figuras/questionario/13.png, id=545, 513.92pt x 215.80624pt>
+<./04-figuras/questionario/13.png, id=543, 513.92pt x 215.80624pt>
 File: ./04-figuras/questionario/13.png Graphic file (type png)
 <use ./04-figuras/questionario/13.png>
 Package pdftex.def Info: ./04-figuras/questionario/13.png  used on input line 1
-66.
+65.
 (pdftex.def)             Requested size: 241.84842pt x 101.55736pt.
-<./04-figuras/questionario/14.png, id=546, 513.92pt x 215.80624pt>
+<./04-figuras/questionario/14.png, id=544, 513.92pt x 215.80624pt>
 File: ./04-figuras/questionario/14.png Graphic file (type png)
 <use ./04-figuras/questionario/14.png>
 Package pdftex.def Info: ./04-figuras/questionario/14.png  used on input line 1
-68.
+67.
 (pdftex.def)             Requested size: 241.84842pt x 101.55736pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[25pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-4}) has been already used, duplicate ignored
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.181 
+l.172 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.15}) has been already used, duplicate ignored
+4.14}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.181 
+l.172 
        <./04-figuras/questionario/11.png> <./04-figuras/questionario/12.png>]
-<./04-figuras/questionario/15.png, id=552, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/15.png, id=550, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/15.png Graphic file (type png)
 <use ./04-figuras/questionario/15.png>
 Package pdftex.def Info: ./04-figuras/questionario/15.png  used on input line 1
-85.
+84.
 (pdftex.def)             Requested size: 386.75278pt x 162.67531pt.
-<./04-figuras/questionario/16.png, id=554, 1606.0pt x 763.85374pt>
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.192 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.192 
+       <./04-figuras/questionario/13.png> <./04-figuras/questionario/14.png> <.
+/04-figuras/questionario/15.png>]
+<./04-figuras/questionario/16.png, id=558, 1606.0pt x 763.85374pt>
 File: ./04-figuras/questionario/16.png Graphic file (type png)
 <use ./04-figuras/questionario/16.png>
 Package pdftex.def Info: ./04-figuras/questionario/16.png  used on input line 1
-97.
+96.
 (pdftex.def)             Requested size: 318.49861pt x 151.48593pt.
-
-[26pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
-6}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.204 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.17}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.204 
-       <./04-figuras/questionario/13.png> <./04-figuras/questionario/14.png> <.
-/04-figuras/questionario/15.png>]
-<./04-figuras/questionario/17.png, id=562, 1606.0pt x 675.52374pt>
+<./04-figuras/questionario/17.png, id=560, 1606.0pt x 675.52374pt>
 File: ./04-figuras/questionario/17.png Graphic file (type png)
 <use ./04-figuras/questionario/17.png>
 Package pdftex.def Info: ./04-figuras/questionario/17.png  used on input line 2
-08.
+07.
 (pdftex.def)             Requested size: 364.00139pt x 153.10982pt.
  [27pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-18}) has been already used, duplicate ignored
+17}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.241 \textbf{Prioridade}
-                         :      [x] Essencial        [] Importante     [] De...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.19})
- has been already used, duplicate ignored
+l.223 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.18}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.241 \textbf{Prioridade}
-                         :      [x] Essencial        [] Importante     [] De...
- <./04-figuras/questionario/16.png> <./04-figuras/questionario/17.png>]
+l.223 
+       <./04-figuras/questionario/16.png> <./04-figuras/questionario/17.png>]
 [28] [29] [30] [31] [32]
-<./04-figuras/desenvolvimento/mudanças/androidx.png, id=588, 702.82574pt x 333
+<./04-figuras/desenvolvimento/mudanças/androidx.png, id=586, 702.82574pt x 333
 .04425pt>
 File: ./04-figuras/desenvolvimento/mudanças/androidx.png Graphic file (type pn
 g)
 <use ./04-figuras/desenvolvimento/mudanças/androidx.png>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/mudanças/androidx.png  u
-sed on input line 564.
+sed on input line 563.
 (pdftex.def)             Requested size: 409.49722pt x 194.04495pt.
-<./04-figuras/desenvolvimento/mudanças/atalho-androidstudio2.png, id=589, 448.
+<./04-figuras/desenvolvimento/mudanças/atalho-androidstudio2.png, id=587, 448.
 67625pt x 76.48575pt>
 File: ./04-figuras/desenvolvimento/mudanças/atalho-androidstudio2.png Graphic 
 file (type png)
 <use ./04-figuras/desenvolvimento/mudanças/atalho-androidstudio2.png>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/mudanças/atalho-androids
-tudio2.png  used on input line 576.
+tudio2.png  used on input line 575.
 (pdftex.def)             Requested size: 273.00278pt x 46.5395pt.
-<./04-figuras/desenvolvimento/mudanças/dependencias-firebase.png, id=590, 624.
+ [33pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+19}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.579 
+       <./04-figuras/desenvolvimento/mudanças/androidx.png>]
+<./04-figuras/desenvolvimento/mudanças/dependencias-firebase.png, id=593, 624.
 53325pt x 295.70474pt>
 File: ./04-figuras/desenvolvimento/mudanças/dependencias-firebase.png Graphic 
 file (type png)
 <use ./04-figuras/desenvolvimento/mudanças/dependencias-firebase.png>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/mudanças/dependencias-fi
-rebase.png  used on input line 586.
+rebase.png  used on input line 585.
 (pdftex.def)             Requested size: 318.49861pt x 150.8029pt.
- [33pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-20}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.593 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.21}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.593 
-       <./04-figuras/desenvolvimento/mudanças/androidx.png> <./04-figuras/dese
-nvolvimento/mudanças/atalho-androidstudio2.png>]
-<./04-figuras/desenvolvimento/mudanças/notificacoes_firebase.png, id=597, 222.
+<./04-figuras/desenvolvimento/mudanças/notificacoes_firebase.png, id=594, 222.
 8325pt x 198.7425pt>
 File: ./04-figuras/desenvolvimento/mudanças/notificacoes_firebase.png Graphic 
 file (type png)
 <use ./04-figuras/desenvolvimento/mudanças/notificacoes_firebase.png>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/mudanças/notificacoes_fi
-rebase.png  used on input line 600.
-(pdftex.def)             Requested size: 227.5pt x 202.90874pt.
-<./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png, id=598, 517.33
+rebase.png  used on input line 599.
+(pdftex.def)             Requested size: 155.98167pt x 139.11879pt.
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+20}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.606 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.21}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.606 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.22}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.606 
+       <./04-figuras/desenvolvimento/mudanças/atalho-androidstudio2.png> <./04
+-figuras/desenvolvimento/mudanças/dependencias-firebase.png> <./04-figuras/des
+envolvimento/mudanças/notificacoes_firebase.png>]
+<./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png, id=603, 517.33
 275pt x 428.19975pt>
 File: ./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png Graphic fi
 le (type png)
 <use ./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/mudanças/dashboard-analy
-tics.png  used on input line 610.
-(pdftex.def)             Requested size: 170.71652pt x 141.29982pt.
-<./04-figuras/desenvolvimento/mudanças/uso_das_rotinas.png, id=599, 292.6935pt
+tics.png  used on input line 609.
+(pdftex.def)             Requested size: 181.99722pt x 150.63661pt.
+<./04-figuras/desenvolvimento/mudanças/uso_das_rotinas.png, id=604, 292.6935pt
  x 299.31825pt>
 File: ./04-figuras/desenvolvimento/mudanças/uso_das_rotinas.png Graphic file (
 type png)
 <use ./04-figuras/desenvolvimento/mudanças/uso_das_rotinas.png>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/mudanças/uso_das_rotinas
-.png  used on input line 612.
+.png  used on input line 611.
 (pdftex.def)             Requested size: 199.16928pt x 203.67987pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./04-figuras/desenvolvimento/mudanças/tela_facebook.jpeg, id=600, 542.025pt x
+<./04-figuras/desenvolvimento/mudanças/tela_facebook.jpeg, id=605, 542.025pt x
  1114.1625pt>
 File: ./04-figuras/desenvolvimento/mudanças/tela_facebook.jpeg Graphic file (t
 ype jpg)
 <use ./04-figuras/desenvolvimento/mudanças/tela_facebook.jpeg>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/mudanças/tela_facebook.j
-peg  used on input line 623.
-(pdftex.def)             Requested size: 136.50139pt x 280.58003pt.
-[34pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
-2}) has been already used, duplicate ignored
+peg  used on input line 622.
+(pdftex.def)             Requested size: 108.40308pt x 222.82855pt.
+ [35pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+23}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.626 \end{figure}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{figure.4.23}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.626 \end{figure}
-                   <./04-figuras/desenvolvimento/mudanças/dependencias-firebas
-e.png> <./04-figuras/desenvolvimento/mudanças/notificacoes_firebase.png>]
-[35pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
-4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.636 
+l.635 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.25}) has been already used, duplicate ignored
+4.24}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.636 
+l.635 
        <./04-figuras/desenvolvimento/mudanças/dashboard-analytics.png> <./04-f
 iguras/desenvolvimento/mudanças/uso_das_rotinas.png> <./04-figuras/desenvolvim
 ento/mudanças/tela_facebook.jpeg>]
-<./04-figuras/desenvolvimento/manutencao/man_botao_criacao_carona.png, id=616, 
+<./04-figuras/desenvolvimento/manutencao/man_botao_criacao_carona.png, id=614, 
 562.5015pt x 315.579pt>
 File: ./04-figuras/desenvolvimento/manutencao/man_botao_criacao_carona.png Grap
 hic file (type png)
 <use ./04-figuras/desenvolvimento/manutencao/man_botao_criacao_carona.png>
 Package pdftex.def Info: ./04-figuras/desenvolvimento/manutencao/man_botao_cria
-cao_carona.png  used on input line 640.
+cao_carona.png  used on input line 639.
 (pdftex.def)             Requested size: 364.00139pt x 204.2138pt.
-<./04-figuras/googleplay/googleplay.png, id=617, 440.847pt x 339.669pt>
+<./04-figuras/googleplay/googleplay.png, id=615, 440.847pt x 339.669pt>
 File: ./04-figuras/googleplay/googleplay.png Graphic file (type png)
 <use ./04-figuras/googleplay/googleplay.png>
 Package pdftex.def Info: ./04-figuras/googleplay/googleplay.png  used on input 
-line 662.
+line 661.
 (pdftex.def)             Requested size: 364.00139pt x 280.45842pt.
  [36pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-26}) has been already used, duplicate ignored
+25}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.666 
+l.665 
        <./04-figuras/desenvolvimento/manutencao/man_botao_criacao_carona.png>]
-<./04-figuras/area-administrativa/painel_inicial.png, id=623, 490.2315pt x 250.
+<./04-figuras/area-administrativa/painel_inicial.png, id=621, 490.2315pt x 250.
 536pt>
 File: ./04-figuras/area-administrativa/painel_inicial.png Graphic file (type pn
 g)
 <use ./04-figuras/area-administrativa/painel_inicial.png>
 Package pdftex.def Info: ./04-figuras/area-administrativa/painel_inicial.png  u
-sed on input line 673.
+sed on input line 672.
 (pdftex.def)             Requested size: 364.00139pt x 186.02832pt.
 
 [37pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
-7}) has been already used, duplicate ignored
+6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.680 
+l.679 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.28}) has been already used, duplicate ignored
+4.27}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.680 
+l.679 
        <./04-figuras/googleplay/googleplay.png> <./04-figuras/area-administrati
 va/painel_inicial.png>]
-<./04-figuras/area-administrativa/heroku.png, id=631, 799.788pt x 354.72525pt>
+<./04-figuras/area-administrativa/heroku.png, id=629, 799.788pt x 354.72525pt>
 File: ./04-figuras/area-administrativa/heroku.png Graphic file (type png)
 <use ./04-figuras/area-administrativa/heroku.png>
 Package pdftex.def Info: ./04-figuras/area-administrativa/heroku.png  used on i
-nput line 684.
+nput line 683.
 (pdftex.def)             Requested size: 364.00139pt x 161.44354pt.
-<./04-figuras/teLa_de_login.png, id=634, 260.172pt x 471.56175pt>
+<./04-figuras/teLa_de_login.png, id=632, 260.172pt x 471.56175pt>
 File: ./04-figuras/teLa_de_login.png Graphic file (type png)
 <use ./04-figuras/teLa_de_login.png>
-Package pdftex.def Info: ./04-figuras/teLa_de_login.png  used on input line 709
+Package pdftex.def Info: ./04-figuras/teLa_de_login.png  used on input line 708
 .
-(pdftex.def)             Requested size: 136.50139pt x 247.42252pt.
+(pdftex.def)             Requested size: 78.05219pt x 141.4696pt.
  [38pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-29}) has been already used, duplicate ignored
+28}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.713 
+l.712 
        <./04-figuras/area-administrativa/heroku.png>]
-<./04-figuras/manual/solicitacao_de_carona.png, id=642, 277.63725pt x 202.356pt
+<./04-figuras/manual/solicitacao_de_carona.png, id=640, 277.63725pt x 202.356pt
 >
 File: ./04-figuras/manual/solicitacao_de_carona.png Graphic file (type png)
 <use ./04-figuras/manual/solicitacao_de_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/solicitacao_de_carona.png  used on
- input line 725.
+ input line 724.
 (pdftex.def)             Requested size: 227.5pt x 165.81874pt.
 File: ./04-figuras/manual/solicitacao_de_carona.png Graphic file (type png)
 <use ./04-figuras/manual/solicitacao_de_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/solicitacao_de_carona.png  used on
- input line 735.
+ input line 734.
 (pdftex.def)             Requested size: 227.5pt x 165.81874pt.
  [39pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-30}) has been already used, duplicate ignored
+29}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.738 \end{figure}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{figure.4.31}) has been already used, duplicate ignored
+l.738 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.30}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.738 \end{figure}
-                   <./04-figuras/teLa_de_login.png> <./04-figuras/manual/solici
-tacao_de_carona.png>]
-<./04-figuras/manual/filtrar_carona.png, id=649, 280.04625pt x 202.356pt>
+l.738 
+       <./04-figuras/teLa_de_login.png> <./04-figuras/manual/solicitacao_de_car
+ona.png>]
+<./04-figuras/manual/filtrar_carona.png, id=647, 280.04625pt x 202.356pt>
 File: ./04-figuras/manual/filtrar_carona.png Graphic file (type png)
 <use ./04-figuras/manual/filtrar_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/filtrar_carona.png  used on input 
-line 749.
+line 748.
 (pdftex.def)             Requested size: 273.00278pt x 197.27623pt.
  [40pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-32}) has been already used, duplicate ignored
+31}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.757 
+l.756 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.33}) has been already used, duplicate ignored
+4.32}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.757 
+l.756 
        <./04-figuras/manual/filtrar_carona.png>]
 File: ./04-figuras/manual/filtrar_carona.png Graphic file (type png)
 <use ./04-figuras/manual/filtrar_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/filtrar_carona.png  used on input 
-line 761.
+line 760.
 (pdftex.def)             Requested size: 273.00278pt x 197.27623pt.
-<./04-figuras/manual/buscar_carona.png, id=656, 277.63725pt x 186.09525pt>
+<./04-figuras/manual/buscar_carona.png, id=654, 277.63725pt x 186.09525pt>
 File: ./04-figuras/manual/buscar_carona.png Graphic file (type png)
 <use ./04-figuras/manual/buscar_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/buscar_carona.png  used on input l
-ine 775.
+ine 774.
 (pdftex.def)             Requested size: 273.00278pt x 182.99394pt.
  [41pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-34}) has been already used, duplicate ignored
+33}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.782 N
+l.781 N
        a opção "Minhas", clique no ícone que está na parte superior dire...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.35})
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.34})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.782 N
+l.781 N
        a opção "Minhas", clique no ícone que está na parte superior dire...
  <./04-figuras/manual/buscar_carona.png>]
-<./04-figuras/manual/criacao_de_carona.png, id=662, 276.43275pt x 196.3335pt>
+<./04-figuras/manual/criacao_de_carona.png, id=660, 276.43275pt x 196.3335pt>
 File: ./04-figuras/manual/criacao_de_carona.png Graphic file (type png)
 <use ./04-figuras/manual/criacao_de_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/criacao_de_carona.png  used on inp
-ut line 789.
+ut line 788.
 (pdftex.def)             Requested size: 273.00278pt x 193.91539pt.
  [42pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-36}) has been already used, duplicate ignored
+35}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.823 
+l.822 
        <./04-figuras/manual/criacao_de_carona.png>]
-<./04-figuras/manual/criacao_de_carona_2.png, id=668, 114.4275pt x 168.63pt>
+<./04-figuras/manual/criacao_de_carona_2.png, id=666, 114.4275pt x 168.63pt>
 File: ./04-figuras/manual/criacao_de_carona_2.png Graphic file (type png)
 <use ./04-figuras/manual/criacao_de_carona_2.png>
 Package pdftex.def Info: ./04-figuras/manual/criacao_de_carona_2.png  used on i
-nput line 829.
+nput line 828.
 (pdftex.def)             Requested size: 181.99722pt x 268.21819pt.
-<./04-figuras/manual/compartilhamento_de_carona.png, id=669, 246.9225pt x 171.6
+<./04-figuras/manual/compartilhamento_de_carona.png, id=667, 246.9225pt x 171.6
 4125pt>
 File: ./04-figuras/manual/compartilhamento_de_carona.png Graphic file (type png
 )
 <use ./04-figuras/manual/compartilhamento_de_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/compartilhamento_de_carona.png  us
-ed on input line 842.
+ed on input line 841.
 (pdftex.def)             Requested size: 227.5pt x 158.1397pt.
  [43pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-37}) has been already used, duplicate ignored
+36}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.846 
+l.845 
        <./04-figuras/manual/criacao_de_carona_2.png>]
-<./04-figuras/manual/chat.png, id=675, 283.0575pt x 198.14024pt>
+<./04-figuras/manual/chat.png, id=673, 283.0575pt x 198.14024pt>
 File: ./04-figuras/manual/chat.png Graphic file (type png)
 <use ./04-figuras/manual/chat.png>
-Package pdftex.def Info: ./04-figuras/manual/chat.png  used on input line 855.
+Package pdftex.def Info: ./04-figuras/manual/chat.png  used on input line 854.
 (pdftex.def)             Requested size: 273.00278pt x 191.11644pt.
-<./04-figuras/manual/cancelar_carona.png, id=676, 293.29575pt x 197.538pt>
+<./04-figuras/manual/cancelar_carona.png, id=674, 293.29575pt x 197.538pt>
 File: ./04-figuras/manual/cancelar_carona.png Graphic file (type png)
 <use ./04-figuras/manual/cancelar_carona.png>
 Package pdftex.def Info: ./04-figuras/manual/cancelar_carona.png  used on input
- line 868.
+ line 867.
 (pdftex.def)             Requested size: 273.00278pt x 183.87723pt.
  [44pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-38}) has been already used, duplicate ignored
+37}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.872 
+l.871 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.39}) has been already used, duplicate ignored
+4.38}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.872 
+l.871 
        <./04-figuras/manual/compartilhamento_de_carona.png> <./04-figuras/manua
 l/chat.png>]
-<./04-figuras/validacao/perguntas.png, id=684, 395.076pt x 122.859pt>
+<./04-figuras/validacao/perguntas.png, id=682, 395.076pt x 122.859pt>
 File: ./04-figuras/validacao/perguntas.png Graphic file (type png)
 <use ./04-figuras/validacao/perguntas.png>
 Package pdftex.def Info: ./04-figuras/validacao/perguntas.png  used on input li
-ne 885.
+ne 884.
 (pdftex.def)             Requested size: 273.00278pt x 84.89838pt.
-<./04-figuras/validacao/oferecer_aceitar_carona2.png, id=685, 527.571pt x 153.5
+<./04-figuras/validacao/oferecer_aceitar_carona2.png, id=683, 527.571pt x 153.5
 7375pt>
 File: ./04-figuras/validacao/oferecer_aceitar_carona2.png Graphic file (type pn
 g)
 <use ./04-figuras/validacao/oferecer_aceitar_carona2.png>
 Package pdftex.def Info: ./04-figuras/validacao/oferecer_aceitar_carona2.png  u
-sed on input line 896.
+sed on input line 895.
 (pdftex.def)             Requested size: 409.49722pt x 119.20354pt.
  [45pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-40}) has been already used, duplicate ignored
+39}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.900 
+l.899 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.41}) has been already used, duplicate ignored
+4.40}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.900 
+l.899 
        <./04-figuras/manual/cancelar_carona.png> <./04-figuras/validacao/pergun
 tas.png>]
-<./04-figuras/validacao/criar_caronas.png, id=692, 457.71pt x 200.54926pt>
+<./04-figuras/validacao/criar_caronas.png, id=690, 457.71pt x 200.54926pt>
 File: ./04-figuras/validacao/criar_caronas.png Graphic file (type png)
 <use ./04-figuras/validacao/criar_caronas.png>
 Package pdftex.def Info: ./04-figuras/validacao/criar_caronas.png  used on inpu
-t line 906.
+t line 905.
 (pdftex.def)             Requested size: 273.00278pt x 119.62358pt.
-<./04-figuras/validacao/consultar_caronas.png, id=693, 459.51675pt x 196.93575p
+<./04-figuras/validacao/consultar_caronas.png, id=691, 459.51675pt x 196.93575p
 t>
 File: ./04-figuras/validacao/consultar_caronas.png Graphic file (type png)
 <use ./04-figuras/validacao/consultar_caronas.png>
 Package pdftex.def Info: ./04-figuras/validacao/consultar_caronas.png  used on 
-input line 914.
+input line 913.
 (pdftex.def)             Requested size: 273.00278pt x 117.00241pt.
-<./04-figuras/validacao/chat.png, id=694, 458.9145pt x 196.93575pt>
+<./04-figuras/validacao/chat.png, id=692, 458.9145pt x 196.93575pt>
 File: ./04-figuras/validacao/chat.png Graphic file (type png)
 <use ./04-figuras/validacao/chat.png>
 Package pdftex.def Info: ./04-figuras/validacao/chat.png  used on input line 92
-2.
+1.
 (pdftex.def)             Requested size: 273.00278pt x 117.15567pt.
  [46pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-42}) has been already used, duplicate ignored
+41}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.926 
+l.925 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.42}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.925 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4.43}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.926 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.44}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.926 
+l.925 
        <./04-figuras/validacao/oferecer_aceitar_carona2.png> <./04-figuras/vali
 dacao/criar_caronas.png> <./04-figuras/validacao/consultar_caronas.png>]
-<./04-figuras/validacao/compartilhar_caronas.png, id=703, 458.9145pt x 201.1515
+<./04-figuras/validacao/compartilhar_caronas.png, id=701, 458.9145pt x 201.1515
 pt>
 File: ./04-figuras/validacao/compartilhar_caronas.png Graphic file (type png)
 <use ./04-figuras/validacao/compartilhar_caronas.png>
 Package pdftex.def Info: ./04-figuras/validacao/compartilhar_caronas.png  used 
-on input line 930.
+on input line 929.
 (pdftex.def)             Requested size: 273.00278pt x 119.6636pt.
-<./04-figuras/validacao/solicitar_carona.png, id=704, 457.71pt x 194.52675pt>
+<./04-figuras/validacao/solicitar_carona.png, id=702, 457.71pt x 194.52675pt>
 File: ./04-figuras/validacao/solicitar_carona.png Graphic file (type png)
 <use ./04-figuras/validacao/solicitar_carona.png>
 Package pdftex.def Info: ./04-figuras/validacao/solicitar_carona.png  used on i
-nput line 938.
+nput line 937.
 (pdftex.def)             Requested size: 273.00278pt x 116.03128pt.
-<./04-figuras/validacao/cancelar_carona.png, id=705, 459.51675pt x 198.7425pt>
+<./04-figuras/validacao/cancelar_carona.png, id=703, 459.51675pt x 198.7425pt>
 File: ./04-figuras/validacao/cancelar_carona.png Graphic file (type png)
 <use ./04-figuras/validacao/cancelar_carona.png>
 Package pdftex.def Info: ./04-figuras/validacao/cancelar_carona.png  used on in
-put line 946.
+put line 945.
 (pdftex.def)             Requested size: 273.00278pt x 118.07584pt.
 
 [47pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
-5}) has been already used, duplicate ignored
+4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.950 
+l.949 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.45}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.949 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4.46}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.950 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.47}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.950 
+l.949 
        <./04-figuras/validacao/chat.png> <./04-figuras/validacao/compartilhar_c
 aronas.png> <./04-figuras/validacao/solicitar_carona.png>]
-<./04-figuras/validacao/criticas_e_sugestoes.png, id=713, 455.301pt x 213.79875
+<./04-figuras/validacao/criticas_e_sugestoes.png, id=711, 455.301pt x 213.79875
 pt>
 File: ./04-figuras/validacao/criticas_e_sugestoes.png Graphic file (type png)
 <use ./04-figuras/validacao/criticas_e_sugestoes.png>
 Package pdftex.def Info: ./04-figuras/validacao/criticas_e_sugestoes.png  used 
-on input line 956.
+on input line 955.
 (pdftex.def)             Requested size: 409.49722pt x 192.29637pt.
 ) [48pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.48}) has been already used, duplicate ignored
+.47}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.144 ...clude{./02-elementos-textuais/5-proposta}
                                                   pdfTeX warning (ext4): destin
-ation with the same identifier (name{figure.4.49}) has been already used, dupli
+ation with the same identifier (name{figure.4.48}) has been already used, dupli
 cate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -2018,20 +1997,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 21187 strings out of 478864
- 331414 string characters out of 2858518
- 774913 words of memory out of 3000000
- 38005 multiletter control sequences out of 15000+600000
- 453983 words of font info for 290 fonts, out of 8000000 for 9000
+ 21179 strings out of 478864
+ 331170 string characters out of 2858518
+ 774729 words of memory out of 3000000
+ 37999 multiletter control sequences out of 15000+600000
+ 453979 words of font info for 290 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,94p,1271b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
 /fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/p
 alatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pf
 b>
-Output written on main.pdf (66 pages, 3375702 bytes).
+Output written on main.pdf (66 pages, 3263874 bytes).
 PDF statistics:
- 991 PDF objects out of 1000 (max. 8388607)
- 232 named destinations out of 1000 (max. 500000)
- 79592 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 989 PDF objects out of 1000 (max. 8388607)
+ 231 named destinations out of 1000 (max. 500000)
+ 79587 words of extra memory for PDF output out of 89155 (max. 10000000)
 
