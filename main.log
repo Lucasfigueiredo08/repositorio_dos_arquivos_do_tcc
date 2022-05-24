@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  22 MAY 2022 21:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.2)  23 MAY 2022 22:54
 entering extended mode
 **./main.tex
 (main.tex
@@ -1932,18 +1932,18 @@ elar_carona.png> <./04-figuras/validacao/criticas_e_sugestoes.png>]
 \openout2 = `./02-elementos-textuais/resultados-finais.aux'.
 
 
-(02-elementos-textuais/resultados-finais.tex) [49
+(02-elementos-textuais/resultados-finais.tex [49
 
 
 
 
-]
+]) [50]
 \openout2 = `./03-elementos-pos-textuais/referencias.aux'.
 
 
 (03-elementos-pos-textuais/referencias.tex (main.bbl
 bibitemlist
-[50
+[51
 
 
 
@@ -1960,7 +1960,7 @@ Overfull \hbox (1.10391pt too wide) in paragraph at lines 121--126
 []a-[]construcao-[]de-[]cidades-[]inteligentes>[]$[][]. 
  []
 
-)) [51]
+)) [52]
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -1998,9 +1998,9 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  21179 strings out of 478864
- 331170 string characters out of 2858518
- 774729 words of memory out of 3000000
- 37999 multiletter control sequences out of 15000+600000
+ 331168 string characters out of 2858518
+ 774725 words of memory out of 3000000
+ 37998 multiletter control sequences out of 15000+600000
  453979 words of font info for 290 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,94p,1271b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2008,9 +2008,9 @@ Here is how much of TeX's memory you used:
 /fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/p
 alatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pf
 b>
-Output written on main.pdf (66 pages, 3263874 bytes).
+Output written on main.pdf (67 pages, 3266232 bytes).
 PDF statistics:
- 989 PDF objects out of 1000 (max. 8388607)
- 231 named destinations out of 1000 (max. 500000)
+ 994 PDF objects out of 1000 (max. 8388607)
+ 232 named destinations out of 1000 (max. 500000)
  79587 words of extra memory for PDF output out of 89155 (max. 10000000)
 
